@@ -14,7 +14,7 @@ use feature qw(fc);
 
 use JSON::XS::VersionOneAndTwo;
 
-use Slim::Utils::Strings qw(string);
+use Slim::Utils::Strings qw(string cstring);
 use Slim::Utils::Prefs;
 use Slim::Utils::Log;
 
@@ -91,10 +91,10 @@ sub _feedHandler {
                 my $json = eval { from_json($http->content) };
 
                 if ($prefs->get('groupByGenre')) {
-                    _parseChannelsWithGroupByGenre($json->{'channels'}, $menu);
+                    _parseChannelsWithGroupByGenre($client, $json->{'channels'}, $menu);
                 }
                 else {
-                    _parseChannels(_sortChannels($json->{'channels'}), $menu);
+                    _parseChannels($client, _sortChannels($json->{'channels'}), $menu);
                 }
 
                 $callback->({
@@ -119,15 +119,24 @@ sub _feedHandler {
 }
 
 sub _parseChannels {
-    my ($channels, $menu) = @_;
+    my ($client, $channels, $menu) = @_;
     
     for my $channel (@$channels) {
         push @$menu, _parseChannel($channel);
     }
+
+    if (!$prefs->get('groupByGenre')) {
+        push @$menu, {
+            name => cstring($client, 'PLUGIN_SOMAFM_BY_GENRE'),
+            type => 'menu',
+            image => 'html/images/genres.png',
+            items => [_parseChannelsWithGroupByGenre($client, $channels)]
+        };
+    }
 }
 
 sub _parseChannelsWithGroupByGenre {
-    my ($channels, $menu) = @_;
+    my ($client, $channels, $menu) = @_;
 
     my %menu_items;
 

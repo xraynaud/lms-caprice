@@ -22,15 +22,14 @@ This plugin is included in the default plugin list or Lyrion Music Server. Go to
 
 To add the plugin repository directly, add a new repository XML file
 
-    https://danielvijge.github.io/lms-somafm/public.xml
+    https://xraynaud.github.io/lms-capriceradio/public.xml
 
 To get development builds (which might or might not work), add
 
-    https://danielvijge.github.io/lms-somafm/public-dev.xml
+    https://xraynaud.github.io/lms-capriceradio/public-dev.xml
 
 ## Licence
 
 This plugin is licenced under the MIT Licence. See the file LICENSE for full details.
 
-Caprice Radio and the logo are a trademark of SomaFM.com, LLC.
-There is no association between SomaFM and this plugin.
+There is no association between Caprice Radio and this plugin.

@@ -1,20 +1,20 @@
 <extensions>
     <details>
-        <title lang="EN">SomaFM plugin repository</title>
+        <title lang="EN">CapriceRadio plugin repository</title>
     </details>
     <plugins>
-        <plugin name="SomaFM" version="{{ env['VERSION'] }}" minTarget="7.9" maxTarget="*">
-            <title lang="EN">SomaFM</title>
-            <desc lang="EN">Play radio channels from SomaFM</desc>
+        <plugin name="CapriceRadio" version="{{ env['VERSION'] }}" minTarget="7.9" maxTarget="*">
+            <title lang="EN">Caprice Radio</title>
+            <desc lang="EN">Play radio channels from Caprice Radio</desc>
             <category>radio</category>
             <icon>https://raw.githubusercontent.com/danielvijge/lms-somafm/main/HTML/EN/plugins/SomaFM/SomaFM_svg.png</icon>
 {%- if env['RELEASE_CHANNEL'] == 'release' %}
-            <url>https://github.com/danielvijge/lms-somafm/releases/download/{{ env['VERSION'] }}/somafm-{{ env['VERSION'] }}.zip</url>
+            <url>https://github.com/xraynaud/lms-caprice/releases/download/{{ env['VERSION'] }}/somacaprice-{{ env['VERSION'] }}.zip</url>
 {%- else %}
-            <url>https://danielvijge.github.io/lms-somafm/{{ env['FOLDER'] }}/somafm-{{ env['VERSION'] }}.zip</url>
+            <url>https://xraynaud.github.io/lms-caprice/{{ env['FOLDER'] }}/caprice-{{ env['VERSION'] }}.zip</url>
 {%- endif %}
-            <link>https://github.com/danielvijge/lms-somafm</link>
+            <link>https://github.com/xraynaud/lms-caprice</link>
             <sha>{{ env['SHA'] }}</sha>
-            <creator>Daniel Vijge</creator></plugin>
+            <creator>Xavier Raynaud, from SomaFM plugin by Daniel Vijge</creator></plugin>
     </plugins>
 </extensions>

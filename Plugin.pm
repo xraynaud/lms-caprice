@@ -1,6 +1,6 @@
-package Plugins::SomaFM::Plugin;
+package Plugins::CapriceRadio::Plugin;
 
-# Plugin to stream audio from SomaFM channels
+# Plugin to stream audio from Radio Caprice channels
 #
 # Released under the MIT Licence
 # Written by Daniel Vijge
@@ -22,22 +22,22 @@ use constant HTTP_TIMEOUT => 15;
 use constant HTTP_CACHE => 1;
 use constant HTTP_EXPIRES => '1h';
 
-use constant CHANNEL_API => 'http://api.somafm.com/channels.json';
+use constant CHANNEL_API => 'https://gist.github.com/TheNephalim/74f21ee8fca4b2e2480f56ea43253a22';
 
 my $log;
 
 # Get the data related to this plugin and preset certain variables with 
 # default values in case they are not set
-my $prefs = preferences('plugin.somafm');
+my $prefs = preferences('plugin.capriceradio');
 $prefs->init({ menuLocation => 'radio', orderBy => 'popular', groupByGenre => 0, streamingQuality => 'highest:aac', descriptionInTitle => 0, secondLineText => 'description' });
 
 # This is the entry point in the script
 BEGIN {
     # Initialize the logging
     $log = Slim::Utils::Log->addLogCategory({
-        'category'     => 'plugin.somafm',
+        'category'     => 'plugin.capriceradio',
         'defaultLevel' => 'ERROR',
-        'description'  => string('PLUGIN_SOMAFM'),
+        'description'  => string('PLUGIN_CAPRICERADIO'),
     });
 }
 
@@ -48,18 +48,18 @@ sub initPlugin {
 
     # Initialize the plugin with the given values. The 'feed' is the first
     # method called. The available menu entries will be shown in the new 
-    # menu entry 'somafm'.
+    # menu entry 'capriceradio'.
     $class->SUPER::initPlugin(
         feed   => \&_feedHandler,
-        tag    => 'somafm',
+        tag    => 'capriceradio',
         menu   => 'radios',
         is_app => $class->can('nonSNApps') && ($prefs->get('menuLocation') eq 'apps') ? 1 : undef,
         weight => 10,
     );
 
     if (!$::noweb) {
-        require Plugins::SomaFM::Settings;
-        Plugins::SomaFM::Settings->new;
+        require Plugins::CapriceRadio::Settings;
+        Plugins::CapriceRadio::Settings->new;
     }
 }
 
@@ -69,7 +69,7 @@ sub shutdownPlugin {
 }
 
 # Returns the name to display on the squeezebox
-sub getDisplayName { 'PLUGIN_SOMAFM' }
+sub getDisplayName { 'PLUGIN_CAPRICERADIO' }
 
 sub playerMenu { undef }
 
@@ -127,7 +127,7 @@ sub _parseChannels {
 
     if (!$prefs->get('groupByGenre')) {
         push @$menu, {
-            name => cstring($client, 'PLUGIN_SOMAFM_BY_GENRE'),
+            name => cstring($client, 'PLUGIN_CAPRICERADIO_BY_GENRE'),
             type => 'menu',
             image => 'html/images/genres.png',
             items => [_parseChannelsWithGroupByGenre($client, $channels)]
@@ -245,7 +245,7 @@ sub _getSecondLineText {
         return $channel->{'lastPlaying'};
     }
     elsif ($secondLineText eq 'listeners') {
-        return sprintf(string('PLUGIN_SOMAFM_SECOND_LINE_TEXT_LISTENERS_SPRINTF', $channel->{'listeners'}));
+        return sprintf(string('PLUGIN_CAPRICERADIO_SECOND_LINE_TEXT_LISTENERS_SPRINTF', $channel->{'listeners'}));
     }
     else {
         return $channel->{'description'};

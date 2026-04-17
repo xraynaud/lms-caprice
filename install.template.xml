@@ -1,17 +1,17 @@
 <?xml version="1.0"?>
 <extension>
     <name>PLUGIN_SOMAFM</name>
-    <module>Plugins::SomaFM::Plugin</module>
+    <module>Plugins::CapriceRadio::Plugin</module>
     <version>{{ env['VERSION'] }}</version>
     <description>PLUGIN_SOMAFM_DESC</description>
-    <icon>plugins/SomaFM/SomaFM_svg.png</icon>
+    <icon>plugins/CapriceRadio/CapriceRadio_svg.png</icon>
     <defaultState>enabled</defaultState>
     <targetApplication>
         <id>SlimServer</id>
         <minVersion>7.9</minVersion>
         <maxVersion>*</maxVersion>
     </targetApplication>
-    <optionsURL>plugins/SomaFM/settings/basic.html</optionsURL>
-    <creator>Daniel Vijge</creator>
-    <homepageURL>https://github.com/danielvijge/lms-somafm</homepageURL>
+    <optionsURL>plugins/CapriceRadio/settings/basic.html</optionsURL>
+    <creator>Xavier Raynaud, based on SomaFM plugin by Daniel Vijge</creator>
+    <homepageURL>https://github.com/xraynaud/lms-caprice</homepageURL>
 </extension>

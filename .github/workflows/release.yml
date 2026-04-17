@@ -44,11 +44,11 @@ jobs:
 
       - name: Build package
         run: |
-          zip -r somafm-${{ env.VERSION }}.zip . -x \*.zip \*.sh \*.git\* \*README\* \*sublime-\* \*.DS_Store\* \*.template.xml
+          zip -r capriceradio-${{ env.VERSION }}.zip . -x \*.zip \*.sh \*.git\* \*README\* \*sublime-\* \*.DS_Store\* \*.template.xml
       
       - name: Calculate SHA
         run: |
-          echo "SHA=$(shasum somafm-${{ env.VERSION }}.zip | awk '{print $1;}')" >> $GITHUB_ENV
+          echo "SHA=$(shasum capriceradio-${{ env.VERSION }}.zip | awk '{print $1;}')" >> $GITHUB_ENV
       
       - name: Create dev channel public XML file
         uses: cuchi/jinja2-action@v1.3.0
@@ -68,14 +68,14 @@ jobs:
       - name: Switch branch, setup git for push
         run: |
           mv public*.xml /tmp
-          mv somafm-${{ env.VERSION }}.zip /tmp
+          mv capriceradio-${{ env.VERSION }}.zip /tmp
           git checkout gh-pages
           cp /tmp/public*.xml .
-          cp /tmp/somafm-${{ env.VERSION }}*.zip ${{ env.FOLDER }}/
+          cp /tmp/capriceradio-${{ env.VERSION }}*.zip ${{ env.FOLDER }}/
           git config --local user.email "actions@github.com"
           git config --local user.name "GitHub Actions"
           if [ "${{ env.RELEASE_CHANNEL }}" == "dev" ]; then
-            git add ${{ env.FOLDER }}/somafm-${{ env.VERSION }}.zip
+            git add ${{ env.FOLDER }}/capriceradio-${{ env.VERSION }}.zip
             COMMIT_MESSAGE_TYPE="development build"
           else
             COMMIT_MESSAGE_TYPE="release"
@@ -100,4 +100,4 @@ jobs:
           draft: false
           prerelease: false
           files: |
-            somafm-${{ env.VERSION }}.zip
+            capriceradio-${{ env.VERSION }}.zip

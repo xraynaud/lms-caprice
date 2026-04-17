@@ -67,7 +67,6 @@ jobs:
 
       - name: Switch branch, setup git for push
         run: |
-          mkdir /tmp
           mv public*.xml /tmp
           mv capriceradio-${{ env.VERSION }}.zip /tmp
           git checkout gh-pages

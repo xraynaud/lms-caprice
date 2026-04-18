@@ -1,4 +1,4 @@
-# Caprice Radio plugin for Lyrion Music Server
+# Radio Caprice plugin for Lyrion Music Server
 
 A simple plugin to display a list of all Caprice Radio channels. A channel can then be played on Squeezebox hardware or compatible hardware of software players.
 
@@ -18,7 +18,7 @@ The channels are retrieved from the channel list provided by Caprice Radio, so a
 
 ## Installation
 
-This plugin is included in the default plugin list or Lyrion Music Server. Go to the settings page, click on _Manage Plugins_, and search for _Caprice Radio_. Restart Lyrion Music Server to finish the installation.
+This plugin is included in the default plugin list or Lyrion Music Server. Go to the settings page, click on _Manage Plugins_, and search for _Caprice_. Restart Lyrion Music Server to finish the installation.
 
 To add the plugin repository directly, add a new repository XML file
 

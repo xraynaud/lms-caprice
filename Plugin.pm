@@ -1,4 +1,4 @@
-package Plugins::CapriceRadio::Plugin;
+package Plugins::Caprice::Plugin;
 
 # Plugin to stream audio from Radio Caprice channels
 #
@@ -22,22 +22,22 @@ use constant HTTP_TIMEOUT => 15;
 use constant HTTP_CACHE => 1;
 use constant HTTP_EXPIRES => '1h';
 
-use constant CHANNEL_API => 'https://gist.github.com/TheNephalim/74f21ee8fca4b2e2480f56ea43253a22';
+use constant CHANNEL_API => 'https://gist.githubusercontent.com/xraynaud/040071f9e63718639748fd625fc9f2f5/raw/e6a1fc33b0ab351109eed9c474dddfb3f3758317/gistfile1.txt';
 
 my $log;
 
 # Get the data related to this plugin and preset certain variables with 
 # default values in case they are not set
-my $prefs = preferences('plugin.capriceradio');
+my $prefs = preferences('plugin.caprice');
 $prefs->init({ menuLocation => 'radio', orderBy => 'popular', groupByGenre => 0, streamingQuality => 'highest:aac', descriptionInTitle => 0, secondLineText => 'description' });
 
 # This is the entry point in the script
 BEGIN {
     # Initialize the logging
     $log = Slim::Utils::Log->addLogCategory({
-        'category'     => 'plugin.capriceradio',
+        'category'     => 'plugin.caprice',
         'defaultLevel' => 'ERROR',
-        'description'  => string('PLUGIN_CAPRICERADIO'),
+        'description'  => string('PLUGIN_CAPRICE'),
     });
 }
 
@@ -48,18 +48,18 @@ sub initPlugin {
 
     # Initialize the plugin with the given values. The 'feed' is the first
     # method called. The available menu entries will be shown in the new 
-    # menu entry 'capriceradio'.
+    # menu entry 'caprice'.
     $class->SUPER::initPlugin(
         feed   => \&_feedHandler,
-        tag    => 'capriceradio',
+        tag    => 'caprice',
         menu   => 'radios',
         is_app => $class->can('nonSNApps') && ($prefs->get('menuLocation') eq 'apps') ? 1 : undef,
         weight => 10,
     );
 
     if (!$::noweb) {
-        require Plugins::CapriceRadio::Settings;
-        Plugins::CapriceRadio::Settings->new;
+        require Plugins::Caprice::Settings;
+        Plugins::Caprice::Settings->new;
     }
 }
 
@@ -69,7 +69,7 @@ sub shutdownPlugin {
 }
 
 # Returns the name to display on the squeezebox
-sub getDisplayName { 'PLUGIN_CAPRICERADIO' }
+sub getDisplayName { 'PLUGIN_CAPRICE' }
 
 sub playerMenu { undef }
 
@@ -127,7 +127,7 @@ sub _parseChannels {
 
     if (!$prefs->get('groupByGenre')) {
         push @$menu, {
-            name => cstring($client, 'PLUGIN_CAPRICERADIO_BY_GENRE'),
+            name => cstring($client, 'PLUGIN_CAPRICE_BY_GENRE'),
             type => 'menu',
             image => 'html/images/genres.png',
             items => [_parseChannelsWithGroupByGenre($client, $channels)]
@@ -245,7 +245,7 @@ sub _getSecondLineText {
         return $channel->{'lastPlaying'};
     }
     elsif ($secondLineText eq 'listeners') {
-        return sprintf(string('PLUGIN_CAPRICERADIO_SECOND_LINE_TEXT_LISTENERS_SPRINTF', $channel->{'listeners'}));
+        return sprintf(string('PLUGIN_CAPRICE_SECOND_LINE_TEXT_LISTENERS_SPRINTF', $channel->{'listeners'}));
     }
     else {
         return $channel->{'description'};

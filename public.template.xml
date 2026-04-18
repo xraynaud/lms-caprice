@@ -1,13 +1,13 @@
 <extensions>
     <details>
-        <title lang="EN">CapriceRadio plugin repository</title>
+        <title lang="EN">Radio Caprice plugin repository</title>
     </details>
     <plugins>
-        <plugin name="CapriceRadio" version="{{ env['VERSION'] }}" minTarget="7.9" maxTarget="*">
-            <title lang="EN">Caprice Radio</title>
-            <desc lang="EN">Play radio channels from Caprice Radio</desc>
+        <plugin name="Caprice" version="{{ env['VERSION'] }}" minTarget="7.9" maxTarget="*">
+            <title lang="EN">Radio Caprice</title>
+            <desc lang="EN">Play radio channels from Radio Caprice</desc>
             <category>radio</category>
-            <icon>https://raw.githubusercontent.com/danielvijge/lms-somafm/main/HTML/EN/plugins/SomaFM/SomaFM_svg.png</icon>
+            <icon>https://raw.githubusercontent.com/xraynaud/lms-caprice/main/HTML/EN/plugins/Caprice/radcaplogo.png</icon>
 {%- if env['RELEASE_CHANNEL'] == 'release' %}
             <url>https://github.com/xraynaud/lms-caprice/releases/download/{{ env['VERSION'] }}/somacaprice-{{ env['VERSION'] }}.zip</url>
 {%- else %}

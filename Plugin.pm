@@ -1,6 +1,6 @@
 package Plugins::Caprice::Plugin;
 
-# Plugin to stream audio from Radio Caprice channels
+# Plugin to stream audio from Caprice channels
 #
 # Released under the MIT Licence
 # Written by Daniel Vijge
@@ -17,19 +17,14 @@ use JSON::XS::VersionOneAndTwo;
 use Slim::Utils::Strings qw(string cstring);
 use Slim::Utils::Prefs;
 use Slim::Utils::Log;
-
-use constant HTTP_TIMEOUT => 15;
-use constant HTTP_CACHE => 1;
-use constant HTTP_EXPIRES => '1h';
-
-use constant CHANNEL_API => 'https://gist.githubusercontent.com/xraynaud/040071f9e63718639748fd625fc9f2f5/raw/e6a1fc33b0ab351109eed9c474dddfb3f3758317/gistfile1.txt';
+use Slim::Utils::PluginManager;
 
 my $log;
 
 # Get the data related to this plugin and preset certain variables with 
 # default values in case they are not set
 my $prefs = preferences('plugin.caprice');
-$prefs->init({ menuLocation => 'radio', orderBy => 'popular', groupByGenre => 0, streamingQuality => 'highest:aac', descriptionInTitle => 0, secondLineText => 'description' });
+$prefs->init({ menuLocation => 'radio', groupByGenre => 1});
 
 # This is the entry point in the script
 BEGIN {
@@ -76,45 +71,53 @@ sub playerMenu { undef }
 sub _feedHandler {
     my ($client, $callback, $args, $passDict) = @_;
 
-    my $queryUrl = CHANNEL_API;
+    my $pluginName = 'Caprice';
+    my $pluginPath = Slim::Utils::PluginManager->allPlugins->{$pluginName}->{basedir};
+
+    my $filePath = File::Spec->catfile($pluginPath,"capricechannels.json");
 
     my $menu = [];
     my $fetch;
+
     $fetch = sub {
+        $log->debug("Lecture du fichier $filePath");
 
-        $log->debug("Fetching $queryUrl");
-        
-        Slim::Networking::SimpleAsyncHTTP->new(
-            # Called when a response has been received for the request.
-            sub {
-                my $http = shift;
-                my $json = eval { from_json($http->content) };
+        # Read JSON
+        open(my $fh, '<', $filePath) or do {
+            $log->error("Cannot open file $filePath : $!");
+            $callback->([{ name => "Error: Cannot open file $filePath", type => 'text' }]);
+            return;
+        };
 
-                if ($prefs->get('groupByGenre')) {
-                    _parseChannelsWithGroupByGenre($client, $json->{'channels'}, $menu);
-                }
-                else {
-                    _parseChannels($client, _sortChannels($json->{'channels'}), $menu);
-                }
+        local $/;  # Mode "slurp" pour lire tout le fichier
+        my $json_content = <$fh>;
+        close($fh);
 
-                $callback->({
-                    items  => $menu
-                });
-            },
-            # Called when no response was received or an error occurred.
-            sub {
-                $log->error("error: $_[1]");
-                $callback->([ { name => $_[1], type => 'text' } ]);
-            },
-            {
-                timeout       => HTTP_TIMEOUT,
-                cache         => HTTP_CACHE,
-                expires       => HTTP_EXPIRES,
-            }
-            
-        )->get($queryUrl);
+        # Décode le JSON
+        my $json;
+        eval {
+            $json = from_json($json_content);
+        };
+
+        if ($@) {
+            $log->error("Erreur de parsing JSON : $@");
+            $callback->([{ name => "Erreur : Format JSON invalide", type => 'text' }]);
+            return;
+        }
+
+        # Traite les données comme avant
+        if ($prefs->get('groupByGenre')) {
+            _parseChannelsWithGroupByGenre($client, $json->{'channels'}, $menu);
+        }
+        else {
+            _parseChannels($client, _sortChannels($json->{'channels'}), $menu);
+        }
+
+        $callback->({
+            items => $menu
+        });
     };
-        
+
     $fetch->();
 }
 

@@ -1,3 +1,6 @@
 *.zip
 install.xml
 public.xml
+HTML/EN/plugins/Caprice/logos.svg
+HTML/EN/plugins/Caprice/.DS_Store
+.gitignore

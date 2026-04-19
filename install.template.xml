@@ -4,7 +4,7 @@
     <module>Plugins::Caprice::Plugin</module>
     <version>{{ env['VERSION'] }}</version>
     <description>PLUGIN_CAPRICE_DESC</description>
-    <icon>plugins/Caprice/radcaplogo.png</icon>
+    <icon>plugins/Caprice/Caprice_svg.png</icon>
     <defaultState>enabled</defaultState>
     <targetApplication>
         <id>SlimServer</id>

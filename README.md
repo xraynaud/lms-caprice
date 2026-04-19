@@ -12,11 +12,7 @@ You can choose to display Caprice Radio in the Radio menu or My App menu.
 
 To add the plugin repository directly, add a new repository XML file
 
-    https://xraynaud.github.io/lms-capriceradio/public.xml
-
-To get development builds (which might or might not work), add
-
-    https://xraynaud.github.io/lms-capriceradio/public-dev.xml
+  https://raw.githubusercontent.com/xraynaud/lms-caprice/gh-pages/public-dev.xml
 
 ## Licence
 

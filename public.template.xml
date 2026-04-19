@@ -9,12 +9,14 @@
             <category>radio</category>
             <icon>https://raw.githubusercontent.com/xraynaud/lms-caprice/main/HTML/EN/plugins/Caprice/radcaplogo.png</icon>
 {%- if env['RELEASE_CHANNEL'] == 'release' %}
-            <url>https://github.com/xraynaud/lms-caprice/releases/download/{{ env['VERSION'] }}/somacaprice-{{ env['VERSION'] }}.zip</url>
+            <url>https://raw.githubusercontent.com/xraynaud/lms-caprice/gh-pages/dev-builds/{{ env['VERSION'] }}/somacaprice-{{ env['VERSION'] }}.zip</url>
 {%- else %}
-            <url>https://xraynaud.github.io/lms-caprice/{{ env['FOLDER'] }}/caprice-{{ env['VERSION'] }}.zip</url>
+            <url>https://raw.githubusercontent.com/xraynaud/lms-caprice/gh-pages/dev-builds/{{ env['FOLDER'] }}/caprice-{{ env['VERSION'] }}.zip</url>
 {%- endif %}
             <link>https://github.com/xraynaud/lms-caprice</link>
             <sha>{{ env['SHA'] }}</sha>
             <creator>Xavier Raynaud, from SomaFM plugin by Daniel Vijge</creator></plugin>
     </plugins>
 </extensions>
+
+https://raw.githubusercontent.com/xraynaud/lms-caprice/gh-pages/public-dev.xml

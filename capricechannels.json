@@ -12,7 +12,9 @@
       ],
       "listeners": 0,
       "image": "http://radcap.ru/stylegraf/abstracthiphop-c.jpg",
-      "genre": "Hip-hop / Rap Music"
+      "genre": "Hip-hop / Rap Music",
+      "largeimage": "http://radcap.ru/stylegraf/abstracthiphop-c.jpg",
+      "xlimage": "http://radcap.ru/stylegraf/abstracthiphop-c.jpg"
     },
     {
       "id": "accordion",
@@ -26,7 +28,9 @@
       ],
       "listeners": 0,
       "image": "http://radcap.ru/stylegraf/accordeon-c.jpg",
-      "genre": "Miscellaneous"
+      "genre": "Miscellaneous",
+      "largeimage": "http://radcap.ru/stylegraf/accordeon-c.jpg",
+      "xlimage": "http://radcap.ru/stylegraf/accordeon-c.jpg"
     },
     {
       "id": "acidjazz",
@@ -40,7 +44,9 @@
       ],
       "listeners": 0,
       "image": "http://radcap.ru/stylegraf/acidjazz-c.jpg",
-      "genre": "Jazz"
+      "genre": "Jazz",
+      "largeimage": "http://radcap.ru/stylegraf/acidjazz-c.jpg",
+      "xlimage": "http://radcap.ru/stylegraf/acidjazz-c.jpg"
     },
     {
       "id": "acousticblues",
@@ -54,7 +60,9 @@
       ],
       "listeners": 0,
       "image": "http://radcap.ru/stylegraf/acousticdlues-c.jpg",
-      "genre": "Blues/ Soul / Funk / R&B"
+      "genre": "Blues/ Soul / Funk / R&B",
+      "largeimage": "http://radcap.ru/stylegraf/acousticdlues-c.jpg",
+      "xlimage": "http://radcap.ru/stylegraf/acousticdlues-c.jpg"
     },
     {
       "id": "acousticguitar",
@@ -68,7 +76,9 @@
       ],
       "listeners": 0,
       "image": "http://radcap.ru/stylegraf/acousticguitar-c.jpg",
-      "genre": "Miscellaneous"
+      "genre": "Miscellaneous",
+      "largeimage": "http://radcap.ru/stylegraf/acousticguitar-c.jpg",
+      "xlimage": "http://radcap.ru/stylegraf/acousticguitar-c.jpg"
     },
     {
       "id": "alternativecountry",
@@ -82,7 +92,9 @@
       ],
       "listeners": 0,
       "image": "http://radcap.ru/stylegraf/altcountry-c.jpg",
-     "genre": "Country"
+      "genre": "Country",
+      "largeimage": "http://radcap.ru/stylegraf/altcountry-c.jpg",
+      "xlimage": "http://radcap.ru/stylegraf/altcountry-c.jpg"
     },
     {
       "id": "phonkdriftphonk",
@@ -96,7 +108,9 @@
       ],
       "listeners": 0,
       "image": "http://radcap.ru/stylegraf/phonk-c.jpg",
-      "genre": "Hip-hop / Rap Music"
+      "genre": "Hip-hop / Rap Music",
+      "largeimage": "http://radcap.ru/stylegraf/phonk-c.jpg",
+      "xlimage": "http://radcap.ru/stylegraf/phonk-c.jpg"
     },
     {
       "id": "alternativerock",
@@ -110,7 +124,9 @@
       ],
       "listeners": 0,
       "image": "http://radcap.ru/stylegraf/altrock-c.jpg",
-      "genre": "Rock Music"
+      "genre": "Rock Music",
+      "largeimage": "http://radcap.ru/stylegraf/altrock-c.jpg",
+      "xlimage": "http://radcap.ru/stylegraf/altrock-c.jpg"
     },
     {
       "id": "ambient",
@@ -124,7 +140,9 @@
       ],
       "listeners": 0,
       "image": "http://radcap.ru/stylegraf/ambient-c.jpg",
-      "genre": "Electronic Music"
+      "genre": "Electronic Music",
+      "largeimage": "http://radcap.ru/stylegraf/ambient-c.jpg",
+      "xlimage": "http://radcap.ru/stylegraf/ambient-c.jpg"
     },
     {
       "id": "ambientdub",
@@ -138,7 +156,9 @@
       ],
       "listeners": 0,
       "image": "http://radcap.ru/stylegraf/ambientdub-c.jpg",
-      "genre": "Electronic Music"
+      "genre": "Electronic Music",
+      "largeimage": "http://radcap.ru/stylegraf/ambientdub-c.jpg",
+      "xlimage": "http://radcap.ru/stylegraf/ambientdub-c.jpg"
     },
     {
       "id": "aormelodichardrock",
@@ -152,7 +172,9 @@
       ],
       "listeners": 0,
       "image": "http://radcap.ru/stylegraf/aor-c.jpg",
-      "genre": "Rock Music"
+      "genre": "Rock Music",
+      "largeimage": "http://radcap.ru/stylegraf/aor-c.jpg",
+      "xlimage": "http://radcap.ru/stylegraf/aor-c.jpg"
     },
     {
       "id": "arabicpopmusic",
@@ -166,7 +188,9 @@
       ],
       "listeners": 0,
       "image": "http://radcap.ru/stylegraf/arabicpop-c.jpg",
-      "genre": "Pop Music"
+      "genre": "Pop Music",
+      "largeimage": "http://radcap.ru/stylegraf/arabicpop-c.jpg",
+      "xlimage": "http://radcap.ru/stylegraf/arabicpop-c.jpg"
     },
     {
       "id": "artrock",
@@ -180,7 +204,9 @@
       ],
       "listeners": 0,
       "image": "http://radcap.ru/stylegraf/artrock-c.jpg",
-      "genre": "Rock Music"
+      "genre": "Rock Music",
+      "largeimage": "http://radcap.ru/stylegraf/artrock-c.jpg",
+      "xlimage": "http://radcap.ru/stylegraf/artrock-c.jpg"
     },
     {
       "id": "atmosphericambientblackmetal",
@@ -194,7 +220,9 @@
       ],
       "listeners": 0,
       "image": "http://radcap.ru/stylegraf/abm-c.jpg",
-      "genre": "Metal"
+      "genre": "Metal",
+      "largeimage": "http://radcap.ru/stylegraf/abm-c.jpg",
+      "xlimage": "http://radcap.ru/stylegraf/abm-c.jpg"
     },
     {
       "id": "avant-gardejazz",
@@ -208,7 +236,9 @@
       ],
       "listeners": 0,
       "image": "http://radcap.ru/stylegraf/avantjazz-c.jpg",
-      "genre": "Jazz"
+      "genre": "Jazz",
+      "largeimage": "http://radcap.ru/stylegraf/avantjazz-c.jpg",
+      "xlimage": "http://radcap.ru/stylegraf/avantjazz-c.jpg"
     },
     {
       "id": "avant-gardeexperimentalmetal",
@@ -222,7 +252,9 @@
       ],
       "listeners": 0,
       "image": "http://radcap.ru/stylegraf/avantmetal-c.jpg",
-      "genre": "Metal"
+      "genre": "Metal",
+      "largeimage": "http://radcap.ru/stylegraf/avantmetal-c.jpg",
+      "xlimage": "http://radcap.ru/stylegraf/avantmetal-c.jpg"
     },
     {
       "id": "ballroomdance",
@@ -236,7 +268,9 @@
       ],
       "listeners": 0,
       "image": "http://radcap.ru/stylegraf/ballroomdance-c.jpg",
-      "genre": "Miscellaneous"
+      "genre": "Miscellaneous",
+      "largeimage": "http://radcap.ru/stylegraf/ballroomdance-c.jpg",
+      "xlimage": "http://radcap.ru/stylegraf/ballroomdance-c.jpg"
     },
     {
       "id": "bigband",
@@ -250,7 +284,9 @@
       ],
       "listeners": 0,
       "image": "http://radcap.ru/stylegraf/bigband-c.jpg",
-      "genre": "Jazz"
+      "genre": "Jazz",
+      "largeimage": "http://radcap.ru/stylegraf/bigband-c.jpg",
+      "xlimage": "http://radcap.ru/stylegraf/bigband-c.jpg"
     },
     {
       "id": "blackdeathmetal",
@@ -264,7 +300,9 @@
       ],
       "listeners": 0,
       "image": "http://radcap.ru/stylegraf/blackdeath-c.jpg",
-      "genre": "Metal"
+      "genre": "Metal",
+      "largeimage": "http://radcap.ru/stylegraf/blackdeath-c.jpg",
+      "xlimage": "http://radcap.ru/stylegraf/blackdeath-c.jpg"
     },
     {
       "id": "blackmetal",
@@ -278,7 +316,9 @@
       ],
       "listeners": 0,
       "image": "http://radcap.ru/stylegraf/blackmetal-c.jpg",
-      "genre": "Metal"
+      "genre": "Metal",
+      "largeimage": "http://radcap.ru/stylegraf/blackmetal-c.jpg",
+      "xlimage": "http://radcap.ru/stylegraf/blackmetal-c.jpg"
     },
     {
       "id": "bluegrass",
@@ -292,7 +332,9 @@
       ],
       "listeners": 0,
       "image": "http://radcap.ru/stylegraf/bluegrass-c.jpg",
-     "genre": "Country"
+      "genre": "Country",
+      "largeimage": "http://radcap.ru/stylegraf/bluegrass-c.jpg",
+      "xlimage": "http://radcap.ru/stylegraf/bluegrass-c.jpg"
     },
     {
       "id": "blues",
@@ -306,7 +348,9 @@
       ],
       "listeners": 0,
       "image": "http://radcap.ru/stylegraf/blues-c.jpg",
-      "genre": "Blues/ Soul / Funk / R&B"
+      "genre": "Blues/ Soul / Funk / R&B",
+      "largeimage": "http://radcap.ru/stylegraf/blues-c.jpg",
+      "xlimage": "http://radcap.ru/stylegraf/blues-c.jpg"
     },
     {
       "id": "bluesrock",
@@ -320,7 +364,9 @@
       ],
       "listeners": 0,
       "image": "http://radcap.ru/stylegraf/bluesrock-c.jpg",
-      "genre": "Rock Music"
+      "genre": "Rock Music",
+      "largeimage": "http://radcap.ru/stylegraf/bluesrock-c.jpg",
+      "xlimage": "http://radcap.ru/stylegraf/bluesrock-c.jpg"
     },
     {
       "id": "bossanova",
@@ -334,7 +380,9 @@
       ],
       "listeners": 0,
       "image": "http://radcap.ru/stylegraf/bossanova-c.jpg",
-      "genre": "Jazz"
+      "genre": "Jazz",
+      "largeimage": "http://radcap.ru/stylegraf/bossanova-c.jpg",
+      "xlimage": "http://radcap.ru/stylegraf/bossanova-c.jpg"
     },
     {
       "id": "breakbeat",
@@ -348,7 +396,9 @@
       ],
       "listeners": 0,
       "image": "http://radcap.ru/stylegraf/breakbeat-c.jpg",
-      "genre": "Electronic Music"
+      "genre": "Electronic Music",
+      "largeimage": "http://radcap.ru/stylegraf/breakbeat-c.jpg",
+      "xlimage": "http://radcap.ru/stylegraf/breakbeat-c.jpg"
     },
     {
       "id": "britpoppostbritpop",
@@ -361,8 +411,10 @@
         }
       ],
       "listeners": 0,
-      "image": "http://radcap.ru/stylegraf/britpop-c.jpg",
-      "genre": "Rock Music"
+      "image": "http://radcap.ru/stylegraf/britpop-%D1%81.jpg",
+      "genre": "Rock Music",
+      "largeimage": "http://radcap.ru/stylegraf/britpop-%D1%81.jpg",
+      "xlimage": "http://radcap.ru/stylegraf/britpop-%D1%81.jpg"
     },
     {
       "id": "brutaldeathmetal",
@@ -376,7 +428,9 @@
       ],
       "listeners": 0,
       "image": "http://radcap.ru/stylegraf/brutal-c.jpg",
-      "genre": "Metal"
+      "genre": "Metal",
+      "largeimage": "http://radcap.ru/stylegraf/brutal-c.jpg",
+      "xlimage": "http://radcap.ru/stylegraf/brutal-c.jpg"
     },
     {
       "id": "celtic",
@@ -390,7 +444,9 @@
       ],
       "listeners": 0,
       "image": "http://radcap.ru/stylegraf/celtic-c.jpg",
-      "genre": "Ethnic / Folk / Spirit Music"
+      "genre": "Ethnic / Folk / Spirit Music",
+      "largeimage": "http://radcap.ru/stylegraf/celtic-c.jpg",
+      "xlimage": "http://radcap.ru/stylegraf/celtic-c.jpg"
     },
     {
       "id": "chicagoblues",
@@ -404,7 +460,9 @@
       ],
       "listeners": 0,
       "image": "http://radcap.ru/stylegraf/chicagoblues-c.jpg",
-      "genre": "Blues/ Soul / Funk / R&B"
+      "genre": "Blues/ Soul / Funk / R&B",
+      "largeimage": "http://radcap.ru/stylegraf/chicagoblues-c.jpg",
+      "xlimage": "http://radcap.ru/stylegraf/chicagoblues-c.jpg"
     },
     {
       "id": "chillout",
@@ -418,7 +476,9 @@
       ],
       "listeners": 0,
       "image": "http://radcap.ru/stylegraf/chillout-c.jpg",
-      "genre": "Electronic Music"
+      "genre": "Electronic Music",
+      "largeimage": "http://radcap.ru/stylegraf/chillout-c.jpg",
+      "xlimage": "http://radcap.ru/stylegraf/chillout-c.jpg"
     },
     {
       "id": "chiptune",
@@ -432,7 +492,9 @@
       ],
       "listeners": 0,
       "image": "http://radcap.ru/stylegraf/chiptune-c.jpg",
-      "genre": "Electronic Music"
+      "genre": "Electronic Music",
+      "largeimage": "http://radcap.ru/stylegraf/chiptune-c.jpg",
+      "xlimage": "http://radcap.ru/stylegraf/chiptune-c.jpg"
     },
     {
       "id": "classical",
@@ -446,7 +508,9 @@
       ],
       "listeners": 0,
       "image": "http://radcap.ru/stylegraf/symphonic-c.jpg",
-      "genre": "Classical"
+      "genre": "Classical",
+      "largeimage": "http://radcap.ru/stylegraf/symphonic-c.jpg",
+      "xlimage": "http://radcap.ru/stylegraf/symphonic-c.jpg"
     },
     {
       "id": "classicalbaroque",
@@ -460,7 +524,9 @@
       ],
       "listeners": 0,
       "image": "http://radcap.ru/stylegraf/baroque-c.jpg",
-      "genre": "Classical"
+      "genre": "Classical",
+      "largeimage": "http://radcap.ru/stylegraf/baroque-c.jpg",
+      "xlimage": "http://radcap.ru/stylegraf/baroque-c.jpg"
     },
     {
       "id": "classicalcrossover",
@@ -474,7 +540,9 @@
       ],
       "listeners": 0,
       "image": "http://radcap.ru/stylegraf/classcross-c.jpg",
-      "genre": "Pop Music"
+      "genre": "Pop Music",
+      "largeimage": "http://radcap.ru/stylegraf/classcross-c.jpg",
+      "xlimage": "http://radcap.ru/stylegraf/classcross-c.jpg"
     },
     {
       "id": "classicalpiano",
@@ -488,7 +556,9 @@
       ],
       "listeners": 0,
       "image": "http://radcap.ru/stylegraf/classicalpiano-c.jpg",
-      "genre": "Classical"
+      "genre": "Classical",
+      "largeimage": "http://radcap.ru/stylegraf/classicalpiano-c.jpg",
+      "xlimage": "http://radcap.ru/stylegraf/classicalpiano-c.jpg"
     },
     {
       "id": "classicrock",
@@ -502,7 +572,9 @@
       ],
       "listeners": 0,
       "image": "http://radcap.ru/stylegraf/classicrock-c.jpg",
-      "genre": "Rock Music"
+      "genre": "Rock Music",
+      "largeimage": "http://radcap.ru/stylegraf/classicrock-c.jpg",
+      "xlimage": "http://radcap.ru/stylegraf/classicrock-c.jpg"
     },
     {
       "id": "clubdance",
@@ -516,7 +588,9 @@
       ],
       "listeners": 0,
       "image": "http://radcap.ru/stylegraf/clubdance-c.jpg",
-      "genre": "Electronic Music"
+      "genre": "Electronic Music",
+      "largeimage": "http://radcap.ru/stylegraf/clubdance-c.jpg",
+      "xlimage": "http://radcap.ru/stylegraf/clubdance-c.jpg"
     },
     {
       "id": "computervideogamesmusic",
@@ -530,7 +604,9 @@
       ],
       "listeners": 0,
       "image": "http://radcap.ru/stylegraf/game-c.jpg",
-      "genre": "Miscellaneous"
+      "genre": "Miscellaneous",
+      "largeimage": "http://radcap.ru/stylegraf/game-c.jpg",
+      "xlimage": "http://radcap.ru/stylegraf/game-c.jpg"
     },
     {
       "id": "contemporaryjazz",
@@ -544,7 +620,9 @@
       ],
       "listeners": 0,
       "image": "http://radcap.ru/stylegraf/contemporaryjazz-c.jpg",
-      "genre": "Jazz"
+      "genre": "Jazz",
+      "largeimage": "http://radcap.ru/stylegraf/contemporaryjazz-c.jpg",
+      "xlimage": "http://radcap.ru/stylegraf/contemporaryjazz-c.jpg"
     },
     {
       "id": "coolwestcoastjazz",
@@ -558,7 +636,9 @@
       ],
       "listeners": 0,
       "image": "http://radcap.ru/stylegraf/cooljazz-c.jpg",
-      "genre": "Jazz"
+      "genre": "Jazz",
+      "largeimage": "http://radcap.ru/stylegraf/cooljazz-c.jpg",
+      "xlimage": "http://radcap.ru/stylegraf/cooljazz-c.jpg"
     },
     {
       "id": "country",
@@ -572,7 +652,9 @@
       ],
       "listeners": 0,
       "image": "http://radcap.ru/stylegraf/country-c.jpg",
-     "genre": "Country"
+      "genre": "Country",
+      "largeimage": "http://radcap.ru/stylegraf/country-c.jpg",
+      "xlimage": "http://radcap.ru/stylegraf/country-c.jpg"
     },
     {
       "id": "countryblues",
@@ -586,7 +668,9 @@
       ],
       "listeners": 0,
       "image": "http://radcap.ru/stylegraf/countryblues-c.jpg",
-      "genre": "Blues/ Soul / Funk / R&B"
+      "genre": "Blues/ Soul / Funk / R&B",
+      "largeimage": "http://radcap.ru/stylegraf/countryblues-c.jpg",
+      "xlimage": "http://radcap.ru/stylegraf/countryblues-c.jpg"
     },
     {
       "id": "countrypop",
@@ -600,7 +684,9 @@
       ],
       "listeners": 0,
       "image": "http://radcap.ru/stylegraf/countrypop-c.jpg",
-     "genre": "Country"
+      "genre": "Country",
+      "largeimage": "http://radcap.ru/stylegraf/countrypop-c.jpg",
+      "xlimage": "http://radcap.ru/stylegraf/countrypop-c.jpg"
     },
     {
       "id": "countryrock",
@@ -614,7 +700,9 @@
       ],
       "listeners": 0,
       "image": "http://radcap.ru/stylegraf/countryrock-c.jpg",
-      "genre": "Rock Music"
+      "genre": "Rock Music",
+      "largeimage": "http://radcap.ru/stylegraf/countryrock-c.jpg",
+      "xlimage": "http://radcap.ru/stylegraf/countryrock-c.jpg"
     },
     {
       "id": "crustpunk",
@@ -628,7 +716,9 @@
       ],
       "listeners": 0,
       "image": "http://radcap.ru/stylegraf/crust-c.jpg",
-      "genre": "Metal"
+      "genre": "Metal",
+      "largeimage": "http://radcap.ru/stylegraf/crust-c.jpg",
+      "xlimage": "http://radcap.ru/stylegraf/crust-c.jpg"
     },
     {
       "id": "dancepop",
@@ -642,7 +732,9 @@
       ],
       "listeners": 0,
       "image": "http://radcap.ru/stylegraf/dancepop-c.jpg",
-      "genre": "Pop Music"
+      "genre": "Pop Music",
+      "largeimage": "http://radcap.ru/stylegraf/dancepop-c.jpg",
+      "xlimage": "http://radcap.ru/stylegraf/dancepop-c.jpg"
     },
     {
       "id": "dancehallraggamuffin",
@@ -656,7 +748,9 @@
       ],
       "listeners": 0,
       "image": "http://radcap.ru/stylegraf/dancehall-c.jpg",
-      "genre": "Reggae / Ska"
+      "genre": "Reggae / Ska",
+      "largeimage": "http://radcap.ru/stylegraf/dancehall-c.jpg",
+      "xlimage": "http://radcap.ru/stylegraf/dancehall-c.jpg"
     },
     {
       "id": "darkambient",
@@ -670,7 +764,9 @@
       ],
       "listeners": 0,
       "image": "http://radcap.ru/stylegraf/ritamb-c.jpg",
-      "genre": "Electronic Music"
+      "genre": "Electronic Music",
+      "largeimage": "http://radcap.ru/stylegraf/ritamb-c.jpg",
+      "xlimage": "http://radcap.ru/stylegraf/ritamb-c.jpg"
     },
     {
       "id": "darkdubstep",
@@ -684,7 +780,9 @@
       ],
       "listeners": 0,
       "image": "http://radcap.ru/stylegraf/darkdubstep-c.jpg",
-      "genre": "Electronic Music"
+      "genre": "Electronic Music",
+      "largeimage": "http://radcap.ru/stylegraf/darkdubstep-c.jpg",
+      "xlimage": "http://radcap.ru/stylegraf/darkdubstep-c.jpg"
     },
     {
       "id": "darkelectro",
@@ -698,7 +796,9 @@
       ],
       "listeners": 0,
       "image": "http://radcap.ru/stylegraf/darkelektro-c.jpg",
-      "genre": "Electronic Music"
+      "genre": "Electronic Music",
+      "largeimage": "http://radcap.ru/stylegraf/darkelektro-c.jpg",
+      "xlimage": "http://radcap.ru/stylegraf/darkelektro-c.jpg"
     },
     {
       "id": "darkneoapocalypticfolk",
@@ -712,7 +812,9 @@
       ],
       "listeners": 0,
       "image": "http://radcap.ru/stylegraf/neofolk-c.jpg",
-      "genre": "Electronic Music"
+      "genre": "Electronic Music",
+      "largeimage": "http://radcap.ru/stylegraf/neofolk-c.jpg",
+      "xlimage": "http://radcap.ru/stylegraf/neofolk-c.jpg"
     },
     {
       "id": "darkjazz",
@@ -726,7 +828,9 @@
       ],
       "listeners": 0,
       "image": "http://radcap.ru/stylegraf/darkjazz-c.jpg",
-      "genre": "Jazz"
+      "genre": "Jazz",
+      "largeimage": "http://radcap.ru/stylegraf/darkjazz-c.jpg",
+      "xlimage": "http://radcap.ru/stylegraf/darkjazz-c.jpg"
     },
     {
       "id": "darkmetal",
@@ -740,7 +844,9 @@
       ],
       "listeners": 0,
       "image": "http://radcap.ru/stylegraf/darkmetal-c.jpg",
-      "genre": "Metal"
+      "genre": "Metal",
+      "largeimage": "http://radcap.ru/stylegraf/darkmetal-c.jpg",
+      "xlimage": "http://radcap.ru/stylegraf/darkmetal-c.jpg"
     },
     {
       "id": "darkpsytrance",
@@ -754,7 +860,9 @@
       ],
       "listeners": 0,
       "image": "http://radcap.ru/stylegraf/darkpsytrance-c.jpg",
-      "genre": "Electronic Music"
+      "genre": "Electronic Music",
+      "largeimage": "http://radcap.ru/stylegraf/darkpsytrance-c.jpg",
+      "xlimage": "http://radcap.ru/stylegraf/darkpsytrance-c.jpg"
     },
     {
       "id": "darktechno",
@@ -768,7 +876,9 @@
       ],
       "listeners": 0,
       "image": "http://radcap.ru/stylegraf/darktechno-c.jpg",
-      "genre": "Electronic Music"
+      "genre": "Electronic Music",
+      "largeimage": "http://radcap.ru/stylegraf/darktechno-c.jpg",
+      "xlimage": "http://radcap.ru/stylegraf/darktechno-c.jpg"
     },
     {
       "id": "darkwave",
@@ -782,7 +892,9 @@
       ],
       "listeners": 0,
       "image": "http://radcap.ru/stylegraf/darkwave-c.jpg",
-      "genre": "Rock Music"
+      "genre": "Rock Music",
+      "largeimage": "http://radcap.ru/stylegraf/darkwave-c.jpg",
+      "xlimage": "http://radcap.ru/stylegraf/darkwave-c.jpg"
     },
     {
       "id": "deathdoommetal",
@@ -796,7 +908,9 @@
       ],
       "listeners": 0,
       "image": "http://radcap.ru/stylegraf/deathdoom-c.jpg",
-      "genre": "Metal"
+      "genre": "Metal",
+      "largeimage": "http://radcap.ru/stylegraf/deathdoom-c.jpg",
+      "xlimage": "http://radcap.ru/stylegraf/deathdoom-c.jpg"
     },
     {
       "id": "deathmetal",
@@ -810,7 +924,9 @@
       ],
       "listeners": 0,
       "image": "http://radcap.ru/stylegraf/deathmetal-c.jpg",
-      "genre": "Metal"
+      "genre": "Metal",
+      "largeimage": "http://radcap.ru/stylegraf/deathmetal-c.jpg",
+      "xlimage": "http://radcap.ru/stylegraf/deathmetal-c.jpg"
     },
     {
       "id": "deathcore",
@@ -824,7 +940,9 @@
       ],
       "listeners": 0,
       "image": "http://radcap.ru/stylegraf/deathcore-c.jpg",
-      "genre": "Metal"
+      "genre": "Metal",
+      "largeimage": "http://radcap.ru/stylegraf/deathcore-c.jpg",
+      "xlimage": "http://radcap.ru/stylegraf/deathcore-c.jpg"
     },
     {
       "id": "deathstep",
@@ -838,7 +956,9 @@
       ],
       "listeners": 0,
       "image": "http://radcap.ru/stylegraf/deathstep-c.jpg",
-      "genre": "Electronic Music"
+      "genre": "Electronic Music",
+      "largeimage": "http://radcap.ru/stylegraf/deathstep-c.jpg",
+      "xlimage": "http://radcap.ru/stylegraf/deathstep-c.jpg"
     },
     {
       "id": "deephouse",
@@ -852,7 +972,9 @@
       ],
       "listeners": 0,
       "image": "http://radcap.ru/stylegraf/deephouse-c.jpg",
-      "genre": "Electronic Music"
+      "genre": "Electronic Music",
+      "largeimage": "http://radcap.ru/stylegraf/deephouse-c.jpg",
+      "xlimage": "http://radcap.ru/stylegraf/deephouse-c.jpg"
     },
     {
       "id": "deltablues",
@@ -866,7 +988,9 @@
       ],
       "listeners": 0,
       "image": "http://radcap.ru/stylegraf/deltablues-c.jpg",
-      "genre": "Blues/ Soul / Funk / R&B"
+      "genre": "Blues/ Soul / Funk / R&B",
+      "largeimage": "http://radcap.ru/stylegraf/deltablues-c.jpg",
+      "xlimage": "http://radcap.ru/stylegraf/deltablues-c.jpg"
     },
     {
       "id": "depressiveblackmetal",
@@ -880,7 +1004,9 @@
       ],
       "listeners": 0,
       "image": "http://radcap.ru/stylegraf/depressive-c.jpg",
-      "genre": "Metal"
+      "genre": "Metal",
+      "largeimage": "http://radcap.ru/stylegraf/depressive-c.jpg",
+      "xlimage": "http://radcap.ru/stylegraf/depressive-c.jpg"
     },
     {
       "id": "disco",
@@ -894,7 +1020,9 @@
       ],
       "listeners": 0,
       "image": "http://radcap.ru/stylegraf/disco-c.jpg",
-      "genre": "Pop Music"
+      "genre": "Pop Music",
+      "largeimage": "http://radcap.ru/stylegraf/disco-c.jpg",
+      "xlimage": "http://radcap.ru/stylegraf/disco-c.jpg"
     },
     {
       "id": "dixieland",
@@ -908,7 +1036,9 @@
       ],
       "listeners": 0,
       "image": "http://radcap.ru/stylegraf/dixieland-c.jpg",
-      "genre": "Jazz"
+      "genre": "Jazz",
+      "largeimage": "http://radcap.ru/stylegraf/dixieland-c.jpg",
+      "xlimage": "http://radcap.ru/stylegraf/dixieland-c.jpg"
     },
     {
       "id": "doommetal",
@@ -922,7 +1052,9 @@
       ],
       "listeners": 0,
       "image": "http://radcap.ru/stylegraf/doom-c.jpg",
-      "genre": "Metal"
+      "genre": "Metal",
+      "largeimage": "http://radcap.ru/stylegraf/doom-c.jpg",
+      "xlimage": "http://radcap.ru/stylegraf/doom-c.jpg"
     },
     {
       "id": "downtempo",
@@ -936,7 +1068,9 @@
       ],
       "listeners": 0,
       "image": "http://radcap.ru/stylegraf/downtempo-c.jpg",
-      "genre": "Electronic Music"
+      "genre": "Electronic Music",
+      "largeimage": "http://radcap.ru/stylegraf/downtempo-c.jpg",
+      "xlimage": "http://radcap.ru/stylegraf/downtempo-c.jpg"
     },
     {
       "id": "dreampop",
@@ -950,7 +1084,9 @@
       ],
       "listeners": 0,
       "image": "http://radcap.ru/stylegraf/dreampop-c.jpg",
-      "genre": "Rock Music"
+      "genre": "Rock Music",
+      "largeimage": "http://radcap.ru/stylegraf/dreampop-c.jpg",
+      "xlimage": "http://radcap.ru/stylegraf/dreampop-c.jpg"
     },
     {
       "id": "dreamtrance",
@@ -964,7 +1100,9 @@
       ],
       "listeners": 0,
       "image": "http://radcap.ru/stylegraf/dreamtrance-c.jpg",
-      "genre": "Electronic Music"
+      "genre": "Electronic Music",
+      "largeimage": "http://radcap.ru/stylegraf/dreamtrance-c.jpg",
+      "xlimage": "http://radcap.ru/stylegraf/dreamtrance-c.jpg"
     },
     {
       "id": "droneambient",
@@ -978,7 +1116,9 @@
       ],
       "listeners": 0,
       "image": "http://radcap.ru/stylegraf/droneambient-c.jpg",
-      "genre": "Electronic Music"
+      "genre": "Electronic Music",
+      "largeimage": "http://radcap.ru/stylegraf/droneambient-c.jpg",
+      "xlimage": "http://radcap.ru/stylegraf/droneambient-c.jpg"
     },
     {
       "id": "dronemetal",
@@ -992,7 +1132,9 @@
       ],
       "listeners": 0,
       "image": "http://radcap.ru/stylegraf/dronemetal-c.jpg",
-      "genre": "Metal"
+      "genre": "Metal",
+      "largeimage": "http://radcap.ru/stylegraf/dronemetal-c.jpg",
+      "xlimage": "http://radcap.ru/stylegraf/dronemetal-c.jpg"
     },
     {
       "id": "drum&bass",
@@ -1006,7 +1148,9 @@
       ],
       "listeners": 0,
       "image": "http://radcap.ru/stylegraf/drumnbass-c.jpg",
-      "genre": "Electronic Music"
+      "genre": "Electronic Music",
+      "largeimage": "http://radcap.ru/stylegraf/drumnbass-c.jpg",
+      "xlimage": "http://radcap.ru/stylegraf/drumnbass-c.jpg"
     },
     {
       "id": "drumstep",
@@ -1020,7 +1164,9 @@
       ],
       "listeners": 0,
       "image": "http://radcap.ru/stylegraf/drumstep-c.jpg",
-      "genre": "Electronic Music"
+      "genre": "Electronic Music",
+      "largeimage": "http://radcap.ru/stylegraf/drumstep-c.jpg",
+      "xlimage": "http://radcap.ru/stylegraf/drumstep-c.jpg"
     },
     {
       "id": "dub",
@@ -1034,7 +1180,9 @@
       ],
       "listeners": 0,
       "image": "http://radcap.ru/stylegraf/dub-c.jpg",
-      "genre": "Reggae / Ska"
+      "genre": "Reggae / Ska",
+      "largeimage": "http://radcap.ru/stylegraf/dub-c.jpg",
+      "xlimage": "http://radcap.ru/stylegraf/dub-c.jpg"
     },
     {
       "id": "dubtechno",
@@ -1048,7 +1196,9 @@
       ],
       "listeners": 0,
       "image": "http://radcap.ru/stylegraf/dubtechno-c.jpg",
-      "genre": "Electronic Music"
+      "genre": "Electronic Music",
+      "largeimage": "http://radcap.ru/stylegraf/dubtechno-c.jpg",
+      "xlimage": "http://radcap.ru/stylegraf/dubtechno-c.jpg"
     },
     {
       "id": "dubstep",
@@ -1062,7 +1212,9 @@
       ],
       "listeners": 0,
       "image": "http://radcap.ru/stylegraf/dubstep-c.jpg",
-      "genre": "Electronic Music"
+      "genre": "Electronic Music",
+      "largeimage": "http://radcap.ru/stylegraf/dubstep-c.jpg",
+      "xlimage": "http://radcap.ru/stylegraf/dubstep-c.jpg"
     },
     {
       "id": "eastcoastrap",
@@ -1076,7 +1228,9 @@
       ],
       "listeners": 0,
       "image": "http://radcap.ru/stylegraf/eastcoastrap-c.jpg",
-      "genre": "Hip-hop / Rap Music"
+      "genre": "Hip-hop / Rap Music",
+      "largeimage": "http://radcap.ru/stylegraf/eastcoastrap-c.jpg",
+      "xlimage": "http://radcap.ru/stylegraf/eastcoastrap-c.jpg"
     },
     {
       "id": "easylistening",
@@ -1090,7 +1244,9 @@
       ],
       "listeners": 0,
       "image": "http://radcap.ru/stylegraf/easylistening-c.jpg",
-      "genre": "Miscellaneous"
+      "genre": "Miscellaneous",
+      "largeimage": "http://radcap.ru/stylegraf/easylistening-c.jpg",
+      "xlimage": "http://radcap.ru/stylegraf/easylistening-c.jpg"
     },
     {
       "id": "ebm",
@@ -1104,7 +1260,9 @@
       ],
       "listeners": 0,
       "image": "http://radcap.ru/stylegraf/ebm-c.jpg",
-      "genre": "Electronic Music"
+      "genre": "Electronic Music",
+      "largeimage": "http://radcap.ru/stylegraf/ebm-c.jpg",
+      "xlimage": "http://radcap.ru/stylegraf/ebm-c.jpg"
     },
     {
       "id": "electro",
@@ -1118,7 +1276,9 @@
       ],
       "listeners": 0,
       "image": "http://radcap.ru/stylegraf/electro-c.jpg",
-      "genre": "Electronic Music"
+      "genre": "Electronic Music",
+      "largeimage": "http://radcap.ru/stylegraf/electro-c.jpg",
+      "xlimage": "http://radcap.ru/stylegraf/electro-c.jpg"
     },
     {
       "id": "electrohouse",
@@ -1132,7 +1292,9 @@
       ],
       "listeners": 0,
       "image": "http://radcap.ru/stylegraf/electrohouse-c.jpg",
-      "genre": "Electronic Music"
+      "genre": "Electronic Music",
+      "largeimage": "http://radcap.ru/stylegraf/electrohouse-c.jpg",
+      "xlimage": "http://radcap.ru/stylegraf/electrohouse-c.jpg"
     },
     {
       "id": "electroclash",
@@ -1146,7 +1308,9 @@
       ],
       "listeners": 0,
       "image": "http://radcap.ru/stylegraf/electroclash-c.jpg",
-      "genre": "Electronic Music"
+      "genre": "Electronic Music",
+      "largeimage": "http://radcap.ru/stylegraf/electroclash-c.jpg",
+      "xlimage": "http://radcap.ru/stylegraf/electroclash-c.jpg"
     },
     {
       "id": "electro-industrial",
@@ -1160,7 +1324,9 @@
       ],
       "listeners": 0,
       "image": "http://radcap.ru/stylegraf/elindustr-c.jpg",
-      "genre": "Electronic Music"
+      "genre": "Electronic Music",
+      "largeimage": "http://radcap.ru/stylegraf/elindustr-c.jpg",
+      "xlimage": "http://radcap.ru/stylegraf/elindustr-c.jpg"
     },
     {
       "id": "ethnicelectronica",
@@ -1174,7 +1340,9 @@
       ],
       "listeners": 0,
       "image": "http://radcap.ru/stylegraf/ethnotronica-c.jpg",
-      "genre": "Electronic Music"
+      "genre": "Electronic Music",
+      "largeimage": "http://radcap.ru/stylegraf/ethnotronica-c.jpg",
+      "xlimage": "http://radcap.ru/stylegraf/ethnotronica-c.jpg"
     },
     {
       "id": "eurodisco",
@@ -1188,7 +1356,9 @@
       ],
       "listeners": 0,
       "image": "http://radcap.ru/stylegraf/eurodisco-c.jpg",
-      "genre": "Pop Music"
+      "genre": "Pop Music",
+      "largeimage": "http://radcap.ru/stylegraf/eurodisco-c.jpg",
+      "xlimage": "http://radcap.ru/stylegraf/eurodisco-c.jpg"
     },
     {
       "id": "eurohouse",
@@ -1202,7 +1372,9 @@
       ],
       "listeners": 0,
       "image": "http://radcap.ru/stylegraf/eurohouse-c.jpg",
-      "genre": "Electronic Music"
+      "genre": "Electronic Music",
+      "largeimage": "http://radcap.ru/stylegraf/eurohouse-c.jpg",
+      "xlimage": "http://radcap.ru/stylegraf/eurohouse-c.jpg"
     },
     {
       "id": "eurodance",
@@ -1216,12 +1388,13 @@
       ],
       "listeners": 0,
       "image": "http://radcap.ru/stylegraf/eurodance-c.jpg",
-      "genre": "Pop Music"
+      "genre": "Pop Music",
+      "largeimage": "http://radcap.ru/stylegraf/eurodance-c.jpg",
+      "xlimage": "http://radcap.ru/stylegraf/eurodance-c.jpg"
     },
     {
       "id": "experimentalmusic",
       "title": "Experimental Music",
-      
       "playlists": [
         {
           "format": "mp3",
@@ -1231,7 +1404,9 @@
       ],
       "listeners": 0,
       "image": "http://radcap.ru/stylegraf/experimentalmusic-c.jpg",
-      "genre": "Miscellaneous"
+      "genre": "Miscellaneous",
+      "largeimage": "http://radcap.ru/stylegraf/experimentalmusic-c.jpg",
+      "xlimage": "http://radcap.ru/stylegraf/experimentalmusic-c.jpg"
     },
     {
       "id": "fareastmusic",
@@ -1245,7 +1420,9 @@
       ],
       "listeners": 0,
       "image": "http://radcap.ru/stylegraf/fareast-c.jpg",
-      "genre": "Ethnic / Folk / Spirit Music"
+      "genre": "Ethnic / Folk / Spirit Music",
+      "largeimage": "http://radcap.ru/stylegraf/fareast-c.jpg",
+      "xlimage": "http://radcap.ru/stylegraf/fareast-c.jpg"
     },
     {
       "id": "femalevocalinmetal",
@@ -1259,12 +1436,14 @@
       ],
       "listeners": 0,
       "image": "http://radcap.ru/stylegraf/femalemetal-c.jpg",
-      "genre": "Metal"
+      "genre": "Metal",
+      "largeimage": "http://radcap.ru/stylegraf/femalemetal-c.jpg",
+      "xlimage": "http://radcap.ru/stylegraf/femalemetal-c.jpg"
     },
     {
       "id": "flamenco",
       "title": "Flamenco",
-       "playlists": [
+      "playlists": [
         {
           "format": "mp3",
           "quality": "high",
@@ -1273,7 +1452,9 @@
       ],
       "listeners": 0,
       "image": "http://radcap.ru/stylegraf/flamenco-c.jpg",
-      "genre": "Ethnic / Folk / Spirit Music"
+      "genre": "Ethnic / Folk / Spirit Music",
+      "largeimage": "http://radcap.ru/stylegraf/flamenco-c.jpg",
+      "xlimage": "http://radcap.ru/stylegraf/flamenco-c.jpg"
     },
     {
       "id": "flute",
@@ -1287,7 +1468,9 @@
       ],
       "listeners": 0,
       "image": "http://radcap.ru/stylegraf/flute-c.jpg",
-      "genre": "Miscellaneous"
+      "genre": "Miscellaneous",
+      "largeimage": "http://radcap.ru/stylegraf/flute-c.jpg",
+      "xlimage": "http://radcap.ru/stylegraf/flute-c.jpg"
     },
     {
       "id": "folkmetal",
@@ -1301,7 +1484,9 @@
       ],
       "listeners": 0,
       "image": "http://radcap.ru/stylegraf/folkmetal-c.jpg",
-      "genre": "Metal"
+      "genre": "Metal",
+      "largeimage": "http://radcap.ru/stylegraf/folkmetal-c.jpg",
+      "xlimage": "http://radcap.ru/stylegraf/folkmetal-c.jpg"
     },
     {
       "id": "folkrock",
@@ -1315,7 +1500,9 @@
       ],
       "listeners": 0,
       "image": "http://radcap.ru/stylegraf/folkrock-c.jpg",
-      "genre": "Rock Music"
+      "genre": "Rock Music",
+      "largeimage": "http://radcap.ru/stylegraf/folkrock-c.jpg",
+      "xlimage": "http://radcap.ru/stylegraf/folkrock-c.jpg"
     },
     {
       "id": "freejazz",
@@ -1329,7 +1516,9 @@
       ],
       "listeners": 0,
       "image": "http://radcap.ru/stylegraf/freejazz-c.jpg",
-      "genre": "Jazz"
+      "genre": "Jazz",
+      "largeimage": "http://radcap.ru/stylegraf/freejazz-c.jpg",
+      "xlimage": "http://radcap.ru/stylegraf/freejazz-c.jpg"
     },
     {
       "id": "chanson",
@@ -1343,7 +1532,9 @@
       ],
       "listeners": 0,
       "image": "http://radcap.ru/stylegraf/frenchchanson-c.jpg",
-      "genre": "Pop Music"
+      "genre": "Pop Music",
+      "largeimage": "http://radcap.ru/stylegraf/frenchchanson-c.jpg",
+      "xlimage": "http://radcap.ru/stylegraf/frenchchanson-c.jpg"
     },
     {
       "id": "fullon",
@@ -1357,7 +1548,9 @@
       ],
       "listeners": 0,
       "image": "http://radcap.ru/stylegraf/fullon-c.jpg",
-      "genre": "Electronic Music"
+      "genre": "Electronic Music",
+      "largeimage": "http://radcap.ru/stylegraf/fullon-c.jpg",
+      "xlimage": "http://radcap.ru/stylegraf/fullon-c.jpg"
     },
     {
       "id": "funeraldoommetal",
@@ -1371,7 +1564,9 @@
       ],
       "listeners": 0,
       "image": "http://radcap.ru/stylegraf/fdm-c.jpg",
-      "genre": "Metal"
+      "genre": "Metal",
+      "largeimage": "http://radcap.ru/stylegraf/fdm-c.jpg",
+      "xlimage": "http://radcap.ru/stylegraf/fdm-c.jpg"
     },
     {
       "id": "funk",
@@ -1385,7 +1580,9 @@
       ],
       "listeners": 0,
       "image": "http://radcap.ru/stylegraf/funk-c.jpg",
-      "genre": "Blues/ Soul / Funk / R&B"
+      "genre": "Blues/ Soul / Funk / R&B",
+      "largeimage": "http://radcap.ru/stylegraf/funk-c.jpg",
+      "xlimage": "http://radcap.ru/stylegraf/funk-c.jpg"
     },
     {
       "id": "futuregaragechillstepdeepdubstep",
@@ -1399,7 +1596,9 @@
       ],
       "listeners": 0,
       "image": "http://radcap.ru/stylegraf/chillstep-c.jpg",
-      "genre": "Electronic Music"
+      "genre": "Electronic Music",
+      "largeimage": "http://radcap.ru/stylegraf/chillstep-c.jpg",
+      "xlimage": "http://radcap.ru/stylegraf/chillstep-c.jpg"
     },
     {
       "id": "futurepop",
@@ -1413,7 +1612,9 @@
       ],
       "listeners": 0,
       "image": "http://radcap.ru/stylegraf/futurepop-c.jpg",
-      "genre": "Electronic Music"
+      "genre": "Electronic Music",
+      "largeimage": "http://radcap.ru/stylegraf/futurepop-c.jpg",
+      "xlimage": "http://radcap.ru/stylegraf/futurepop-c.jpg"
     },
     {
       "id": "gangstarap",
@@ -1427,7 +1628,9 @@
       ],
       "listeners": 0,
       "image": "http://radcap.ru/stylegraf/gangsta-c.jpg",
-      "genre": "Hip-hop / Rap Music"
+      "genre": "Hip-hop / Rap Music",
+      "largeimage": "http://radcap.ru/stylegraf/gangsta-c.jpg",
+      "xlimage": "http://radcap.ru/stylegraf/gangsta-c.jpg"
     },
     {
       "id": "garagerock",
@@ -1441,7 +1644,9 @@
       ],
       "listeners": 0,
       "image": "http://radcap.ru/stylegraf/garagerock-c.jpg",
-      "genre": "Rock Music"
+      "genre": "Rock Music",
+      "largeimage": "http://radcap.ru/stylegraf/garagerock-c.jpg",
+      "xlimage": "http://radcap.ru/stylegraf/garagerock-c.jpg"
     },
     {
       "id": "glamrock",
@@ -1455,7 +1660,9 @@
       ],
       "listeners": 0,
       "image": "http://radcap.ru/stylegraf/glamrock-c.jpg",
-      "genre": "Rock Music"
+      "genre": "Rock Music",
+      "largeimage": "http://radcap.ru/stylegraf/glamrock-c.jpg",
+      "xlimage": "http://radcap.ru/stylegraf/glamrock-c.jpg"
     },
     {
       "id": "glitch",
@@ -1469,7 +1676,9 @@
       ],
       "listeners": 0,
       "image": "http://radcap.ru/stylegraf/glitch-c.jpg",
-      "genre": "Electronic Music"
+      "genre": "Electronic Music",
+      "largeimage": "http://radcap.ru/stylegraf/glitch-c.jpg",
+      "xlimage": "http://radcap.ru/stylegraf/glitch-c.jpg"
     },
     {
       "id": "goatrance",
@@ -1483,7 +1692,9 @@
       ],
       "listeners": 0,
       "image": "http://radcap.ru/stylegraf/goa-c.jpg",
-      "genre": "Electronic Music"
+      "genre": "Electronic Music",
+      "largeimage": "http://radcap.ru/stylegraf/goa-c.jpg",
+      "xlimage": "http://radcap.ru/stylegraf/goa-c.jpg"
     },
     {
       "id": "gospelspiritualsmusic",
@@ -1497,7 +1708,9 @@
       ],
       "listeners": 0,
       "image": "http://radcap.ru/stylegraf/gospel-c.jpg",
-      "genre": "Ethnic / Folk / Spirit Music"
+      "genre": "Ethnic / Folk / Spirit Music",
+      "largeimage": "http://radcap.ru/stylegraf/gospel-c.jpg",
+      "xlimage": "http://radcap.ru/stylegraf/gospel-c.jpg"
     },
     {
       "id": "gothicmetal",
@@ -1510,8 +1723,10 @@
         }
       ],
       "listeners": 0,
-      "image": "http://radcap.ru/stylegraf/gothicmetal1-c.jpg",
-      "genre": "Metal"
+      "image": "http://radcap.ru/stylegraf/gothicmetal-c.jpg",
+      "genre": "Metal",
+      "largeimage": "http://radcap.ru/stylegraf/gothicmetal-c.jpg",
+      "xlimage": "http://radcap.ru/stylegraf/gothicmetal-c.jpg"
     },
     {
       "id": "gothicrock",
@@ -1525,7 +1740,9 @@
       ],
       "listeners": 0,
       "image": "http://radcap.ru/stylegraf/gothicrock-c.jpg",
-      "genre": "Rock Music"
+      "genre": "Rock Music",
+      "largeimage": "http://radcap.ru/stylegraf/gothicrock-c.jpg",
+      "xlimage": "http://radcap.ru/stylegraf/gothicrock-c.jpg"
     },
     {
       "id": "grime",
@@ -1539,7 +1756,9 @@
       ],
       "listeners": 0,
       "image": "http://radcap.ru/stylegraf/grime-c.jpg",
-      "genre": "Electronic Music"
+      "genre": "Electronic Music",
+      "largeimage": "http://radcap.ru/stylegraf/grime-c.jpg",
+      "xlimage": "http://radcap.ru/stylegraf/grime-c.jpg"
     },
     {
       "id": "grindcore",
@@ -1553,7 +1772,9 @@
       ],
       "listeners": 0,
       "image": "http://radcap.ru/stylegraf/grindcore-c.jpg",
-      "genre": "Metal"
+      "genre": "Metal",
+      "largeimage": "http://radcap.ru/stylegraf/grindcore-c.jpg",
+      "xlimage": "http://radcap.ru/stylegraf/grindcore-c.jpg"
     },
     {
       "id": "groovemetal",
@@ -1567,7 +1788,9 @@
       ],
       "listeners": 0,
       "image": "http://radcap.ru/stylegraf/groovemetal-c.jpg",
-      "genre": "Metal"
+      "genre": "Metal",
+      "largeimage": "http://radcap.ru/stylegraf/groovemetal-c.jpg",
+      "xlimage": "http://radcap.ru/stylegraf/groovemetal-c.jpg"
     },
     {
       "id": "grunge",
@@ -1581,7 +1804,9 @@
       ],
       "listeners": 0,
       "image": "http://radcap.ru/stylegraf/grunge-c.jpg",
-      "genre": "Rock Music"
+      "genre": "Rock Music",
+      "largeimage": "http://radcap.ru/stylegraf/grunge-c.jpg",
+      "xlimage": "http://radcap.ru/stylegraf/grunge-c.jpg"
     },
     {
       "id": "guitarjazz",
@@ -1595,7 +1820,9 @@
       ],
       "listeners": 0,
       "image": "http://radcap.ru/stylegraf/guitarjazz-c.jpg",
-      "genre": "Jazz"
+      "genre": "Jazz",
+      "largeimage": "http://radcap.ru/stylegraf/guitarjazz-c.jpg",
+      "xlimage": "http://radcap.ru/stylegraf/guitarjazz-c.jpg"
     },
     {
       "id": "hammondorgan",
@@ -1609,7 +1836,9 @@
       ],
       "listeners": 0,
       "image": "http://radcap.ru/stylegraf/hammond-c.jpg",
-      "genre": "Miscellaneous"
+      "genre": "Miscellaneous",
+      "largeimage": "http://radcap.ru/stylegraf/hammond-c.jpg",
+      "xlimage": "http://radcap.ru/stylegraf/hammond-c.jpg"
     },
     {
       "id": "happyhardcore",
@@ -1623,7 +1852,9 @@
       ],
       "listeners": 0,
       "image": "http://radcap.ru/stylegraf/ukhardcore-c.jpg",
-      "genre": "Electronic Music"
+      "genre": "Electronic Music",
+      "largeimage": "http://radcap.ru/stylegraf/ukhardcore-c.jpg",
+      "xlimage": "http://radcap.ru/stylegraf/ukhardcore-c.jpg"
     },
     {
       "id": "hardbop",
@@ -1637,7 +1868,9 @@
       ],
       "listeners": 0,
       "image": "http://radcap.ru/stylegraf/hardbop-c.jpg",
-      "genre": "Jazz"
+      "genre": "Jazz",
+      "largeimage": "http://radcap.ru/stylegraf/hardbop-c.jpg",
+      "xlimage": "http://radcap.ru/stylegraf/hardbop-c.jpg"
     },
     {
       "id": "hardrock",
@@ -1651,7 +1884,9 @@
       ],
       "listeners": 0,
       "image": "http://radcap.ru/stylegraf/hardrock-c.jpg",
-      "genre": "Rock Music"
+      "genre": "Rock Music",
+      "largeimage": "http://radcap.ru/stylegraf/hardrock-c.jpg",
+      "xlimage": "http://radcap.ru/stylegraf/hardrock-c.jpg"
     },
     {
       "id": "hardtrance",
@@ -1664,8 +1899,10 @@
         }
       ],
       "listeners": 0,
-      "image": "http://radcap.ru/stylegraf/hardgenre-c.jpg",
-      "genre": "Electronic Music"
+      "image": "http://radcap.ru/stylegraf/hardtrance-c.jpg",
+      "genre": "Electronic Music",
+      "largeimage": "http://radcap.ru/stylegraf/hardtrance-c.jpg",
+      "xlimage": "http://radcap.ru/stylegraf/hardtrance-c.jpg"
     },
     {
       "id": "hardcoremelodichardcore",
@@ -1679,7 +1916,9 @@
       ],
       "listeners": 0,
       "image": "http://radcap.ru/stylegraf/hardcore-c.jpg",
-      "genre": "Metal"
+      "genre": "Metal",
+      "largeimage": "http://radcap.ru/stylegraf/hardcore-c.jpg",
+      "xlimage": "http://radcap.ru/stylegraf/hardcore-c.jpg"
     },
     {
       "id": "hardcoretechno",
@@ -1693,7 +1932,9 @@
       ],
       "listeners": 0,
       "image": "http://radcap.ru/stylegraf/hardtechno-c.jpg",
-      "genre": "Electronic Music"
+      "genre": "Electronic Music",
+      "largeimage": "http://radcap.ru/stylegraf/hardtechno-c.jpg",
+      "xlimage": "http://radcap.ru/stylegraf/hardtechno-c.jpg"
     },
     {
       "id": "hardgenretrance",
@@ -1707,7 +1948,9 @@
       ],
       "listeners": 0,
       "image": "http://radcap.ru/stylegraf/hardtrance-c.jpg",
-      "genre": "Electronic Music"
+      "genre": "Electronic Music",
+      "largeimage": "http://radcap.ru/stylegraf/hardtrance-c.jpg",
+      "xlimage": "http://radcap.ru/stylegraf/hardtrance-c.jpg"
     },
     {
       "id": "harmonicablues",
@@ -1721,7 +1964,9 @@
       ],
       "listeners": 0,
       "image": "http://radcap.ru/stylegraf/harmonicablues-c.jpg",
-      "genre": "Blues/ Soul / Funk / R&B"
+      "genre": "Blues/ Soul / Funk / R&B",
+      "largeimage": "http://radcap.ru/stylegraf/harmonicablues-c.jpg",
+      "xlimage": "http://radcap.ru/stylegraf/harmonicablues-c.jpg"
     },
     {
       "id": "heavyblues",
@@ -1735,7 +1980,9 @@
       ],
       "listeners": 0,
       "image": "http://radcap.ru/stylegraf/hardblues-c.jpg",
-      "genre": "Blues/ Soul / Funk / R&B"
+      "genre": "Blues/ Soul / Funk / R&B",
+      "largeimage": "http://radcap.ru/stylegraf/hardblues-c.jpg",
+      "xlimage": "http://radcap.ru/stylegraf/hardblues-c.jpg"
     },
     {
       "id": "heavymetal",
@@ -1749,7 +1996,9 @@
       ],
       "listeners": 0,
       "image": "http://radcap.ru/stylegraf/heavymetal-c.jpg",
-      "genre": "Metal"
+      "genre": "Metal",
+      "largeimage": "http://radcap.ru/stylegraf/heavymetal-c.jpg",
+      "xlimage": "http://radcap.ru/stylegraf/heavymetal-c.jpg"
     },
     {
       "id": "hip-hop",
@@ -1763,7 +2012,9 @@
       ],
       "listeners": 0,
       "image": "http://radcap.ru/stylegraf/hiphop-c.jpg",
-      "genre": "Hip-hop / Rap Music"
+      "genre": "Hip-hop / Rap Music",
+      "largeimage": "http://radcap.ru/stylegraf/hiphop-c.jpg",
+      "xlimage": "http://radcap.ru/stylegraf/hiphop-c.jpg"
     },
     {
       "id": "house",
@@ -1777,7 +2028,9 @@
       ],
       "listeners": 0,
       "image": "http://radcap.ru/stylegraf/house-c.jpg",
-      "genre": "Electronic Music"
+      "genre": "Electronic Music",
+      "largeimage": "http://radcap.ru/stylegraf/house-c.jpg",
+      "xlimage": "http://radcap.ru/stylegraf/house-c.jpg"
     },
     {
       "id": "idm",
@@ -1791,7 +2044,9 @@
       ],
       "listeners": 0,
       "image": "http://radcap.ru/stylegraf/idm-c.jpg",
-      "genre": "Electronic Music"
+      "genre": "Electronic Music",
+      "largeimage": "http://radcap.ru/stylegraf/idm-c.jpg",
+      "xlimage": "http://radcap.ru/stylegraf/idm-c.jpg"
     },
     {
       "id": "indiancinemamusic",
@@ -1805,7 +2060,9 @@
       ],
       "listeners": 0,
       "image": "http://radcap.ru/stylegraf/indiancinema-c.jpg",
-      "genre": "Miscellaneous"
+      "genre": "Miscellaneous",
+      "largeimage": "http://radcap.ru/stylegraf/indiancinema-c.jpg",
+      "xlimage": "http://radcap.ru/stylegraf/indiancinema-c.jpg"
     },
     {
       "id": "indianclassicalfolkethnic",
@@ -1819,7 +2076,9 @@
       ],
       "listeners": 0,
       "image": "http://radcap.ru/stylegraf/indian-c.jpg",
-      "genre": "Ethnic / Folk / Spirit Music"
+      "genre": "Ethnic / Folk / Spirit Music",
+      "largeimage": "http://radcap.ru/stylegraf/indian-c.jpg",
+      "xlimage": "http://radcap.ru/stylegraf/indian-c.jpg"
     },
     {
       "id": "indieelectronic",
@@ -1833,7 +2092,9 @@
       ],
       "listeners": 0,
       "image": "http://radcap.ru/stylegraf/indieelectronic-c.jpg",
-      "genre": "Electronic Music"
+      "genre": "Electronic Music",
+      "largeimage": "http://radcap.ru/stylegraf/indieelectronic-c.jpg",
+      "xlimage": "http://radcap.ru/stylegraf/indieelectronic-c.jpg"
     },
     {
       "id": "indiefolk",
@@ -1847,7 +2108,9 @@
       ],
       "listeners": 0,
       "image": "http://radcap.ru/stylegraf/indiefolk-c.jpg",
-      "genre": "Rock Music"
+      "genre": "Rock Music",
+      "largeimage": "http://radcap.ru/stylegraf/indiefolk-c.jpg",
+      "xlimage": "http://radcap.ru/stylegraf/indiefolk-c.jpg"
     },
     {
       "id": "indierock",
@@ -1861,7 +2124,9 @@
       ],
       "listeners": 0,
       "image": "http://radcap.ru/stylegraf/indierock-c.jpg",
-      "genre": "Rock Music"
+      "genre": "Rock Music",
+      "largeimage": "http://radcap.ru/stylegraf/indierock-c.jpg",
+      "xlimage": "http://radcap.ru/stylegraf/indierock-c.jpg"
     },
     {
       "id": "indietweepop",
@@ -1875,7 +2140,9 @@
       ],
       "listeners": 0,
       "image": "http://radcap.ru/stylegraf/twee-c.jpg",
-      "genre": "Rock Music"
+      "genre": "Rock Music",
+      "largeimage": "http://radcap.ru/stylegraf/twee-c.jpg",
+      "xlimage": "http://radcap.ru/stylegraf/twee-c.jpg"
     },
     {
       "id": "industrial",
@@ -1889,7 +2156,9 @@
       ],
       "listeners": 0,
       "image": "http://radcap.ru/stylegraf/industrial-c.jpg",
-      "genre": "Electronic Music"
+      "genre": "Electronic Music",
+      "largeimage": "http://radcap.ru/stylegraf/industrial-c.jpg",
+      "xlimage": "http://radcap.ru/stylegraf/industrial-c.jpg"
     },
     {
       "id": "industrialmetal",
@@ -1903,7 +2172,9 @@
       ],
       "listeners": 0,
       "image": "http://radcap.ru/stylegraf/industrialmetal-c.jpg",
-      "genre": "Metal"
+      "genre": "Metal",
+      "largeimage": "http://radcap.ru/stylegraf/industrialmetal-c.jpg",
+      "xlimage": "http://radcap.ru/stylegraf/industrialmetal-c.jpg"
     },
     {
       "id": "industrialrock",
@@ -1917,7 +2188,9 @@
       ],
       "listeners": 0,
       "image": "http://radcap.ru/stylegraf/industrialrock-c.jpg",
-      "genre": "Rock Music"
+      "genre": "Rock Music",
+      "largeimage": "http://radcap.ru/stylegraf/industrialrock-c.jpg",
+      "xlimage": "http://radcap.ru/stylegraf/industrialrock-c.jpg"
     },
     {
       "id": "instrumental",
@@ -1931,7 +2204,9 @@
       ],
       "listeners": 0,
       "image": "http://radcap.ru/stylegraf/instrumental-c.jpg",
-      "genre": "Miscellaneous"
+      "genre": "Miscellaneous",
+      "largeimage": "http://radcap.ru/stylegraf/instrumental-c.jpg",
+      "xlimage": "http://radcap.ru/stylegraf/instrumental-c.jpg"
     },
     {
       "id": "instrumentalhip-hop",
@@ -1945,7 +2220,9 @@
       ],
       "listeners": 0,
       "image": "http://radcap.ru/stylegraf/instrumentalhiphop-c.jpg",
-      "genre": "Hip-hop / Rap Music"
+      "genre": "Hip-hop / Rap Music",
+      "largeimage": "http://radcap.ru/stylegraf/instrumentalhiphop-c.jpg",
+      "xlimage": "http://radcap.ru/stylegraf/instrumentalhiphop-c.jpg"
     },
     {
       "id": "instrumentalmetal",
@@ -1959,7 +2236,9 @@
       ],
       "listeners": 0,
       "image": "http://radcap.ru/stylegraf/instrmetal-c.jpg",
-      "genre": "Metal"
+      "genre": "Metal",
+      "largeimage": "http://radcap.ru/stylegraf/instrmetal-c.jpg",
+      "xlimage": "http://radcap.ru/stylegraf/instrmetal-c.jpg"
     },
     {
       "id": "instrumentalrock",
@@ -1973,7 +2252,9 @@
       ],
       "listeners": 0,
       "image": "http://radcap.ru/stylegraf/instrumentalrock-c.jpg",
-      "genre": "Rock Music"
+      "genre": "Rock Music",
+      "largeimage": "http://radcap.ru/stylegraf/instrumentalrock-c.jpg",
+      "xlimage": "http://radcap.ru/stylegraf/instrumentalrock-c.jpg"
     },
     {
       "id": "italodisco",
@@ -1987,7 +2268,9 @@
       ],
       "listeners": 0,
       "image": "http://radcap.ru/stylegraf/italodisco-c.jpg",
-      "genre": "Pop Music"
+      "genre": "Pop Music",
+      "largeimage": "http://radcap.ru/stylegraf/italodisco-c.jpg",
+      "xlimage": "http://radcap.ru/stylegraf/italodisco-c.jpg"
     },
     {
       "id": "jazz",
@@ -2001,7 +2284,9 @@
       ],
       "listeners": 0,
       "image": "http://radcap.ru/stylegraf/jazz-c.jpg",
-      "genre": "Jazz"
+      "genre": "Jazz",
+      "largeimage": "http://radcap.ru/stylegraf/jazz-c.jpg",
+      "xlimage": "http://radcap.ru/stylegraf/jazz-c.jpg"
     },
     {
       "id": "jazzfusion",
@@ -2015,7 +2300,9 @@
       ],
       "listeners": 0,
       "image": "http://radcap.ru/stylegraf/jazzfusion-c.jpg",
-      "genre": "Jazz"
+      "genre": "Jazz",
+      "largeimage": "http://radcap.ru/stylegraf/jazzfusion-c.jpg",
+      "xlimage": "http://radcap.ru/stylegraf/jazzfusion-c.jpg"
     },
     {
       "id": "jazzmanouche",
@@ -2029,7 +2316,9 @@
       ],
       "listeners": 0,
       "image": "http://radcap.ru/stylegraf/manouche-c.jpg",
-      "genre": "Jazz"
+      "genre": "Jazz",
+      "largeimage": "http://radcap.ru/stylegraf/manouche-c.jpg",
+      "xlimage": "http://radcap.ru/stylegraf/manouche-c.jpg"
     },
     {
       "id": "jazzpop",
@@ -2043,7 +2332,9 @@
       ],
       "listeners": 0,
       "image": "http://radcap.ru/stylegraf/jazzpop-c.jpg",
-      "genre": "Jazz"
+      "genre": "Jazz",
+      "largeimage": "http://radcap.ru/stylegraf/jazzpop-c.jpg",
+      "xlimage": "http://radcap.ru/stylegraf/jazzpop-c.jpg"
     },
     {
       "id": "jazzrock",
@@ -2057,7 +2348,9 @@
       ],
       "listeners": 0,
       "image": "http://radcap.ru/stylegraf/jazzrock-c.jpg",
-      "genre": "Rock Music"
+      "genre": "Rock Music",
+      "largeimage": "http://radcap.ru/stylegraf/jazzrock-c.jpg",
+      "xlimage": "http://radcap.ru/stylegraf/jazzrock-c.jpg"
     },
     {
       "id": "jazz-funk",
@@ -2071,7 +2364,9 @@
       ],
       "listeners": 0,
       "image": "http://radcap.ru/stylegraf/jazzfunk-c.jpg",
-      "genre": "Jazz"
+      "genre": "Jazz",
+      "largeimage": "http://radcap.ru/stylegraf/jazzfunk-c.jpg",
+      "xlimage": "http://radcap.ru/stylegraf/jazzfunk-c.jpg"
     },
     {
       "id": "j-pop",
@@ -2085,7 +2380,9 @@
       ],
       "listeners": 0,
       "image": "http://radcap.ru/stylegraf/jpop-c.jpg",
-      "genre": "Pop Music"
+      "genre": "Pop Music",
+      "largeimage": "http://radcap.ru/stylegraf/jpop-c.jpg",
+      "xlimage": "http://radcap.ru/stylegraf/jpop-c.jpg"
     },
     {
       "id": "j-rock",
@@ -2099,7 +2396,9 @@
       ],
       "listeners": 0,
       "image": "http://radcap.ru/stylegraf/jrock-c.jpg",
-      "genre": "Rock Music"
+      "genre": "Rock Music",
+      "largeimage": "http://radcap.ru/stylegraf/jrock-c.jpg",
+      "xlimage": "http://radcap.ru/stylegraf/jrock-c.jpg"
     },
     {
       "id": "k-pop",
@@ -2113,7 +2412,9 @@
       ],
       "listeners": 0,
       "image": "http://radcap.ru/stylegraf/kpop-c.jpg",
-      "genre": "Pop Music"
+      "genre": "Pop Music",
+      "largeimage": "http://radcap.ru/stylegraf/kpop-c.jpg",
+      "xlimage": "http://radcap.ru/stylegraf/kpop-c.jpg"
     },
     {
       "id": "krautrock",
@@ -2127,7 +2428,9 @@
       ],
       "listeners": 0,
       "image": "http://radcap.ru/stylegraf/krautrock-c.jpg",
-      "genre": "Rock Music"
+      "genre": "Rock Music",
+      "largeimage": "http://radcap.ru/stylegraf/krautrock-c.jpg",
+      "xlimage": "http://radcap.ru/stylegraf/krautrock-c.jpg"
     },
     {
       "id": "latinjazz",
@@ -2141,7 +2444,9 @@
       ],
       "listeners": 0,
       "image": "http://radcap.ru/stylegraf/latinjazz-c.jpg",
-      "genre": "Jazz"
+      "genre": "Jazz",
+      "largeimage": "http://radcap.ru/stylegraf/latinjazz-c.jpg",
+      "xlimage": "http://radcap.ru/stylegraf/latinjazz-c.jpg"
     },
     {
       "id": "latinpop",
@@ -2155,7 +2460,9 @@
       ],
       "listeners": 0,
       "image": "http://radcap.ru/stylegraf/latinpop-c.jpg",
-      "genre": "Pop Music"
+      "genre": "Pop Music",
+      "largeimage": "http://radcap.ru/stylegraf/latinpop-c.jpg",
+      "xlimage": "http://radcap.ru/stylegraf/latinpop-c.jpg"
     },
     {
       "id": "liquidfunk",
@@ -2169,7 +2476,9 @@
       ],
       "listeners": 0,
       "image": "http://radcap.ru/stylegraf/intelligent-c.jpg",
-      "genre": "Electronic Music"
+      "genre": "Electronic Music",
+      "largeimage": "http://radcap.ru/stylegraf/intelligent-c.jpg",
+      "xlimage": "http://radcap.ru/stylegraf/intelligent-c.jpg"
     },
     {
       "id": "lo-fi",
@@ -2183,7 +2492,9 @@
       ],
       "listeners": 0,
       "image": "http://radcap.ru/stylegraf/lofi-c.jpg",
-      "genre": "Electronic Music"
+      "genre": "Electronic Music",
+      "largeimage": "http://radcap.ru/stylegraf/lofi-c.jpg",
+      "xlimage": "http://radcap.ru/stylegraf/lofi-c.jpg"
     },
     {
       "id": "lounge",
@@ -2197,7 +2508,9 @@
       ],
       "listeners": 0,
       "image": "http://radcap.ru/stylegraf/lounge-c.jpg",
-      "genre": "Electronic Music"
+      "genre": "Electronic Music",
+      "largeimage": "http://radcap.ru/stylegraf/lounge-c.jpg",
+      "xlimage": "http://radcap.ru/stylegraf/lounge-c.jpg"
     },
     {
       "id": "mainstreamjazz",
@@ -2211,7 +2524,9 @@
       ],
       "listeners": 0,
       "image": "http://radcap.ru/stylegraf/mainstreamjazz-c.jpg",
-      "genre": "Jazz"
+      "genre": "Jazz",
+      "largeimage": "http://radcap.ru/stylegraf/mainstreamjazz-c.jpg",
+      "xlimage": "http://radcap.ru/stylegraf/mainstreamjazz-c.jpg"
     },
     {
       "id": "classicalchoralvocalmusic",
@@ -2224,8 +2539,10 @@
         }
       ],
       "listeners": 0,
-      "image": "http://radcap.ru/stylegraf/gregorian-c.jpg",
-      "genre": "Classical"
+      "image": "http://radcap.ru/stylegraf/choral-c.jpg",
+      "genre": "Classical",
+      "largeimage": "http://radcap.ru/stylegraf/choral-c.jpg",
+      "xlimage": "http://radcap.ru/stylegraf/choral-c.jpg"
     },
     {
       "id": "mathmetaldjent",
@@ -2239,7 +2556,9 @@
       ],
       "listeners": 0,
       "image": "http://radcap.ru/stylegraf/mathmetal-c.jpg",
-      "genre": "Metal"
+      "genre": "Metal",
+      "largeimage": "http://radcap.ru/stylegraf/mathmetal-c.jpg",
+      "xlimage": "http://radcap.ru/stylegraf/mathmetal-c.jpg"
     },
     {
       "id": "meditationmusic",
@@ -2253,7 +2572,9 @@
       ],
       "listeners": 0,
       "image": "http://radcap.ru/stylegraf/meditation-c.jpg",
-      "genre": "Miscellaneous"
+      "genre": "Miscellaneous",
+      "largeimage": "http://radcap.ru/stylegraf/meditation-c.jpg",
+      "xlimage": "http://radcap.ru/stylegraf/meditation-c.jpg"
     },
     {
       "id": "melodicblackmetal",
@@ -2267,7 +2588,9 @@
       ],
       "listeners": 0,
       "image": "http://radcap.ru/stylegraf/mbm-c.jpg",
-      "genre": "Metal"
+      "genre": "Metal",
+      "largeimage": "http://radcap.ru/stylegraf/mbm-c.jpg",
+      "xlimage": "http://radcap.ru/stylegraf/mbm-c.jpg"
     },
     {
       "id": "melodicdeathmetal",
@@ -2281,7 +2604,9 @@
       ],
       "listeners": 0,
       "image": "http://radcap.ru/stylegraf/mdm-c.jpg",
-      "genre": "Metal"
+      "genre": "Metal",
+      "largeimage": "http://radcap.ru/stylegraf/mdm-c.jpg",
+      "xlimage": "http://radcap.ru/stylegraf/mdm-c.jpg"
     },
     {
       "id": "metalcore",
@@ -2295,7 +2620,9 @@
       ],
       "listeners": 0,
       "image": "http://radcap.ru/stylegraf/metalcore-c.jpg",
-      "genre": "Metal"
+      "genre": "Metal",
+      "largeimage": "http://radcap.ru/stylegraf/metalcore-c.jpg",
+      "xlimage": "http://radcap.ru/stylegraf/metalcore-c.jpg"
     },
     {
       "id": "metalstepbrostepmetaldubstep",
@@ -2309,7 +2636,9 @@
       ],
       "listeners": 0,
       "image": "http://radcap.ru/stylegraf/metalstep-c.jpg",
-      "genre": "Electronic Music"
+      "genre": "Electronic Music",
+      "largeimage": "http://radcap.ru/stylegraf/metalstep-c.jpg",
+      "xlimage": "http://radcap.ru/stylegraf/metalstep-c.jpg"
     },
     {
       "id": "middleeastmusic",
@@ -2323,7 +2652,9 @@
       ],
       "listeners": 0,
       "image": "http://radcap.ru/stylegraf/middleeast-c.jpg",
-      "genre": "Ethnic / Folk / Spirit Music"
+      "genre": "Ethnic / Folk / Spirit Music",
+      "largeimage": "http://radcap.ru/stylegraf/middleeast-c.jpg",
+      "xlimage": "http://radcap.ru/stylegraf/middleeast-c.jpg"
     },
     {
       "id": "minimaltechhouse",
@@ -2337,7 +2668,9 @@
       ],
       "listeners": 0,
       "image": "http://radcap.ru/stylegraf/mintechhouse-c.jpg",
-      "genre": "Electronic Music"
+      "genre": "Electronic Music",
+      "largeimage": "http://radcap.ru/stylegraf/mintechhouse-c.jpg",
+      "xlimage": "http://radcap.ru/stylegraf/mintechhouse-c.jpg"
     },
     {
       "id": "minimaltechno",
@@ -2351,7 +2684,9 @@
       ],
       "listeners": 0,
       "image": "http://radcap.ru/stylegraf/mintech-c.jpg",
-      "genre": "Electronic Music"
+      "genre": "Electronic Music",
+      "largeimage": "http://radcap.ru/stylegraf/mintech-c.jpg",
+      "xlimage": "http://radcap.ru/stylegraf/mintech-c.jpg"
     },
     {
       "id": "miscellaneous",
@@ -2365,7 +2700,9 @@
       ],
       "listeners": 0,
       "image": "http://radcap.ru/stylegraf/misc-c.jpg",
-      "genre": "Miscellaneous"
+      "genre": "Miscellaneous",
+      "largeimage": "http://radcap.ru/stylegraf/misc-c.jpg",
+      "xlimage": "http://radcap.ru/stylegraf/misc-c.jpg"
     },
     {
       "id": "modernclassical",
@@ -2379,7 +2716,9 @@
       ],
       "listeners": 0,
       "image": "http://radcap.ru/stylegraf/modernclass-c.jpg",
-      "genre": "Miscellaneous"
+      "genre": "Miscellaneous",
+      "largeimage": "http://radcap.ru/stylegraf/modernclass-c.jpg",
+      "xlimage": "http://radcap.ru/stylegraf/modernclass-c.jpg"
     },
     {
       "id": "moderncreative",
@@ -2393,7 +2732,9 @@
       ],
       "listeners": 0,
       "image": "http://radcap.ru/stylegraf/mcreative-c.jpg",
-      "genre": "Jazz"
+      "genre": "Jazz",
+      "largeimage": "http://radcap.ru/stylegraf/mcreative-c.jpg",
+      "xlimage": "http://radcap.ru/stylegraf/mcreative-c.jpg"
     },
     {
       "id": "modernelectricblues",
@@ -2406,8 +2747,10 @@
         }
       ],
       "listeners": 0,
-      "image": "http://radcap.ru/stylegraf/modelblues-c.jpg",
-      "genre": "Blues/ Soul / Funk / R&B"
+      "image": "http://radcap.ru/stylegraf/electricblues-c.jpg",
+      "genre": "Blues/ Soul / Funk / R&B",
+      "largeimage": "http://radcap.ru/stylegraf/electricblues-c.jpg",
+      "xlimage": "http://radcap.ru/stylegraf/electricblues-c.jpg"
     },
     {
       "id": "nativeamerican",
@@ -2421,7 +2764,9 @@
       ],
       "listeners": 0,
       "image": "http://radcap.ru/stylegraf/natam-c.jpg",
-      "genre": "Ethnic / Folk / Spirit Music"
+      "genre": "Ethnic / Folk / Spirit Music",
+      "largeimage": "http://radcap.ru/stylegraf/natam-c.jpg",
+      "xlimage": "http://radcap.ru/stylegraf/natam-c.jpg"
     },
     {
       "id": "neoclassical",
@@ -2435,7 +2780,9 @@
       ],
       "listeners": 0,
       "image": "http://radcap.ru/stylegraf/neoclassicalmusic-c.jpg",
-      "genre": "Miscellaneous"
+      "genre": "Miscellaneous",
+      "largeimage": "http://radcap.ru/stylegraf/neoclassicalmusic-c.jpg",
+      "xlimage": "http://radcap.ru/stylegraf/neoclassicalmusic-c.jpg"
     },
     {
       "id": "neoclassicalmetal",
@@ -2449,7 +2796,9 @@
       ],
       "listeners": 0,
       "image": "http://radcap.ru/stylegraf/neoclassmet-c.jpg",
-      "genre": "Metal"
+      "genre": "Metal",
+      "largeimage": "http://radcap.ru/stylegraf/neoclassmet-c.jpg",
+      "xlimage": "http://radcap.ru/stylegraf/neoclassmet-c.jpg"
     },
     {
       "id": "neo-progressiverock",
@@ -2463,7 +2812,9 @@
       ],
       "listeners": 0,
       "image": "http://radcap.ru/stylegraf/neoprogrock-c.jpg",
-      "genre": "Rock Music"
+      "genre": "Rock Music",
+      "largeimage": "http://radcap.ru/stylegraf/neoprogrock-c.jpg",
+      "xlimage": "http://radcap.ru/stylegraf/neoprogrock-c.jpg"
     },
     {
       "id": "neurofunk",
@@ -2477,7 +2828,9 @@
       ],
       "listeners": 0,
       "image": "http://radcap.ru/stylegraf/neurofunk-c.jpg",
-      "genre": "Electronic Music"
+      "genre": "Electronic Music",
+      "largeimage": "http://radcap.ru/stylegraf/neurofunk-c.jpg",
+      "xlimage": "http://radcap.ru/stylegraf/neurofunk-c.jpg"
     },
     {
       "id": "newage",
@@ -2491,7 +2844,9 @@
       ],
       "listeners": 0,
       "image": "http://radcap.ru/stylegraf/newage-c.jpg",
-      "genre": "Electronic Music"
+      "genre": "Electronic Music",
+      "largeimage": "http://radcap.ru/stylegraf/newage-c.jpg",
+      "xlimage": "http://radcap.ru/stylegraf/newage-c.jpg"
     },
     {
       "id": "newwave",
@@ -2505,7 +2860,9 @@
       ],
       "listeners": 0,
       "image": "http://radcap.ru/stylegraf/newwave-c.jpg",
-      "genre": "Rock Music"
+      "genre": "Rock Music",
+      "largeimage": "http://radcap.ru/stylegraf/newwave-c.jpg",
+      "xlimage": "http://radcap.ru/stylegraf/newwave-c.jpg"
     },
     {
       "id": "nujazz",
@@ -2519,7 +2876,9 @@
       ],
       "listeners": 0,
       "image": "http://radcap.ru/stylegraf/nujazz-c.jpg",
-      "genre": "Jazz"
+      "genre": "Jazz",
+      "largeimage": "http://radcap.ru/stylegraf/nujazz-c.jpg",
+      "xlimage": "http://radcap.ru/stylegraf/nujazz-c.jpg"
     },
     {
       "id": "alternativenumetal",
@@ -2533,7 +2892,9 @@
       ],
       "listeners": 0,
       "image": "http://radcap.ru/stylegraf/numetal-c.jpg",
-      "genre": "Metal"
+      "genre": "Metal",
+      "largeimage": "http://radcap.ru/stylegraf/numetal-c.jpg",
+      "xlimage": "http://radcap.ru/stylegraf/numetal-c.jpg"
     },
     {
       "id": "nu-disco",
@@ -2547,7 +2908,9 @@
       ],
       "listeners": 0,
       "image": "http://radcap.ru/stylegraf/nudisco-c.jpg",
-      "genre": "Pop Music"
+      "genre": "Pop Music",
+      "largeimage": "http://radcap.ru/stylegraf/nudisco-c.jpg",
+      "xlimage": "http://radcap.ru/stylegraf/nudisco-c.jpg"
     },
     {
       "id": "oi!streetpunk",
@@ -2561,7 +2924,9 @@
       ],
       "listeners": 0,
       "image": "http://radcap.ru/stylegraf/oi-c.jpg",
-      "genre": "Rock Music"
+      "genre": "Rock Music",
+      "largeimage": "http://radcap.ru/stylegraf/oi-c.jpg",
+      "xlimage": "http://radcap.ru/stylegraf/oi-c.jpg"
     },
     {
       "id": "oldies",
@@ -2575,7 +2940,9 @@
       ],
       "listeners": 0,
       "image": "http://radcap.ru/stylegraf/oldies-c.jpg",
-      "genre": "Miscellaneous"
+      "genre": "Miscellaneous",
+      "largeimage": "http://radcap.ru/stylegraf/oldies-c.jpg",
+      "xlimage": "http://radcap.ru/stylegraf/oldies-c.jpg"
     },
     {
       "id": "opera",
@@ -2589,7 +2956,9 @@
       ],
       "listeners": 0,
       "image": "http://radcap.ru/stylegraf/opera-c.jpg",
-      "genre": "Classical"
+      "genre": "Classical",
+      "largeimage": "http://radcap.ru/stylegraf/opera-c.jpg",
+      "xlimage": "http://radcap.ru/stylegraf/opera-c.jpg"
     },
     {
       "id": "organclassical",
@@ -2603,7 +2972,9 @@
       ],
       "listeners": 0,
       "image": "http://radcap.ru/stylegraf/organ-c.jpg",
-      "genre": "Classical"
+      "genre": "Classical",
+      "largeimage": "http://radcap.ru/stylegraf/organ-c.jpg",
+      "xlimage": "http://radcap.ru/stylegraf/organ-c.jpg"
     },
     {
       "id": "orientalmetal",
@@ -2617,7 +2988,9 @@
       ],
       "listeners": 0,
       "image": "http://radcap.ru/stylegraf/orientalmetal-c.jpg",
-      "genre": "Metal"
+      "genre": "Metal",
+      "largeimage": "http://radcap.ru/stylegraf/orientalmetal-c.jpg",
+      "xlimage": "http://radcap.ru/stylegraf/orientalmetal-c.jpg"
     },
     {
       "id": "orthodoxspiritualmusic",
@@ -2631,7 +3004,9 @@
       ],
       "listeners": 0,
       "image": "http://radcap.ru/stylegraf/orthodox-c.jpg",
-      "genre": "Ethnic / Folk / Spirit Music"
+      "genre": "Ethnic / Folk / Spirit Music",
+      "largeimage": "http://radcap.ru/stylegraf/orthodox-c.jpg",
+      "xlimage": "http://radcap.ru/stylegraf/orthodox-c.jpg"
     },
     {
       "id": "paganmetal",
@@ -2645,7 +3020,9 @@
       ],
       "listeners": 0,
       "image": "http://radcap.ru/stylegraf/pagan-c.jpg",
-      "genre": "Metal"
+      "genre": "Metal",
+      "largeimage": "http://radcap.ru/stylegraf/pagan-c.jpg",
+      "xlimage": "http://radcap.ru/stylegraf/pagan-c.jpg"
     },
     {
       "id": "piano",
@@ -2659,7 +3036,9 @@
       ],
       "listeners": 0,
       "image": "http://radcap.ru/stylegraf/piano-c.jpg",
-      "genre": "Miscellaneous"
+      "genre": "Miscellaneous",
+      "largeimage": "http://radcap.ru/stylegraf/piano-c.jpg",
+      "xlimage": "http://radcap.ru/stylegraf/piano-c.jpg"
     },
     {
       "id": "pianoblues",
@@ -2673,7 +3052,9 @@
       ],
       "listeners": 0,
       "image": "http://radcap.ru/stylegraf/pianoblues-c.jpg",
-      "genre": "Blues/ Soul / Funk / R&B"
+      "genre": "Blues/ Soul / Funk / R&B",
+      "largeimage": "http://radcap.ru/stylegraf/pianoblues-c.jpg",
+      "xlimage": "http://radcap.ru/stylegraf/pianoblues-c.jpg"
     },
     {
       "id": "pianojazzstrade",
@@ -2687,7 +3068,9 @@
       ],
       "listeners": 0,
       "image": "http://radcap.ru/stylegraf/pianojazz-c.jpg",
-      "genre": "Jazz"
+      "genre": "Jazz",
+      "largeimage": "http://radcap.ru/stylegraf/pianojazz-c.jpg",
+      "xlimage": "http://radcap.ru/stylegraf/pianojazz-c.jpg"
     },
     {
       "id": "pop",
@@ -2701,7 +3084,9 @@
       ],
       "listeners": 0,
       "image": "http://radcap.ru/stylegraf/pop-c.jpg",
-      "genre": "Pop Music"
+      "genre": "Pop Music",
+      "largeimage": "http://radcap.ru/stylegraf/pop-c.jpg",
+      "xlimage": "http://radcap.ru/stylegraf/pop-c.jpg"
     },
     {
       "id": "popballads",
@@ -2715,7 +3100,9 @@
       ],
       "listeners": 0,
       "image": "http://radcap.ru/stylegraf/popballads-c.jpg",
-      "genre": "Pop Music"
+      "genre": "Pop Music",
+      "largeimage": "http://radcap.ru/stylegraf/popballads-c.jpg",
+      "xlimage": "http://radcap.ru/stylegraf/popballads-c.jpg"
     },
     {
       "id": "80'smusiccollection",
@@ -2728,8 +3115,10 @@
         }
       ],
       "listeners": 0,
-      "image": "http://radcap.ru/stylegraf/pop80-c.jpg",
-      "genre": "Miscellaneous"
+      "image": "http://radcap.ru/stylegraf/80s-c.jpg",
+      "genre": "Miscellaneous",
+      "largeimage": "http://radcap.ru/stylegraf/80s-c.jpg",
+      "xlimage": "http://radcap.ru/stylegraf/80s-c.jpg"
     },
     {
       "id": "popmusicussr",
@@ -2743,7 +3132,9 @@
       ],
       "listeners": 0,
       "image": "http://radcap.ru/stylegraf/ussr-c.jpg",
-      "genre": "Pop Music"
+      "genre": "Pop Music",
+      "largeimage": "http://radcap.ru/stylegraf/ussr-c.jpg",
+      "xlimage": "http://radcap.ru/stylegraf/ussr-c.jpg"
     },
     {
       "id": "poppunk",
@@ -2757,7 +3148,9 @@
       ],
       "listeners": 0,
       "image": "http://radcap.ru/stylegraf/poppunk-c.jpg",
-      "genre": "Rock Music"
+      "genre": "Rock Music",
+      "largeimage": "http://radcap.ru/stylegraf/poppunk-c.jpg",
+      "xlimage": "http://radcap.ru/stylegraf/poppunk-c.jpg"
     },
     {
       "id": "poprock",
@@ -2771,7 +3164,9 @@
       ],
       "listeners": 0,
       "image": "http://radcap.ru/stylegraf/poprock-c.jpg",
-      "genre": "Rock Music"
+      "genre": "Rock Music",
+      "largeimage": "http://radcap.ru/stylegraf/poprock-c.jpg",
+      "xlimage": "http://radcap.ru/stylegraf/poprock-c.jpg"
     },
     {
       "id": "postbop",
@@ -2785,7 +3180,9 @@
       ],
       "listeners": 0,
       "image": "http://radcap.ru/stylegraf/postbop-c.jpg",
-      "genre": "Jazz"
+      "genre": "Jazz",
+      "largeimage": "http://radcap.ru/stylegraf/postbop-c.jpg",
+      "xlimage": "http://radcap.ru/stylegraf/postbop-c.jpg"
     },
     {
       "id": "postgrunge",
@@ -2799,7 +3196,9 @@
       ],
       "listeners": 0,
       "image": "http://radcap.ru/stylegraf/postgrunge-c.jpg",
-      "genre": "Rock Music"
+      "genre": "Rock Music",
+      "largeimage": "http://radcap.ru/stylegraf/postgrunge-c.jpg",
+      "xlimage": "http://radcap.ru/stylegraf/postgrunge-c.jpg"
     },
     {
       "id": "posthardcore",
@@ -2813,7 +3212,9 @@
       ],
       "listeners": 0,
       "image": "http://radcap.ru/stylegraf/posthardcore-c.jpg",
-      "genre": "Metal"
+      "genre": "Metal",
+      "largeimage": "http://radcap.ru/stylegraf/posthardcore-c.jpg",
+      "xlimage": "http://radcap.ru/stylegraf/posthardcore-c.jpg"
     },
     {
       "id": "postmetal",
@@ -2827,7 +3228,9 @@
       ],
       "listeners": 0,
       "image": "http://radcap.ru/stylegraf/postmetal-c.jpg",
-      "genre": "Metal"
+      "genre": "Metal",
+      "largeimage": "http://radcap.ru/stylegraf/postmetal-c.jpg",
+      "xlimage": "http://radcap.ru/stylegraf/postmetal-c.jpg"
     },
     {
       "id": "postrock",
@@ -2841,7 +3244,9 @@
       ],
       "listeners": 0,
       "image": "http://radcap.ru/stylegraf/postrock-c.jpg",
-      "genre": "Rock Music"
+      "genre": "Rock Music",
+      "largeimage": "http://radcap.ru/stylegraf/postrock-c.jpg",
+      "xlimage": "http://radcap.ru/stylegraf/postrock-c.jpg"
     },
     {
       "id": "post-punk",
@@ -2855,7 +3260,9 @@
       ],
       "listeners": 0,
       "image": "http://radcap.ru/stylegraf/postpunk-c.jpg",
-      "genre": "Rock Music"
+      "genre": "Rock Music",
+      "largeimage": "http://radcap.ru/stylegraf/postpunk-c.jpg",
+      "xlimage": "http://radcap.ru/stylegraf/postpunk-c.jpg"
     },
     {
       "id": "powermetal",
@@ -2869,7 +3276,9 @@
       ],
       "listeners": 0,
       "image": "http://radcap.ru/stylegraf/powermetal-c.jpg",
-      "genre": "Metal"
+      "genre": "Metal",
+      "largeimage": "http://radcap.ru/stylegraf/powermetal-c.jpg",
+      "xlimage": "http://radcap.ru/stylegraf/powermetal-c.jpg"
     },
     {
       "id": "progressiveblackpost-blackblackgaze",
@@ -2883,7 +3292,9 @@
       ],
       "listeners": 0,
       "image": "http://radcap.ru/stylegraf/postblack-c.jpg",
-      "genre": "Metal"
+      "genre": "Metal",
+      "largeimage": "http://radcap.ru/stylegraf/postblack-c.jpg",
+      "xlimage": "http://radcap.ru/stylegraf/postblack-c.jpg"
     },
     {
       "id": "progressivedeathmetal",
@@ -2897,7 +3308,9 @@
       ],
       "listeners": 0,
       "image": "http://radcap.ru/stylegraf/progdeath-c.jpg",
-      "genre": "Metal"
+      "genre": "Metal",
+      "largeimage": "http://radcap.ru/stylegraf/progdeath-c.jpg",
+      "xlimage": "http://radcap.ru/stylegraf/progdeath-c.jpg"
     },
     {
       "id": "progressivehouse",
@@ -2911,7 +3324,9 @@
       ],
       "listeners": 0,
       "image": "http://radcap.ru/stylegraf/proghouse-c.jpg",
-      "genre": "Electronic Music"
+      "genre": "Electronic Music",
+      "largeimage": "http://radcap.ru/stylegraf/proghouse-c.jpg",
+      "xlimage": "http://radcap.ru/stylegraf/proghouse-c.jpg"
     },
     {
       "id": "progressivemetal",
@@ -2925,7 +3340,9 @@
       ],
       "listeners": 0,
       "image": "http://radcap.ru/stylegraf/progmetal-c.jpg",
-      "genre": "Metal"
+      "genre": "Metal",
+      "largeimage": "http://radcap.ru/stylegraf/progmetal-c.jpg",
+      "xlimage": "http://radcap.ru/stylegraf/progmetal-c.jpg"
     },
     {
       "id": "progressivepsytrance",
@@ -2939,7 +3356,9 @@
       ],
       "listeners": 0,
       "image": "http://radcap.ru/stylegraf/psyprog-c.jpg",
-      "genre": "Electronic Music"
+      "genre": "Electronic Music",
+      "largeimage": "http://radcap.ru/stylegraf/psyprog-c.jpg",
+      "xlimage": "http://radcap.ru/stylegraf/psyprog-c.jpg"
     },
     {
       "id": "progressiverock",
@@ -2953,7 +3372,9 @@
       ],
       "listeners": 0,
       "image": "http://radcap.ru/stylegraf/progrock-c.jpg",
-      "genre": "Rock Music"
+      "genre": "Rock Music",
+      "largeimage": "http://radcap.ru/stylegraf/progrock-c.jpg",
+      "xlimage": "http://radcap.ru/stylegraf/progrock-c.jpg"
     },
     {
       "id": "progressivetrance",
@@ -2967,7 +3388,9 @@
       ],
       "listeners": 0,
       "image": "http://radcap.ru/stylegraf/progtrance-c.jpg",
-      "genre": "Electronic Music"
+      "genre": "Electronic Music",
+      "largeimage": "http://radcap.ru/stylegraf/progtrance-c.jpg",
+      "xlimage": "http://radcap.ru/stylegraf/progtrance-c.jpg"
     },
     {
       "id": "psybient",
@@ -2981,7 +3404,9 @@
       ],
       "listeners": 0,
       "image": "http://radcap.ru/stylegraf/psybient-c.jpg",
-      "genre": "Electronic Music"
+      "genre": "Electronic Music",
+      "largeimage": "http://radcap.ru/stylegraf/psybient-c.jpg",
+      "xlimage": "http://radcap.ru/stylegraf/psybient-c.jpg"
     },
     {
       "id": "psychedelicrock",
@@ -2995,7 +3420,9 @@
       ],
       "listeners": 0,
       "image": "http://radcap.ru/stylegraf/psychedelicrock-c.jpg",
-      "genre": "Rock Music"
+      "genre": "Rock Music",
+      "largeimage": "http://radcap.ru/stylegraf/psychedelicrock-c.jpg",
+      "xlimage": "http://radcap.ru/stylegraf/psychedelicrock-c.jpg"
     },
     {
       "id": "psychobilly",
@@ -3009,7 +3436,9 @@
       ],
       "listeners": 0,
       "image": "http://radcap.ru/stylegraf/psychobilly-c.jpg",
-      "genre": "Rock Music"
+      "genre": "Rock Music",
+      "largeimage": "http://radcap.ru/stylegraf/psychobilly-c.jpg",
+      "xlimage": "http://radcap.ru/stylegraf/psychobilly-c.jpg"
     },
     {
       "id": "psytrance",
@@ -3023,7 +3452,9 @@
       ],
       "listeners": 0,
       "image": "http://radcap.ru/stylegraf/psytrance-c.jpg",
-      "genre": "Electronic Music"
+      "genre": "Electronic Music",
+      "largeimage": "http://radcap.ru/stylegraf/psytrance-c.jpg",
+      "xlimage": "http://radcap.ru/stylegraf/psytrance-c.jpg"
     },
     {
       "id": "pumpinghouse",
@@ -3037,7 +3468,9 @@
       ],
       "listeners": 0,
       "image": "http://radcap.ru/stylegraf/pumpinghouse-c.jpg",
-      "genre": "Electronic Music"
+      "genre": "Electronic Music",
+      "largeimage": "http://radcap.ru/stylegraf/pumpinghouse-c.jpg",
+      "xlimage": "http://radcap.ru/stylegraf/pumpinghouse-c.jpg"
     },
     {
       "id": "punk",
@@ -3051,7 +3484,9 @@
       ],
       "listeners": 0,
       "image": "http://radcap.ru/stylegraf/punkrock-c.jpg",
-      "genre": "Rock Music"
+      "genre": "Rock Music",
+      "largeimage": "http://radcap.ru/stylegraf/punkrock-c.jpg",
+      "xlimage": "http://radcap.ru/stylegraf/punkrock-c.jpg"
     },
     {
       "id": "r&b",
@@ -3065,7 +3500,9 @@
       ],
       "listeners": 0,
       "image": "http://radcap.ru/stylegraf/rnb-c.jpg",
-      "genre": "Blues/ Soul / Funk / R&B"
+      "genre": "Blues/ Soul / Funk / R&B",
+      "largeimage": "http://radcap.ru/stylegraf/rnb-c.jpg",
+      "xlimage": "http://radcap.ru/stylegraf/rnb-c.jpg"
     },
     {
       "id": "rap",
@@ -3079,7 +3516,9 @@
       ],
       "listeners": 0,
       "image": "http://radcap.ru/stylegraf/rap-c.jpg",
-      "genre": "Hip-hop / Rap Music"
+      "genre": "Hip-hop / Rap Music",
+      "largeimage": "http://radcap.ru/stylegraf/rap-c.jpg",
+      "xlimage": "http://radcap.ru/stylegraf/rap-c.jpg"
     },
     {
       "id": "rapcore",
@@ -3093,7 +3532,9 @@
       ],
       "listeners": 0,
       "image": "http://radcap.ru/stylegraf/rapcore-c.jpg",
-      "genre": "Metal"
+      "genre": "Metal",
+      "largeimage": "http://radcap.ru/stylegraf/rapcore-c.jpg",
+      "xlimage": "http://radcap.ru/stylegraf/rapcore-c.jpg"
     },
     {
       "id": "reggae",
@@ -3107,7 +3548,9 @@
       ],
       "listeners": 0,
       "image": "http://radcap.ru/stylegraf/reggae-c.jpg",
-      "genre": "Reggae / Ska"
+      "genre": "Reggae / Ska",
+      "largeimage": "http://radcap.ru/stylegraf/reggae-c.jpg",
+      "xlimage": "http://radcap.ru/stylegraf/reggae-c.jpg"
     },
     {
       "id": "relaxationmusic",
@@ -3121,7 +3564,9 @@
       ],
       "listeners": 0,
       "image": "http://radcap.ru/stylegraf/relax-c.jpg",
-      "genre": "Miscellaneous"
+      "genre": "Miscellaneous",
+      "largeimage": "http://radcap.ru/stylegraf/relax-c.jpg",
+      "xlimage": "http://radcap.ru/stylegraf/relax-c.jpg"
     },
     {
       "id": "retrowave",
@@ -3135,7 +3580,9 @@
       ],
       "listeners": 0,
       "image": "http://radcap.ru/stylegraf/retrowave-c.jpg",
-      "genre": "Electronic Music"
+      "genre": "Electronic Music",
+      "largeimage": "http://radcap.ru/stylegraf/retrowave-c.jpg",
+      "xlimage": "http://radcap.ru/stylegraf/retrowave-c.jpg"
     },
     {
       "id": "riddimdubstep",
@@ -3149,7 +3596,9 @@
       ],
       "listeners": 0,
       "image": "http://radcap.ru/stylegraf/riddimdubstep-c.jpg",
-      "genre": "Electronic Music"
+      "genre": "Electronic Music",
+      "largeimage": "http://radcap.ru/stylegraf/riddimdubstep-c.jpg",
+      "xlimage": "http://radcap.ru/stylegraf/riddimdubstep-c.jpg"
     },
     {
       "id": "rock&roll",
@@ -3163,7 +3612,9 @@
       ],
       "listeners": 0,
       "image": "http://radcap.ru/stylegraf/rocknroll-c.jpg",
-      "genre": "Rock Music"
+      "genre": "Rock Music",
+      "largeimage": "http://radcap.ru/stylegraf/rocknroll-c.jpg",
+      "xlimage": "http://radcap.ru/stylegraf/rocknroll-c.jpg"
     },
     {
       "id": "rockballads",
@@ -3177,7 +3628,9 @@
       ],
       "listeners": 0,
       "image": "http://radcap.ru/stylegraf/rockballads-c.jpg",
-      "genre": "Rock Music"
+      "genre": "Rock Music",
+      "largeimage": "http://radcap.ru/stylegraf/rockballads-c.jpg",
+      "xlimage": "http://radcap.ru/stylegraf/rockballads-c.jpg"
     },
     {
       "id": "rockabilly",
@@ -3191,7 +3644,9 @@
       ],
       "listeners": 0,
       "image": "http://radcap.ru/stylegraf/rockabilly-c.jpg",
-      "genre": "Rock Music"
+      "genre": "Rock Music",
+      "largeimage": "http://radcap.ru/stylegraf/rockabilly-c.jpg",
+      "xlimage": "http://radcap.ru/stylegraf/rockabilly-c.jpg"
     },
     {
       "id": "romanticmusiccollection",
@@ -3205,7 +3660,9 @@
       ],
       "listeners": 0,
       "image": "http://radcap.ru/stylegraf/romantic-c.jpg",
-      "genre": "Miscellaneous"
+      "genre": "Miscellaneous",
+      "largeimage": "http://radcap.ru/stylegraf/romantic-c.jpg",
+      "xlimage": "http://radcap.ru/stylegraf/romantic-c.jpg"
     },
     {
       "id": "rootsreggae",
@@ -3219,7 +3676,9 @@
       ],
       "listeners": 0,
       "image": "http://radcap.ru/stylegraf/rootsreggae-c.jpg",
-      "genre": "Reggae / Ska"
+      "genre": "Reggae / Ska",
+      "largeimage": "http://radcap.ru/stylegraf/rootsreggae-c.jpg",
+      "xlimage": "http://radcap.ru/stylegraf/rootsreggae-c.jpg"
     },
     {
       "id": "russianclubdance",
@@ -3233,7 +3692,9 @@
       ],
       "listeners": 0,
       "image": "http://radcap.ru/stylegraf/clubru-c.jpg",
-      "genre": "Electronic Music"
+      "genre": "Electronic Music",
+      "largeimage": "http://radcap.ru/stylegraf/clubru-c.jpg",
+      "xlimage": "http://radcap.ru/stylegraf/clubru-c.jpg"
     },
     {
       "id": "russianfolk",
@@ -3247,7 +3708,9 @@
       ],
       "listeners": 0,
       "image": "http://radcap.ru/stylegraf/russian-c.jpg",
-      "genre": "Ethnic / Folk / Spirit Music"
+      "genre": "Ethnic / Folk / Spirit Music",
+      "largeimage": "http://radcap.ru/stylegraf/russian-c.jpg",
+      "xlimage": "http://radcap.ru/stylegraf/russian-c.jpg"
     },
     {
       "id": "russianfolkrock",
@@ -3261,7 +3724,9 @@
       ],
       "listeners": 0,
       "image": "http://radcap.ru/stylegraf/folkrockru-c.jpg",
-      "genre": "Rock Music"
+      "genre": "Rock Music",
+      "largeimage": "http://radcap.ru/stylegraf/folkrockru-c.jpg",
+      "xlimage": "http://radcap.ru/stylegraf/folkrockru-c.jpg"
     },
     {
       "id": "russianmilitarysongs",
@@ -3275,7 +3740,9 @@
       ],
       "listeners": 0,
       "image": "http://radcap.ru/stylegraf/rusmilsong-c.jpg",
-      "genre": "Miscellaneous"
+      "genre": "Miscellaneous",
+      "largeimage": "http://radcap.ru/stylegraf/rusmilsong-c.jpg",
+      "xlimage": "http://radcap.ru/stylegraf/rusmilsong-c.jpg"
     },
     {
       "id": "russianpoetry",
@@ -3289,7 +3756,9 @@
       ],
       "listeners": 0,
       "image": "http://radcap.ru/stylegraf/poetry-c.jpg",
-      "genre": "Miscellaneous"
+      "genre": "Miscellaneous",
+      "largeimage": "http://radcap.ru/stylegraf/poetry-c.jpg",
+      "xlimage": "http://radcap.ru/stylegraf/poetry-c.jpg"
     },
     {
       "id": "russianpop",
@@ -3303,7 +3772,9 @@
       ],
       "listeners": 0,
       "image": "http://radcap.ru/stylegraf/popru-c.jpg",
-      "genre": "Pop Music"
+      "genre": "Pop Music",
+      "largeimage": "http://radcap.ru/stylegraf/popru-c.jpg",
+      "xlimage": "http://radcap.ru/stylegraf/popru-c.jpg"
     },
     {
       "id": "russianpop80's&90's",
@@ -3317,7 +3788,9 @@
       ],
       "listeners": 0,
       "image": "http://radcap.ru/stylegraf/80ru-c.jpg",
-      "genre": "Pop Music"
+      "genre": "Pop Music",
+      "largeimage": "http://radcap.ru/stylegraf/80ru-c.jpg",
+      "xlimage": "http://radcap.ru/stylegraf/80ru-c.jpg"
     },
     {
       "id": "russianpunk",
@@ -3331,7 +3804,9 @@
       ],
       "listeners": 0,
       "image": "http://radcap.ru/stylegraf/punkrockru-c.jpg",
-      "genre": "Rock Music"
+      "genre": "Rock Music",
+      "largeimage": "http://radcap.ru/stylegraf/punkrockru-c.jpg",
+      "xlimage": "http://radcap.ru/stylegraf/punkrockru-c.jpg"
     },
     {
       "id": "russianrap",
@@ -3345,7 +3820,9 @@
       ],
       "listeners": 0,
       "image": "http://radcap.ru/stylegraf/rapru-c.jpg",
-      "genre": "Hip-hop / Rap Music"
+      "genre": "Hip-hop / Rap Music",
+      "largeimage": "http://radcap.ru/stylegraf/rapru-c.jpg",
+      "xlimage": "http://radcap.ru/stylegraf/rapru-c.jpg"
     },
     {
       "id": "russianrock",
@@ -3359,7 +3836,9 @@
       ],
       "listeners": 0,
       "image": "http://radcap.ru/stylegraf/rockru-c.jpg",
-      "genre": "Rock Music"
+      "genre": "Rock Music",
+      "largeimage": "http://radcap.ru/stylegraf/rockru-c.jpg",
+      "xlimage": "http://radcap.ru/stylegraf/rockru-c.jpg"
     },
     {
       "id": "salsa",
@@ -3373,7 +3852,9 @@
       ],
       "listeners": 0,
       "image": "http://radcap.ru/stylegraf/salsa-c.jpg",
-      "genre": "Ethnic / Folk / Spirit Music"
+      "genre": "Ethnic / Folk / Spirit Music",
+      "largeimage": "http://radcap.ru/stylegraf/salsa-c.jpg",
+      "xlimage": "http://radcap.ru/stylegraf/salsa-c.jpg"
     },
     {
       "id": "saxophone",
@@ -3387,7 +3868,9 @@
       ],
       "listeners": 0,
       "image": "http://radcap.ru/stylegraf/saxophone-c.jpg",
-      "genre": "Miscellaneous"
+      "genre": "Miscellaneous",
+      "largeimage": "http://radcap.ru/stylegraf/saxophone-c.jpg",
+      "xlimage": "http://radcap.ru/stylegraf/saxophone-c.jpg"
     },
     {
       "id": "screamoemo",
@@ -3401,7 +3884,9 @@
       ],
       "listeners": 0,
       "image": "http://radcap.ru/stylegraf/emocore-c.jpg",
-      "genre": "Metal"
+      "genre": "Metal",
+      "largeimage": "http://radcap.ru/stylegraf/emocore-c.jpg",
+      "xlimage": "http://radcap.ru/stylegraf/emocore-c.jpg"
     },
     {
       "id": "sensual",
@@ -3415,7 +3900,9 @@
       ],
       "listeners": 0,
       "image": "http://radcap.ru/stylegraf/ero-c.jpg",
-      "genre": "Miscellaneous"
+      "genre": "Miscellaneous",
+      "largeimage": "http://radcap.ru/stylegraf/ero-c.jpg",
+      "xlimage": "http://radcap.ru/stylegraf/ero-c.jpg"
     },
     {
       "id": "shoegazing",
@@ -3429,7 +3916,9 @@
       ],
       "listeners": 0,
       "image": "http://radcap.ru/stylegraf/shoegazing-c.jpg",
-      "genre": "Rock Music"
+      "genre": "Rock Music",
+      "largeimage": "http://radcap.ru/stylegraf/shoegazing-c.jpg",
+      "xlimage": "http://radcap.ru/stylegraf/shoegazing-c.jpg"
     },
     {
       "id": "ska",
@@ -3443,7 +3932,9 @@
       ],
       "listeners": 0,
       "image": "http://radcap.ru/stylegraf/ska-c.jpg",
-      "genre": "Reggae / Ska"
+      "genre": "Reggae / Ska",
+      "largeimage": "http://radcap.ru/stylegraf/ska-c.jpg",
+      "xlimage": "http://radcap.ru/stylegraf/ska-c.jpg"
     },
     {
       "id": "ska-punkcore",
@@ -3457,7 +3948,9 @@
       ],
       "listeners": 0,
       "image": "http://radcap.ru/stylegraf/skapunk-c.jpg",
-      "genre": "Reggae / Ska"
+      "genre": "Reggae / Ska",
+      "largeimage": "http://radcap.ru/stylegraf/skapunk-c.jpg",
+      "xlimage": "http://radcap.ru/stylegraf/skapunk-c.jpg"
     },
     {
       "id": "sludgemetal",
@@ -3471,7 +3964,9 @@
       ],
       "listeners": 0,
       "image": "http://radcap.ru/stylegraf/sludgemetal-c.jpg",
-      "genre": "Metal"
+      "genre": "Metal",
+      "largeimage": "http://radcap.ru/stylegraf/sludgemetal-c.jpg",
+      "xlimage": "http://radcap.ru/stylegraf/sludgemetal-c.jpg"
     },
     {
       "id": "smoothjazz",
@@ -3485,7 +3980,9 @@
       ],
       "listeners": 0,
       "image": "http://radcap.ru/stylegraf/smoothjazz-c.jpg",
-      "genre": "Jazz"
+      "genre": "Jazz",
+      "largeimage": "http://radcap.ru/stylegraf/smoothjazz-c.jpg",
+      "xlimage": "http://radcap.ru/stylegraf/smoothjazz-c.jpg"
     },
     {
       "id": "soul",
@@ -3499,7 +3996,9 @@
       ],
       "listeners": 0,
       "image": "http://radcap.ru/stylegraf/soul-c.jpg",
-      "genre": "Blues/ Soul / Funk / R&B"
+      "genre": "Blues/ Soul / Funk / R&B",
+      "largeimage": "http://radcap.ru/stylegraf/soul-c.jpg",
+      "xlimage": "http://radcap.ru/stylegraf/soul-c.jpg"
     },
     {
       "id": "soulblues",
@@ -3513,7 +4012,9 @@
       ],
       "listeners": 0,
       "image": "http://radcap.ru/stylegraf/soulblues-c.jpg",
-      "genre": "Blues/ Soul / Funk / R&B"
+      "genre": "Blues/ Soul / Funk / R&B",
+      "largeimage": "http://radcap.ru/stylegraf/soulblues-c.jpg",
+      "xlimage": "http://radcap.ru/stylegraf/soulblues-c.jpg"
     },
     {
       "id": "souljazz",
@@ -3527,7 +4028,9 @@
       ],
       "listeners": 0,
       "image": "http://radcap.ru/stylegraf/souljazz-c.jpg",
-      "genre": "Jazz"
+      "genre": "Jazz",
+      "largeimage": "http://radcap.ru/stylegraf/souljazz-c.jpg",
+      "xlimage": "http://radcap.ru/stylegraf/souljazz-c.jpg"
     },
     {
       "id": "soulfulhouse",
@@ -3541,7 +4044,9 @@
       ],
       "listeners": 0,
       "image": "http://radcap.ru/stylegraf/soulfulhouse-c.jpg",
-      "genre": "Electronic Music"
+      "genre": "Electronic Music",
+      "largeimage": "http://radcap.ru/stylegraf/soulfulhouse-c.jpg",
+      "xlimage": "http://radcap.ru/stylegraf/soulfulhouse-c.jpg"
     },
     {
       "id": "soundofnature",
@@ -3555,7 +4060,9 @@
       ],
       "listeners": 0,
       "image": "http://radcap.ru/stylegraf/soundsnat-c.jpg",
-      "genre": "Miscellaneous"
+      "genre": "Miscellaneous",
+      "largeimage": "http://radcap.ru/stylegraf/soundsnat-c.jpg",
+      "xlimage": "http://radcap.ru/stylegraf/soundsnat-c.jpg"
     },
     {
       "id": "southernraphip-hop",
@@ -3569,7 +4076,9 @@
       ],
       "listeners": 0,
       "image": "http://radcap.ru/stylegraf/southernrap-c.jpg",
-      "genre": "Hip-hop / Rap Music"
+      "genre": "Hip-hop / Rap Music",
+      "largeimage": "http://radcap.ru/stylegraf/southernrap-c.jpg",
+      "xlimage": "http://radcap.ru/stylegraf/southernrap-c.jpg"
     },
     {
       "id": "southernrock",
@@ -3583,7 +4092,9 @@
       ],
       "listeners": 0,
       "image": "http://radcap.ru/stylegraf/southernrock-c.jpg",
-      "genre": "Rock Music"
+      "genre": "Rock Music",
+      "largeimage": "http://radcap.ru/stylegraf/southernrock-c.jpg",
+      "xlimage": "http://radcap.ru/stylegraf/southernrock-c.jpg"
     },
     {
       "id": "spacemusic",
@@ -3597,7 +4108,9 @@
       ],
       "listeners": 0,
       "image": "http://radcap.ru/stylegraf/spacemusic-c.jpg",
-      "genre": "Electronic Music"
+      "genre": "Electronic Music",
+      "largeimage": "http://radcap.ru/stylegraf/spacemusic-c.jpg",
+      "xlimage": "http://radcap.ru/stylegraf/spacemusic-c.jpg"
     },
     {
       "id": "spacerock",
@@ -3611,7 +4124,9 @@
       ],
       "listeners": 0,
       "image": "http://radcap.ru/stylegraf/spacerock-c.jpg",
-      "genre": "Rock Music"
+      "genre": "Rock Music",
+      "largeimage": "http://radcap.ru/stylegraf/spacerock-c.jpg",
+      "xlimage": "http://radcap.ru/stylegraf/spacerock-c.jpg"
     },
     {
       "id": "spacesynth",
@@ -3625,7 +4140,9 @@
       ],
       "listeners": 0,
       "image": "http://radcap.ru/stylegraf/spacesynth-c.jpg",
-      "genre": "Electronic Music"
+      "genre": "Electronic Music",
+      "largeimage": "http://radcap.ru/stylegraf/spacesynth-c.jpg",
+      "xlimage": "http://radcap.ru/stylegraf/spacesynth-c.jpg"
     },
     {
       "id": "speedmetal",
@@ -3639,7 +4156,9 @@
       ],
       "listeners": 0,
       "image": "http://radcap.ru/stylegraf/speedmetal-c.jpg",
-      "genre": "Metal"
+      "genre": "Metal",
+      "largeimage": "http://radcap.ru/stylegraf/speedmetal-c.jpg",
+      "xlimage": "http://radcap.ru/stylegraf/speedmetal-c.jpg"
     },
     {
       "id": "stonerstonerdoommetal",
@@ -3653,7 +4172,9 @@
       ],
       "listeners": 0,
       "image": "http://radcap.ru/stylegraf/stonermetal-c.jpg",
-      "genre": "Metal"
+      "genre": "Metal",
+      "largeimage": "http://radcap.ru/stylegraf/stonermetal-c.jpg",
+      "xlimage": "http://radcap.ru/stylegraf/stonermetal-c.jpg"
     },
     {
       "id": "stonerrock",
@@ -3667,7 +4188,9 @@
       ],
       "listeners": 0,
       "image": "http://radcap.ru/stylegraf/stonerrock-c.jpg",
-      "genre": "Rock Music"
+      "genre": "Rock Music",
+      "largeimage": "http://radcap.ru/stylegraf/stonerrock-c.jpg",
+      "xlimage": "http://radcap.ru/stylegraf/stonerrock-c.jpg"
     },
     {
       "id": "strings",
@@ -3681,7 +4204,9 @@
       ],
       "listeners": 0,
       "image": "http://radcap.ru/stylegraf/strings-c.jpg",
-      "genre": "Classical"
+      "genre": "Classical",
+      "largeimage": "http://radcap.ru/stylegraf/strings-c.jpg",
+      "xlimage": "http://radcap.ru/stylegraf/strings-c.jpg"
     },
     {
       "id": "surfrock",
@@ -3695,7 +4220,9 @@
       ],
       "listeners": 0,
       "image": "http://radcap.ru/stylegraf/surfrock-c.jpg",
-      "genre": "Rock Music"
+      "genre": "Rock Music",
+      "largeimage": "http://radcap.ru/stylegraf/surfrock-c.jpg",
+      "xlimage": "http://radcap.ru/stylegraf/surfrock-c.jpg"
     },
     {
       "id": "swing",
@@ -3709,7 +4236,9 @@
       ],
       "listeners": 0,
       "image": "http://radcap.ru/stylegraf/swing-c.jpg",
-      "genre": "Jazz"
+      "genre": "Jazz",
+      "largeimage": "http://radcap.ru/stylegraf/swing-c.jpg",
+      "xlimage": "http://radcap.ru/stylegraf/swing-c.jpg"
     },
     {
       "id": "symphonicblackmetal",
@@ -3723,7 +4252,9 @@
       ],
       "listeners": 0,
       "image": "http://radcap.ru/stylegraf/symphoblack-c.jpg",
-      "genre": "Metal"
+      "genre": "Metal",
+      "largeimage": "http://radcap.ru/stylegraf/symphoblack-c.jpg",
+      "xlimage": "http://radcap.ru/stylegraf/symphoblack-c.jpg"
     },
     {
       "id": "symphonicmetal",
@@ -3737,7 +4268,9 @@
       ],
       "listeners": 0,
       "image": "http://radcap.ru/stylegraf/symphonicmetal-c.jpg",
-      "genre": "Metal"
+      "genre": "Metal",
+      "largeimage": "http://radcap.ru/stylegraf/symphonicmetal-c.jpg",
+      "xlimage": "http://radcap.ru/stylegraf/symphonicmetal-c.jpg"
     },
     {
       "id": "symphonicrock",
@@ -3751,7 +4284,9 @@
       ],
       "listeners": 0,
       "image": "http://radcap.ru/stylegraf/symphrock-c.jpg",
-      "genre": "Rock Music"
+      "genre": "Rock Music",
+      "largeimage": "http://radcap.ru/stylegraf/symphrock-c.jpg",
+      "xlimage": "http://radcap.ru/stylegraf/symphrock-c.jpg"
     },
     {
       "id": "symphony",
@@ -3765,7 +4300,9 @@
       ],
       "listeners": 0,
       "image": "http://radcap.ru/stylegraf/symphony-c.jpg",
-      "genre": "Classical"
+      "genre": "Classical",
+      "largeimage": "http://radcap.ru/stylegraf/symphony-c.jpg",
+      "xlimage": "http://radcap.ru/stylegraf/symphony-c.jpg"
     },
     {
       "id": "synthpop",
@@ -3779,7 +4316,9 @@
       ],
       "listeners": 0,
       "image": "http://radcap.ru/stylegraf/synthpop-c.jpg",
-      "genre": "Electronic Music"
+      "genre": "Electronic Music",
+      "largeimage": "http://radcap.ru/stylegraf/synthpop-c.jpg",
+      "xlimage": "http://radcap.ru/stylegraf/synthpop-c.jpg"
     },
     {
       "id": "tango",
@@ -3793,7 +4332,9 @@
       ],
       "listeners": 0,
       "image": "http://radcap.ru/stylegraf/tango-c.jpg",
-      "genre": "Ethnic / Folk / Spirit Music"
+      "genre": "Ethnic / Folk / Spirit Music",
+      "largeimage": "http://radcap.ru/stylegraf/tango-c.jpg",
+      "xlimage": "http://radcap.ru/stylegraf/tango-c.jpg"
     },
     {
       "id": "technicaldeathmetal",
@@ -3807,7 +4348,9 @@
       ],
       "listeners": 0,
       "image": "http://radcap.ru/stylegraf/tdm-c.jpg",
-      "genre": "Metal"
+      "genre": "Metal",
+      "largeimage": "http://radcap.ru/stylegraf/tdm-c.jpg",
+      "xlimage": "http://radcap.ru/stylegraf/tdm-c.jpg"
     },
     {
       "id": "techno",
@@ -3821,7 +4364,9 @@
       ],
       "listeners": 0,
       "image": "http://radcap.ru/stylegraf/techno-c.jpg",
-      "genre": "Electronic Music"
+      "genre": "Electronic Music",
+      "largeimage": "http://radcap.ru/stylegraf/techno-c.jpg",
+      "xlimage": "http://radcap.ru/stylegraf/techno-c.jpg"
     },
     {
       "id": "thrashmetal",
@@ -3835,7 +4380,9 @@
       ],
       "listeners": 0,
       "image": "http://radcap.ru/stylegraf/thrash-c.jpg",
-      "genre": "Metal"
+      "genre": "Metal",
+      "largeimage": "http://radcap.ru/stylegraf/thrash-c.jpg",
+      "xlimage": "http://radcap.ru/stylegraf/thrash-c.jpg"
     },
     {
       "id": "traditionalelectronic",
@@ -3849,7 +4396,9 @@
       ],
       "listeners": 0,
       "image": "http://radcap.ru/stylegraf/traditionalelectronic-c.jpg",
-      "genre": "Electronic Music"
+      "genre": "Electronic Music",
+      "largeimage": "http://radcap.ru/stylegraf/traditionalelectronic-c.jpg",
+      "xlimage": "http://radcap.ru/stylegraf/traditionalelectronic-c.jpg"
     },
     {
       "id": "trance",
@@ -3863,7 +4412,9 @@
       ],
       "listeners": 0,
       "image": "http://radcap.ru/stylegraf/trance-c.jpg",
-      "genre": "Electronic Music"
+      "genre": "Electronic Music",
+      "largeimage": "http://radcap.ru/stylegraf/trance-c.jpg",
+      "xlimage": "http://radcap.ru/stylegraf/trance-c.jpg"
     },
     {
       "id": "trip-hop",
@@ -3877,7 +4428,9 @@
       ],
       "listeners": 0,
       "image": "http://radcap.ru/stylegraf/triphop-c.jpg",
-      "genre": "Electronic Music"
+      "genre": "Electronic Music",
+      "largeimage": "http://radcap.ru/stylegraf/triphop-c.jpg",
+      "xlimage": "http://radcap.ru/stylegraf/triphop-c.jpg"
     },
     {
       "id": "undergroundrap",
@@ -3891,7 +4444,9 @@
       ],
       "listeners": 0,
       "image": "http://radcap.ru/stylegraf/undergroundrap-c.jpg",
-      "genre": "Hip-hop / Rap Music"
+      "genre": "Hip-hop / Rap Music",
+      "largeimage": "http://radcap.ru/stylegraf/undergroundrap-c.jpg",
+      "xlimage": "http://radcap.ru/stylegraf/undergroundrap-c.jpg"
     },
     {
       "id": "upliftingtrance",
@@ -3905,7 +4460,9 @@
       ],
       "listeners": 0,
       "image": "http://radcap.ru/stylegraf/upliftingtrance-c.jpg",
-      "genre": "Electronic Music"
+      "genre": "Electronic Music",
+      "largeimage": "http://radcap.ru/stylegraf/upliftingtrance-c.jpg",
+      "xlimage": "http://radcap.ru/stylegraf/upliftingtrance-c.jpg"
     },
     {
       "id": "vikingmetal",
@@ -3919,7 +4476,9 @@
       ],
       "listeners": 0,
       "image": "http://radcap.ru/stylegraf/vikingmetal-c.jpg",
-      "genre": "Metal"
+      "genre": "Metal",
+      "largeimage": "http://radcap.ru/stylegraf/vikingmetal-c.jpg",
+      "xlimage": "http://radcap.ru/stylegraf/vikingmetal-c.jpg"
     },
     {
       "id": "vocal",
@@ -3932,8 +4491,10 @@
         }
       ],
       "listeners": 0,
-      "image": "http://radcap.ru/stylegraf/vocal55-c.jpg",
-      "genre": "Miscellaneous"
+      "image": "http://radcap.ru/stylegraf/vocal-c.jpg",
+      "genre": "Miscellaneous",
+      "largeimage": "http://radcap.ru/stylegraf/vocal-c.jpg",
+      "xlimage": "http://radcap.ru/stylegraf/vocal-c.jpg"
     },
     {
       "id": "vocaljazz",
@@ -3947,7 +4508,9 @@
       ],
       "listeners": 0,
       "image": "http://radcap.ru/stylegraf/vocaljazz-c.jpg",
-      "genre": "Jazz"
+      "genre": "Jazz",
+      "largeimage": "http://radcap.ru/stylegraf/vocaljazz-c.jpg",
+      "xlimage": "http://radcap.ru/stylegraf/vocaljazz-c.jpg"
     },
     {
       "id": "vocaltrance",
@@ -3961,7 +4524,9 @@
       ],
       "listeners": 0,
       "image": "http://radcap.ru/stylegraf/vocaltrance-c.jpg",
-      "genre": "Electronic Music"
+      "genre": "Electronic Music",
+      "largeimage": "http://radcap.ru/stylegraf/vocaltrance-c.jpg",
+      "xlimage": "http://radcap.ru/stylegraf/vocaltrance-c.jpg"
     },
     {
       "id": "witchhouse",
@@ -3975,11 +4540,13 @@
       ],
       "listeners": 0,
       "image": "http://radcap.ru/stylegraf/witchhouse-c.jpg",
-      "genre": "Electronic Music"
+      "genre": "Electronic Music",
+      "largeimage": "http://radcap.ru/stylegraf/witchhouse-c.jpg",
+      "xlimage": "http://radcap.ru/stylegraf/witchhouse-c.jpg"
     },
     {
-      "id": "\u0431\u0430\u0440\u0434\u043e\u0432\u0441\u043a\u0430\u044f\u043f\u0435\u0441\u043d\u044f",
-      "title": "\u0411\u0430\u0440\u0434\u043e\u0432\u0441\u043a\u0430\u044f \u043f\u0435\u0441\u043d\u044f",
+      "id": "бардовскаяпесня",
+      "title": "Бардовская песня",
       "playlists": [
         {
           "format": "mp3",
@@ -3989,11 +4556,13 @@
       ],
       "listeners": 0,
       "image": "http://radcap.ru/stylegraf/bard-c.jpg",
-     "genre": "Russian songs"
+      "genre": "Russian songs",
+      "largeimage": "http://radcap.ru/stylegraf/bard-c.jpg",
+      "xlimage": "http://radcap.ru/stylegraf/bard-c.jpg"
     },
     {
-      "id": "\u043f\u043e\u0441\u0442\u0448\u0430\u043d\u0441\u043e\u043d",
-      "title": "\u041f\u043e\u0441\u0442\u0448\u0430\u043d\u0441\u043e\u043d",
+      "id": "постшансон",
+      "title": "Постшансон",
       "playlists": [
         {
           "format": "mp3",
@@ -4003,11 +4572,13 @@
       ],
       "listeners": 0,
       "image": "http://radcap.ru/stylegraf/postshanson-c.jpg",
-     "genre": "Russian songs"
+      "genre": "Russian songs",
+      "largeimage": "http://radcap.ru/stylegraf/postshanson-c.jpg",
+      "xlimage": "http://radcap.ru/stylegraf/postshanson-c.jpg"
     },
     {
-      "id": "\u0440\u0443\u0441\u0441\u043a\u0438\u0439\u0440\u043e\u043c\u0430\u043d\u0441",
-      "title": "\u0420\u0443\u0441\u0441\u043a\u0438\u0439 \u0420\u043e\u043c\u0430\u043d\u0441",
+      "id": "русскийроманс",
+      "title": "Русский Романс",
       "playlists": [
         {
           "format": "mp3",
@@ -4017,11 +4588,13 @@
       ],
       "listeners": 0,
       "image": "http://radcap.ru/stylegraf/romance-c.jpg",
-     "genre": "Russian songs"
+      "genre": "Russian songs",
+      "largeimage": "http://radcap.ru/stylegraf/romance-c.jpg",
+      "xlimage": "http://radcap.ru/stylegraf/romance-c.jpg"
     },
     {
-      "id": "\u0446\u044b\u0433\u0430\u043d\u0441\u043a\u0430\u044f\u043f\u0435\u0441\u043d\u044f",
-      "title": "\u0426\u044b\u0433\u0430\u043d\u0441\u043a\u0430\u044f \u043f\u0435\u0441\u043d\u044f",
+      "id": "цыганскаяпесня",
+      "title": "Цыганская песня",
       "playlists": [
         {
           "format": "mp3",
@@ -4031,11 +4604,13 @@
       ],
       "listeners": 0,
       "image": "http://radcap.ru/stylegraf/gypsyru-c.jpg",
-     "genre": "Russian songs"
+      "genre": "Russian songs",
+      "largeimage": "http://radcap.ru/stylegraf/gypsyru-c.jpg",
+      "xlimage": "http://radcap.ru/stylegraf/gypsyru-c.jpg"
     },
     {
-      "id": "\u0448\u0430\u043d\u0441\u043e\u043d",
-      "title": "\u0428\u0430\u043d\u0441\u043e\u043d",
+      "id": "шансон",
+      "title": "Шансон",
       "playlists": [
         {
           "format": "mp3",
@@ -4045,7 +4620,9 @@
       ],
       "listeners": 0,
       "image": "http://radcap.ru/stylegraf/shansonru-c.jpg",
-     "genre": "Russian songs"
+      "genre": "Russian songs",
+      "largeimage": "http://radcap.ru/stylegraf/shansonru-c.jpg",
+      "xlimage": "http://radcap.ru/stylegraf/shansonru-c.jpg"
     },
     {
       "id": "noiserock",
@@ -4059,7 +4636,9 @@
       ],
       "listeners": 0,
       "image": "http://radcap.ru/stylegraf/noiserock-c.jpg",
-      "genre": "Rock Music"
+      "genre": "Rock Music",
+      "largeimage": "http://radcap.ru/stylegraf/noiserock-c.jpg",
+      "xlimage": "http://radcap.ru/stylegraf/noiserock-c.jpg"
     },
     {
       "id": "mathrock",
@@ -4073,7 +4652,9 @@
       ],
       "listeners": 0,
       "image": "http://radcap.ru/stylegraf/mathrock-c.jpg",
-      "genre": "Rock Music"
+      "genre": "Rock Music",
+      "largeimage": "http://radcap.ru/stylegraf/mathrock-c.jpg",
+      "xlimage": "http://radcap.ru/stylegraf/mathrock-c.jpg"
     },
     {
       "id": "contemporaryclassical",
@@ -4087,7 +4668,9 @@
       ],
       "listeners": 0,
       "image": "http://radcap.ru/stylegraf/contclass-c.jpg",
-      "genre": "Classical"
+      "genre": "Classical",
+      "largeimage": "http://radcap.ru/stylegraf/contclass-c.jpg",
+      "xlimage": "http://radcap.ru/stylegraf/contclass-c.jpg"
     },
     {
       "id": "jazzrapjazzyhip-hop",
@@ -4101,7 +4684,9 @@
       ],
       "listeners": 0,
       "image": "http://radcap.ru/stylegraf/jazzrap-c.jpg",
-      "genre": "Hip-hop / Rap Music"
+      "genre": "Hip-hop / Rap Music",
+      "largeimage": "http://radcap.ru/stylegraf/jazzrap-c.jpg",
+      "xlimage": "http://radcap.ru/stylegraf/jazzrap-c.jpg"
     },
     {
       "id": "ethnoworldjazz",
@@ -4115,7 +4700,9 @@
       ],
       "listeners": 0,
       "image": "http://radcap.ru/stylegraf/ethnojazz-c.jpg",
-      "genre": "Jazz"
+      "genre": "Jazz",
+      "largeimage": "http://radcap.ru/stylegraf/ethnojazz-c.jpg",
+      "xlimage": "http://radcap.ru/stylegraf/ethnojazz-c.jpg"
     },
     {
       "id": "eurobeathi-nrg",
@@ -4129,7 +4716,9 @@
       ],
       "listeners": 0,
       "image": "http://radcap.ru/stylegraf/eurobeat-c.jpg",
-      "genre": "Pop Music"
+      "genre": "Pop Music",
+      "largeimage": "http://radcap.ru/stylegraf/eurobeat-c.jpg",
+      "xlimage": "http://radcap.ru/stylegraf/eurobeat-c.jpg"
     },
     {
       "id": "brokenbeat",
@@ -4143,7 +4732,9 @@
       ],
       "listeners": 0,
       "image": "http://radcap.ru/stylegraf/brokenbeat-c.jpg",
-      "genre": "Electronic Music"
+      "genre": "Electronic Music",
+      "largeimage": "http://radcap.ru/stylegraf/brokenbeat-c.jpg",
+      "xlimage": "http://radcap.ru/stylegraf/brokenbeat-c.jpg"
     },
     {
       "id": "suomisaundifreeformpsytrance",
@@ -4157,7 +4748,9 @@
       ],
       "listeners": 0,
       "image": "http://radcap.ru/stylegraf/suomisaundi-c.jpg",
-      "genre": "Electronic Music"
+      "genre": "Electronic Music",
+      "largeimage": "http://radcap.ru/stylegraf/suomisaundi-c.jpg",
+      "xlimage": "http://radcap.ru/stylegraf/suomisaundi-c.jpg"
     },
     {
       "id": "horrorpunk",
@@ -4171,7 +4764,9 @@
       ],
       "listeners": 0,
       "image": "http://radcap.ru/stylegraf/horrorpunk-c.jpg",
-      "genre": "Rock Music"
+      "genre": "Rock Music",
+      "largeimage": "http://radcap.ru/stylegraf/horrorpunk-c.jpg",
+      "xlimage": "http://radcap.ru/stylegraf/horrorpunk-c.jpg"
     },
     {
       "id": "breakcore",
@@ -4185,7 +4780,9 @@
       ],
       "listeners": 0,
       "image": "http://radcap.ru/stylegraf/breakcore-c.jpg",
-      "genre": "Electronic Music"
+      "genre": "Electronic Music",
+      "largeimage": "http://radcap.ru/stylegraf/breakcore-c.jpg",
+      "xlimage": "http://radcap.ru/stylegraf/breakcore-c.jpg"
     },
     {
       "id": "chamberbaroquepoprock",
@@ -4199,7 +4796,9 @@
       ],
       "listeners": 0,
       "image": "http://radcap.ru/stylegraf/chamberpop-c.jpg",
-      "genre": "Rock Music"
+      "genre": "Rock Music",
+      "largeimage": "http://radcap.ru/stylegraf/chamberpop-c.jpg",
+      "xlimage": "http://radcap.ru/stylegraf/chamberpop-c.jpg"
     },
     {
       "id": "avant-prog",
@@ -4213,7 +4812,9 @@
       ],
       "listeners": 0,
       "image": "http://radcap.ru/stylegraf/avantprog-c.jpg",
-      "genre": "Rock Music"
+      "genre": "Rock Music",
+      "largeimage": "http://radcap.ru/stylegraf/avantprog-c.jpg",
+      "xlimage": "http://radcap.ru/stylegraf/avantprog-c.jpg"
     },
     {
       "id": "acidhouse",
@@ -4226,8 +4827,10 @@
         }
       ],
       "listeners": 0,
-      "image": "http://radcap.ru/stylegraf/acid-c.jpg",
-      "genre": "Electronic Music"
+      "image": "http://radcap.ru/stylegraf/acid-c.png",
+      "genre": "Electronic Music",
+      "largeimage": "http://radcap.ru/stylegraf/acid-c.png",
+      "xlimage": "http://radcap.ru/stylegraf/acid-c.png"
     },
     {
       "id": "trailermusic",
@@ -4241,7 +4844,9 @@
       ],
       "listeners": 0,
       "image": "http://radcap.ru/stylegraf/trailer-c.jpg",
-      "genre": "Miscellaneous"
+      "genre": "Miscellaneous",
+      "largeimage": "http://radcap.ru/stylegraf/trailer-c.jpg",
+      "xlimage": "http://radcap.ru/stylegraf/trailer-c.jpg"
     },
     {
       "id": "electronicore",
@@ -4255,7 +4860,9 @@
       ],
       "listeners": 0,
       "image": "http://radcap.ru/stylegraf/electronicore-c.jpg",
-      "genre": "Metal"
+      "genre": "Metal",
+      "largeimage": "http://radcap.ru/stylegraf/electronicore-c.jpg",
+      "xlimage": "http://radcap.ru/stylegraf/electronicore-c.jpg"
     },
     {
       "id": "blackblackenddoommetal",
@@ -4269,7 +4876,9 @@
       ],
       "listeners": 0,
       "image": "http://radcap.ru/stylegraf/blackdoom-c.jpg",
-      "genre": "Metal"
+      "genre": "Metal",
+      "largeimage": "http://radcap.ru/stylegraf/blackdoom-c.jpg",
+      "xlimage": "http://radcap.ru/stylegraf/blackdoom-c.jpg"
     },
     {
       "id": "ambientintelligenttechno",
@@ -4283,7 +4892,9 @@
       ],
       "listeners": 0,
       "image": "http://radcap.ru/stylegraf/ambienttechno-c.jpg",
-      "genre": "Electronic Music"
+      "genre": "Electronic Music",
+      "largeimage": "http://radcap.ru/stylegraf/ambienttechno-c.jpg",
+      "xlimage": "http://radcap.ru/stylegraf/ambienttechno-c.jpg"
     },
     {
       "id": "gothicdoommetal",
@@ -4297,7 +4908,9 @@
       ],
       "listeners": 0,
       "image": "http://radcap.ru/stylegraf/gothicdoom-c.jpg",
-      "genre": "Metal"
+      "genre": "Metal",
+      "largeimage": "http://radcap.ru/stylegraf/gothicdoom-c.jpg",
+      "xlimage": "http://radcap.ru/stylegraf/gothicdoom-c.jpg"
     },
     {
       "id": "rocksteadyloversrock",
@@ -4311,7 +4924,9 @@
       ],
       "listeners": 0,
       "image": "http://radcap.ru/stylegraf/rocksteady-c.jpg",
-      "genre": "Reggae / Ska"
+      "genre": "Reggae / Ska",
+      "largeimage": "http://radcap.ru/stylegraf/rocksteady-c.jpg",
+      "xlimage": "http://radcap.ru/stylegraf/rocksteady-c.jpg"
     },
     {
       "id": "hardcoreraphorrorcore",
@@ -4325,7 +4940,9 @@
       ],
       "listeners": 0,
       "image": "http://radcap.ru/stylegraf/hardcorerap-c.jpg",
-      "genre": "Hip-hop / Rap Music"
+      "genre": "Hip-hop / Rap Music",
+      "largeimage": "http://radcap.ru/stylegraf/hardcorerap-c.jpg",
+      "xlimage": "http://radcap.ru/stylegraf/hardcorerap-c.jpg"
     },
     {
       "id": "texasblues",
@@ -4339,7 +4956,9 @@
       ],
       "listeners": 0,
       "image": "http://radcap.ru/stylegraf/texasblues-c.jpg",
-      "genre": "Blues/ Soul / Funk / R&B"
+      "genre": "Blues/ Soul / Funk / R&B",
+      "largeimage": "http://radcap.ru/stylegraf/texasblues-c.jpg",
+      "xlimage": "http://radcap.ru/stylegraf/texasblues-c.jpg"
     },
     {
       "id": "crossoverprog",
@@ -4353,7 +4972,9 @@
       ],
       "listeners": 0,
       "image": "http://radcap.ru/stylegraf/crossoverprog-c.jpg",
-      "genre": "Rock Music"
+      "genre": "Rock Music",
+      "largeimage": "http://radcap.ru/stylegraf/crossoverprog-c.jpg",
+      "xlimage": "http://radcap.ru/stylegraf/crossoverprog-c.jpg"
     },
     {
       "id": "eclecticprog",
@@ -4367,7 +4988,9 @@
       ],
       "listeners": 0,
       "image": "http://radcap.ru/stylegraf/eclecticprog-c.jpg",
-      "genre": "Rock Music"
+      "genre": "Rock Music",
+      "largeimage": "http://radcap.ru/stylegraf/eclecticprog-c.jpg",
+      "xlimage": "http://radcap.ru/stylegraf/eclecticprog-c.jpg"
     },
     {
       "id": "heavyhardprog",
@@ -4381,7 +5004,9 @@
       ],
       "listeners": 0,
       "image": "http://radcap.ru/stylegraf/heavyprog-c.jpg",
-      "genre": "Rock Music"
+      "genre": "Rock Music",
+      "largeimage": "http://radcap.ru/stylegraf/heavyprog-c.jpg",
+      "xlimage": "http://radcap.ru/stylegraf/heavyprog-c.jpg"
     },
     {
       "id": "pianorockpop",
@@ -4395,7 +5020,9 @@
       ],
       "listeners": 0,
       "image": "http://radcap.ru/stylegraf/pianorock-c.jpg",
-      "genre": "Rock Music"
+      "genre": "Rock Music",
+      "largeimage": "http://radcap.ru/stylegraf/pianorock-c.jpg",
+      "xlimage": "http://radcap.ru/stylegraf/pianorock-c.jpg"
     },
     {
       "id": "melodicmetalcore",
@@ -4409,7 +5036,9 @@
       ],
       "listeners": 0,
       "image": "http://radcap.ru/stylegraf/melodicmetalcore-c.jpg",
-      "genre": "Metal"
+      "genre": "Metal",
+      "largeimage": "http://radcap.ru/stylegraf/melodicmetalcore-c.jpg",
+      "xlimage": "http://radcap.ru/stylegraf/melodicmetalcore-c.jpg"
     },
     {
       "id": "progressivemetalcore",
@@ -4423,7 +5052,9 @@
       ],
       "listeners": 0,
       "image": "http://radcap.ru/stylegraf/progmetalcore-c.jpg",
-      "genre": "Metal"
+      "genre": "Metal",
+      "largeimage": "http://radcap.ru/stylegraf/progmetalcore-c.jpg",
+      "xlimage": "http://radcap.ru/stylegraf/progmetalcore-c.jpg"
     },
     {
       "id": "beatdownmoshcore",
@@ -4437,7 +5068,9 @@
       ],
       "listeners": 0,
       "image": "http://radcap.ru/stylegraf/beatdown-c.jpg",
-      "genre": "Metal"
+      "genre": "Metal",
+      "largeimage": "http://radcap.ru/stylegraf/beatdown-c.jpg",
+      "xlimage": "http://radcap.ru/stylegraf/beatdown-c.jpg"
     },
     {
       "id": "martialindustrialmilitarypop",
@@ -4451,7 +5084,9 @@
       ],
       "listeners": 0,
       "image": "http://radcap.ru/stylegraf/martialindustrial-c.jpg",
-      "genre": "Electronic Music"
+      "genre": "Electronic Music",
+      "largeimage": "http://radcap.ru/stylegraf/martialindustrial-c.jpg",
+      "xlimage": "http://radcap.ru/stylegraf/martialindustrial-c.jpg"
     },
     {
       "id": "heavypowermetal",
@@ -4465,7 +5100,9 @@
       ],
       "listeners": 0,
       "image": "http://radcap.ru/stylegraf/heavypowermetal-c.jpg",
-      "genre": "Metal"
+      "genre": "Metal",
+      "largeimage": "http://radcap.ru/stylegraf/heavypowermetal-c.jpg",
+      "xlimage": "http://radcap.ru/stylegraf/heavypowermetal-c.jpg"
     },
     {
       "id": "progressivepowermetal",
@@ -4479,7 +5116,9 @@
       ],
       "listeners": 0,
       "image": "http://radcap.ru/stylegraf/progpowermetal-c.jpg",
-      "genre": "Metal"
+      "genre": "Metal",
+      "largeimage": "http://radcap.ru/stylegraf/progpowermetal-c.jpg",
+      "xlimage": "http://radcap.ru/stylegraf/progpowermetal-c.jpg"
     },
     {
       "id": "epicmetal",
@@ -4493,7 +5132,9 @@
       ],
       "listeners": 0,
       "image": "http://radcap.ru/stylegraf/epicmetal-c.jpg",
-      "genre": "Metal"
+      "genre": "Metal",
+      "largeimage": "http://radcap.ru/stylegraf/epicmetal-c.jpg",
+      "xlimage": "http://radcap.ru/stylegraf/epicmetal-c.jpg"
     },
     {
       "id": "powerrhythmicnoisedbm(distortedbeatmusic)",
@@ -4507,7 +5148,9 @@
       ],
       "listeners": 0,
       "image": "http://radcap.ru/stylegraf/powernoise-c.jpg",
-      "genre": "Electronic Music"
+      "genre": "Electronic Music",
+      "largeimage": "http://radcap.ru/stylegraf/powernoise-c.jpg",
+      "xlimage": "http://radcap.ru/stylegraf/powernoise-c.jpg"
     },
     {
       "id": "nwobhm(newwaveofbritishheavymetal)",
@@ -4521,7 +5164,9 @@
       ],
       "listeners": 0,
       "image": "http://radcap.ru/stylegraf/nwobhm-c.jpg",
-      "genre": "Metal"
+      "genre": "Metal",
+      "largeimage": "http://radcap.ru/stylegraf/nwobhm-c.jpg",
+      "xlimage": "http://radcap.ru/stylegraf/nwobhm-c.jpg"
     },
     {
       "id": "animeostscore",
@@ -4535,7 +5180,9 @@
       ],
       "listeners": 0,
       "image": "http://radcap.ru/stylegraf/anime-c.jpg",
-      "genre": "Miscellaneous"
+      "genre": "Miscellaneous",
+      "largeimage": "http://radcap.ru/stylegraf/anime-c.jpg",
+      "xlimage": "http://radcap.ru/stylegraf/anime-c.jpg"
     },
     {
       "id": "chamberjazz",
@@ -4549,7 +5196,9 @@
       ],
       "listeners": 0,
       "image": "http://radcap.ru/stylegraf/chamberjazz-c.jpg",
-      "genre": "Jazz"
+      "genre": "Jazz",
+      "largeimage": "http://radcap.ru/stylegraf/chamberjazz-c.jpg",
+      "xlimage": "http://radcap.ru/stylegraf/chamberjazz-c.jpg"
     },
     {
       "id": "heavypsychedelic",
@@ -4563,7 +5212,9 @@
       ],
       "listeners": 0,
       "image": "http://radcap.ru/stylegraf/heavypsych-c.jpg",
-      "genre": "Rock Music"
+      "genre": "Rock Music",
+      "largeimage": "http://radcap.ru/stylegraf/heavypsych-c.jpg",
+      "xlimage": "http://radcap.ru/stylegraf/heavypsych-c.jpg"
     },
     {
       "id": "balkanmusic",
@@ -4577,7 +5228,9 @@
       ],
       "listeners": 0,
       "image": "http://radcap.ru/stylegraf/balkan-c.jpg",
-      "genre": "Ethnic / Folk / Spirit Music"
+      "genre": "Ethnic / Folk / Spirit Music",
+      "largeimage": "http://radcap.ru/stylegraf/balkan-c.jpg",
+      "xlimage": "http://radcap.ru/stylegraf/balkan-c.jpg"
     },
     {
       "id": "jewishmusicklezmer",
@@ -4591,7 +5244,9 @@
       ],
       "listeners": 0,
       "image": "http://radcap.ru/stylegraf/klezmer-c.jpg",
-      "genre": "Ethnic / Folk / Spirit Music"
+      "genre": "Ethnic / Folk / Spirit Music",
+      "largeimage": "http://radcap.ru/stylegraf/klezmer-c.jpg",
+      "xlimage": "http://radcap.ru/stylegraf/klezmer-c.jpg"
     },
     {
       "id": "greekmusiclaika",
@@ -4605,7 +5260,9 @@
       ],
       "listeners": 0,
       "image": "http://radcap.ru/stylegraf/laika-c.jpg",
-      "genre": "Ethnic / Folk / Spirit Music"
+      "genre": "Ethnic / Folk / Spirit Music",
+      "largeimage": "http://radcap.ru/stylegraf/laika-c.jpg",
+      "xlimage": "http://radcap.ru/stylegraf/laika-c.jpg"
     },
     {
       "id": "leftfield",
@@ -4619,7 +5276,9 @@
       ],
       "listeners": 0,
       "image": "http://radcap.ru/stylegraf/leftfield-c.jpg",
-      "genre": "Electronic Music"
+      "genre": "Electronic Music",
+      "largeimage": "http://radcap.ru/stylegraf/leftfield-c.jpg",
+      "xlimage": "http://radcap.ru/stylegraf/leftfield-c.jpg"
     },
     {
       "id": "africanfolkethnic",
@@ -4633,7 +5292,9 @@
       ],
       "listeners": 0,
       "image": "http://radcap.ru/stylegraf/africanfolk-c.jpg",
-      "genre": "Ethnic / Folk / Spirit Music"
+      "genre": "Ethnic / Folk / Spirit Music",
+      "largeimage": "http://radcap.ru/stylegraf/africanfolk-c.jpg",
+      "xlimage": "http://radcap.ru/stylegraf/africanfolk-c.jpg"
     },
     {
       "id": "caucasianmusic",
@@ -4647,7 +5308,9 @@
       ],
       "listeners": 0,
       "image": "http://radcap.ru/stylegraf/caucasus-c.jpg",
-      "genre": "Ethnic / Folk / Spirit Music"
+      "genre": "Ethnic / Folk / Spirit Music",
+      "largeimage": "http://radcap.ru/stylegraf/caucasus-c.jpg",
+      "xlimage": "http://radcap.ru/stylegraf/caucasus-c.jpg"
     },
     {
       "id": "honky-tonk",
@@ -4661,7 +5324,9 @@
       ],
       "listeners": 0,
       "image": "http://radcap.ru/stylegraf/honkytonk-c.jpg",
-     "genre": "Country"
+      "genre": "Country",
+      "largeimage": "http://radcap.ru/stylegraf/honkytonk-c.jpg",
+      "xlimage": "http://radcap.ru/stylegraf/honkytonk-c.jpg"
     },
     {
       "id": "americana",
@@ -4675,7 +5340,9 @@
       ],
       "listeners": 0,
       "image": "http://radcap.ru/stylegraf/americana-c.jpg",
-      "genre": "Ethnic / Folk / Spirit Music"
+      "genre": "Ethnic / Folk / Spirit Music",
+      "largeimage": "http://radcap.ru/stylegraf/americana-c.jpg",
+      "xlimage": "http://radcap.ru/stylegraf/americana-c.jpg"
     },
     {
       "id": "darkcabaret",
@@ -4689,7 +5356,9 @@
       ],
       "listeners": 0,
       "image": "http://radcap.ru/stylegraf/darkcabaret-c.jpg",
-      "genre": "Rock Music"
+      "genre": "Rock Music",
+      "largeimage": "http://radcap.ru/stylegraf/darkcabaret-c.jpg",
+      "xlimage": "http://radcap.ru/stylegraf/darkcabaret-c.jpg"
     },
     {
       "id": "twist",
@@ -4703,7 +5372,9 @@
       ],
       "listeners": 0,
       "image": "http://radcap.ru/stylegraf/twist-c.jpg",
-      "genre": "Rock Music"
+      "genre": "Rock Music",
+      "largeimage": "http://radcap.ru/stylegraf/twist-c.jpg",
+      "xlimage": "http://radcap.ru/stylegraf/twist-c.jpg"
     },
     {
       "id": "melodicheavymetal",
@@ -4717,7 +5388,9 @@
       ],
       "listeners": 0,
       "image": "http://radcap.ru/stylegraf/melodicheavy-c.jpg",
-      "genre": "Metal"
+      "genre": "Metal",
+      "largeimage": "http://radcap.ru/stylegraf/melodicheavy-c.jpg",
+      "xlimage": "http://radcap.ru/stylegraf/melodicheavy-c.jpg"
     },
     {
       "id": "melodicpowermetal",
@@ -4731,7 +5404,9 @@
       ],
       "listeners": 0,
       "image": "http://radcap.ru/stylegraf/melodicpower-c.jpg",
-      "genre": "Metal"
+      "genre": "Metal",
+      "largeimage": "http://radcap.ru/stylegraf/melodicpower-c.jpg",
+      "xlimage": "http://radcap.ru/stylegraf/melodicpower-c.jpg"
     },
     {
       "id": "musicofsiberiamongolia",
@@ -4745,7 +5420,9 @@
       ],
       "listeners": 0,
       "image": "http://radcap.ru/stylegraf/siberia-c.jpg",
-      "genre": "Ethnic / Folk / Spirit Music"
+      "genre": "Ethnic / Folk / Spirit Music",
+      "largeimage": "http://radcap.ru/stylegraf/siberia-c.jpg",
+      "xlimage": "http://radcap.ru/stylegraf/siberia-c.jpg"
     },
     {
       "id": "slowcoresadcore",
@@ -4759,7 +5436,9 @@
       ],
       "listeners": 0,
       "image": "http://radcap.ru/stylegraf/slowcore-c.jpg",
-      "genre": "Rock Music"
+      "genre": "Rock Music",
+      "largeimage": "http://radcap.ru/stylegraf/slowcore-c.jpg",
+      "xlimage": "http://radcap.ru/stylegraf/slowcore-c.jpg"
     },
     {
       "id": "bebopbop",
@@ -4773,7 +5452,9 @@
       ],
       "listeners": 0,
       "image": "http://radcap.ru/stylegraf/bebop-c.jpg",
-      "genre": "Jazz"
+      "genre": "Jazz",
+      "largeimage": "http://radcap.ru/stylegraf/bebop-c.jpg",
+      "xlimage": "http://radcap.ru/stylegraf/bebop-c.jpg"
     },
     {
       "id": "thrashdeathmetal",
@@ -4787,7 +5468,9 @@
       ],
       "listeners": 0,
       "image": "http://radcap.ru/stylegraf/thrashdeath-c.jpg",
-      "genre": "Metal"
+      "genre": "Metal",
+      "largeimage": "http://radcap.ru/stylegraf/thrashdeath-c.jpg",
+      "xlimage": "http://radcap.ru/stylegraf/thrashdeath-c.jpg"
     },
     {
       "id": "westernswing",
@@ -4801,7 +5484,9 @@
       ],
       "listeners": 0,
       "image": "http://radcap.ru/stylegraf/westernswing-c.jpg",
-     "genre": "Country"
+      "genre": "Country",
+      "largeimage": "http://radcap.ru/stylegraf/westernswing-c.jpg",
+      "xlimage": "http://radcap.ru/stylegraf/westernswing-c.jpg"
     },
     {
       "id": "christianrock",
@@ -4815,7 +5500,9 @@
       ],
       "listeners": 0,
       "image": "http://radcap.ru/stylegraf/christianrock-c.jpg",
-      "genre": "Rock Music"
+      "genre": "Rock Music",
+      "largeimage": "http://radcap.ru/stylegraf/christianrock-c.jpg",
+      "xlimage": "http://radcap.ru/stylegraf/christianrock-c.jpg"
     },
     {
       "id": "musiqueconcreteacousmaticelectroacoustic",
@@ -4829,7 +5516,9 @@
       ],
       "listeners": 0,
       "image": "http://radcap.ru/stylegraf/concrete-c.jpg",
-      "genre": "Electronic Music"
+      "genre": "Electronic Music",
+      "largeimage": "http://radcap.ru/stylegraf/concrete-c.jpg",
+      "xlimage": "http://radcap.ru/stylegraf/concrete-c.jpg"
     },
     {
       "id": "popsoul",
@@ -4843,7 +5532,9 @@
       ],
       "listeners": 0,
       "image": "http://radcap.ru/stylegraf/popsoul-c.jpg",
-      "genre": "Blues/ Soul / Funk / R&B"
+      "genre": "Blues/ Soul / Funk / R&B",
+      "largeimage": "http://radcap.ru/stylegraf/popsoul-c.jpg",
+      "xlimage": "http://radcap.ru/stylegraf/popsoul-c.jpg"
     },
     {
       "id": "renaissancemusic",
@@ -4857,7 +5548,9 @@
       ],
       "listeners": 0,
       "image": "http://radcap.ru/stylegraf/renaissance-c.jpg",
-      "genre": "Classical"
+      "genre": "Classical",
+      "largeimage": "http://radcap.ru/stylegraf/renaissance-c.jpg",
+      "xlimage": "http://radcap.ru/stylegraf/renaissance-c.jpg"
     },
     {
       "id": "medievalmusic",
@@ -4871,7 +5564,9 @@
       ],
       "listeners": 0,
       "image": "http://radcap.ru/stylegraf/medieval-c.jpg",
-      "genre": "Classical"
+      "genre": "Classical",
+      "largeimage": "http://radcap.ru/stylegraf/medieval-c.jpg",
+      "xlimage": "http://radcap.ru/stylegraf/medieval-c.jpg"
     },
     {
       "id": "chambermusic",
@@ -4885,7 +5580,9 @@
       ],
       "listeners": 0,
       "image": "http://radcap.ru/stylegraf/chamber-c.jpg",
-      "genre": "Classical"
+      "genre": "Classical",
+      "largeimage": "http://radcap.ru/stylegraf/chamber-c.jpg",
+      "xlimage": "http://radcap.ru/stylegraf/chamber-c.jpg"
     },
     {
       "id": "clavecin",
@@ -4899,7 +5596,9 @@
       ],
       "listeners": 0,
       "image": "http://radcap.ru/stylegraf/clavecin-c.jpg",
-      "genre": "Classical"
+      "genre": "Classical",
+      "largeimage": "http://radcap.ru/stylegraf/clavecin-c.jpg",
+      "xlimage": "http://radcap.ru/stylegraf/clavecin-c.jpg"
     },
     {
       "id": "edmtrap",
@@ -4913,7 +5612,9 @@
       ],
       "listeners": 0,
       "image": "http://radcap.ru/stylegraf/edmtrap-c.jpg",
-      "genre": "Electronic Music"
+      "genre": "Electronic Music",
+      "largeimage": "http://radcap.ru/stylegraf/edmtrap-c.jpg",
+      "xlimage": "http://radcap.ru/stylegraf/edmtrap-c.jpg"
     },
     {
       "id": "cello",
@@ -4927,7 +5628,9 @@
       ],
       "listeners": 0,
       "image": "http://radcap.ru/stylegraf/cello-c.jpg",
-      "genre": "Classical"
+      "genre": "Classical",
+      "largeimage": "http://radcap.ru/stylegraf/cello-c.jpg",
+      "xlimage": "http://radcap.ru/stylegraf/cello-c.jpg"
     },
     {
       "id": "violin",
@@ -4941,7 +5644,9 @@
       ],
       "listeners": 0,
       "image": "http://radcap.ru/stylegraf/violin-c.jpg",
-      "genre": "Classical"
+      "genre": "Classical",
+      "largeimage": "http://radcap.ru/stylegraf/violin-c.jpg",
+      "xlimage": "http://radcap.ru/stylegraf/violin-c.jpg"
     },
     {
       "id": "jumpblues",
@@ -4955,7 +5660,9 @@
       ],
       "listeners": 0,
       "image": "http://radcap.ru/stylegraf/jumpblues-c.jpg",
-      "genre": "Blues/ Soul / Funk / R&B"
+      "genre": "Blues/ Soul / Funk / R&B",
+      "largeimage": "http://radcap.ru/stylegraf/jumpblues-c.jpg",
+      "xlimage": "http://radcap.ru/stylegraf/jumpblues-c.jpg"
     },
     {
       "id": "louisianaswampneworleanblues",
@@ -4969,11 +5676,13 @@
       ],
       "listeners": 0,
       "image": "http://radcap.ru/stylegraf/swampblues-c.jpg",
-      "genre": "Blues/ Soul / Funk / R&B"
+      "genre": "Blues/ Soul / Funk / R&B",
+      "largeimage": "http://radcap.ru/stylegraf/swampblues-c.jpg",
+      "xlimage": "http://radcap.ru/stylegraf/swampblues-c.jpg"
     },
     {
-      "id": "neuedeutscheh\u00e4rte",
-      "title": "Neue Deutsche H\u00e4rte",
+      "id": "neuedeutschehärte",
+      "title": "Neue Deutsche Härte",
       "playlists": [
         {
           "format": "mp3",
@@ -4983,7 +5692,9 @@
       ],
       "listeners": 0,
       "image": "http://radcap.ru/stylegraf/ndh-c.jpg",
-      "genre": "Metal"
+      "genre": "Metal",
+      "largeimage": "http://radcap.ru/stylegraf/ndh-c.jpg",
+      "xlimage": "http://radcap.ru/stylegraf/ndh-c.jpg"
     },
     {
       "id": "italopop",
@@ -4997,7 +5708,9 @@
       ],
       "listeners": 0,
       "image": "http://radcap.ru/stylegraf/italopop-c.jpg",
-      "genre": "Pop Music"
+      "genre": "Pop Music",
+      "largeimage": "http://radcap.ru/stylegraf/italopop-c.jpg",
+      "xlimage": "http://radcap.ru/stylegraf/italopop-c.jpg"
     },
     {
       "id": "futurebasschilltrap",
@@ -5011,7 +5724,9 @@
       ],
       "listeners": 0,
       "image": "http://radcap.ru/stylegraf/futurebass-c.jpg",
-      "genre": "Electronic Music"
+      "genre": "Electronic Music",
+      "largeimage": "http://radcap.ru/stylegraf/futurebass-c.jpg",
+      "xlimage": "http://radcap.ru/stylegraf/futurebass-c.jpg"
     },
     {
       "id": "genre&soundecmrecords",
@@ -5025,7 +5740,9 @@
       ],
       "listeners": 0,
       "image": "http://radcap.ru/stylegraf/ecm-c.jpg",
-      "genre": "Jazz"
+      "genre": "Jazz",
+      "largeimage": "http://radcap.ru/stylegraf/ecm-c.jpg",
+      "xlimage": "http://radcap.ru/stylegraf/ecm-c.jpg"
     },
     {
       "id": "indianspiritualmusicmantras",
@@ -5039,7 +5756,9 @@
       ],
       "listeners": 0,
       "image": "http://radcap.ru/stylegraf/mantras-c.jpg",
-      "genre": "Ethnic / Folk / Spirit Music"
+      "genre": "Ethnic / Folk / Spirit Music",
+      "largeimage": "http://radcap.ru/stylegraf/mantras-c.jpg",
+      "xlimage": "http://radcap.ru/stylegraf/mantras-c.jpg"
     },
     {
       "id": "slideguitar",
@@ -5052,8 +5771,10 @@
         }
       ],
       "listeners": 0,
-      "image": "http://radcap.ru/stylegraf/slideguitar-c.jpg",
-      "genre": "Blues/ Soul / Funk / R&B"
+      "image": "http://radcap.ru/stylegraf/slideguitar-%D1%81.jpg",
+      "genre": "Blues/ Soul / Funk / R&B",
+      "largeimage": "http://radcap.ru/stylegraf/slideguitar-%D1%81.jpg",
+      "xlimage": "http://radcap.ru/stylegraf/slideguitar-%D1%81.jpg"
     },
     {
       "id": "clarinetbassoonoboe",
@@ -5067,7 +5788,9 @@
       ],
       "listeners": 0,
       "image": "http://radcap.ru/stylegraf/clarinet-c.jpg",
-      "genre": "Classical"
+      "genre": "Classical",
+      "largeimage": "http://radcap.ru/stylegraf/clarinet-c.jpg",
+      "xlimage": "http://radcap.ru/stylegraf/clarinet-c.jpg"
     },
     {
       "id": "classicalguitar",
@@ -5081,7 +5804,9 @@
       ],
       "listeners": 0,
       "image": "http://radcap.ru/stylegraf/classguitar-c.jpg",
-      "genre": "Classical"
+      "genre": "Classical",
+      "largeimage": "http://radcap.ru/stylegraf/classguitar-c.jpg",
+      "xlimage": "http://radcap.ru/stylegraf/classguitar-c.jpg"
     },
     {
       "id": "enigmaticmysticpop",
@@ -5095,7 +5820,9 @@
       ],
       "listeners": 0,
       "image": "http://radcap.ru/stylegraf/enigmatic-c.jpg",
-      "genre": "Electronic Music"
+      "genre": "Electronic Music",
+      "largeimage": "http://radcap.ru/stylegraf/enigmatic-c.jpg",
+      "xlimage": "http://radcap.ru/stylegraf/enigmatic-c.jpg"
     },
     {
       "id": "harp",
@@ -5109,7 +5836,9 @@
       ],
       "listeners": 0,
       "image": "http://radcap.ru/stylegraf/harp-c.jpg",
-      "genre": "Classical"
+      "genre": "Classical",
+      "largeimage": "http://radcap.ru/stylegraf/harp-c.jpg",
+      "xlimage": "http://radcap.ru/stylegraf/harp-c.jpg"
     },
     {
       "id": "memphisrap",
@@ -5123,7 +5852,9 @@
       ],
       "listeners": 0,
       "image": "http://radcap.ru/stylegraf/memphisrap-c.jpg",
-      "genre": "Hip-hop / Rap Music"
+      "genre": "Hip-hop / Rap Music",
+      "largeimage": "http://radcap.ru/stylegraf/memphisrap-c.jpg",
+      "xlimage": "http://radcap.ru/stylegraf/memphisrap-c.jpg"
     },
     {
       "id": "progressivefolk",
@@ -5137,7 +5868,9 @@
       ],
       "listeners": 0,
       "image": "http://radcap.ru/stylegraf/progfolk-c.jpg",
-      "genre": "Rock Music"
+      "genre": "Rock Music",
+      "largeimage": "http://radcap.ru/stylegraf/progfolk-c.jpg",
+      "xlimage": "http://radcap.ru/stylegraf/progfolk-c.jpg"
     },
     {
       "id": "psychedelicfolk",
@@ -5151,7 +5884,9 @@
       ],
       "listeners": 0,
       "image": "http://radcap.ru/stylegraf/psychfolk-c.jpg",
-      "genre": "Rock Music"
+      "genre": "Rock Music",
+      "largeimage": "http://radcap.ru/stylegraf/psychfolk-c.jpg",
+      "xlimage": "http://radcap.ru/stylegraf/psychfolk-c.jpg"
     },
     {
       "id": "christiansacredmusic",
@@ -5165,7 +5900,9 @@
       ],
       "listeners": 0,
       "image": "http://radcap.ru/stylegraf/sacred-c.jpg",
-      "genre": "Classical"
+      "genre": "Classical",
+      "largeimage": "http://radcap.ru/stylegraf/sacred-c.jpg",
+      "xlimage": "http://radcap.ru/stylegraf/sacred-c.jpg"
     },
     {
       "id": "detroittechnotechhouse",
@@ -5178,8 +5915,10 @@
         }
       ],
       "listeners": 0,
-      "image": "http://radcap.ru/stylegraf/detroittech-c.jpg",
-      "genre": "Electronic Music"
+      "image": "http://radcap.ru/stylegraf/detroittechno-c.jpg",
+      "genre": "Electronic Music",
+      "largeimage": "http://radcap.ru/stylegraf/detroittechno-c.jpg",
+      "xlimage": "http://radcap.ru/stylegraf/detroittechno-c.jpg"
     },
     {
       "id": "etherealwave",
@@ -5193,7 +5932,9 @@
       ],
       "listeners": 0,
       "image": "http://radcap.ru/stylegraf/ethereal-c.jpg",
-      "genre": "Rock Music"
+      "genre": "Rock Music",
+      "largeimage": "http://radcap.ru/stylegraf/ethereal-c.jpg",
+      "xlimage": "http://radcap.ru/stylegraf/ethereal-c.jpg"
     },
     {
       "id": "progressiveheavymetal",
@@ -5207,7 +5948,9 @@
       ],
       "listeners": 0,
       "image": "http://radcap.ru/stylegraf/progheavymet-c.jpg",
-      "genre": "Metal"
+      "genre": "Metal",
+      "largeimage": "http://radcap.ru/stylegraf/progheavymet-c.jpg",
+      "xlimage": "http://radcap.ru/stylegraf/progheavymet-c.jpg"
     },
     {
       "id": "symphonicpowermetal",
@@ -5221,7 +5964,9 @@
       ],
       "listeners": 0,
       "image": "http://radcap.ru/stylegraf/symphopower-c.jpg",
-      "genre": "Metal"
+      "genre": "Metal",
+      "largeimage": "http://radcap.ru/stylegraf/symphopower-c.jpg",
+      "xlimage": "http://radcap.ru/stylegraf/symphopower-c.jpg"
     },
     {
       "id": "thirdstream",
@@ -5235,7 +5980,9 @@
       ],
       "listeners": 0,
       "image": "http://radcap.ru/stylegraf/thirdstream-c.jpg",
-      "genre": "Jazz"
+      "genre": "Jazz",
+      "largeimage": "http://radcap.ru/stylegraf/thirdstream-c.jpg",
+      "xlimage": "http://radcap.ru/stylegraf/thirdstream-c.jpg"
     },
     {
       "id": "thrashheavymetal",
@@ -5249,7 +5996,9 @@
       ],
       "listeners": 0,
       "image": "http://radcap.ru/stylegraf/thrashheavy-c.jpg",
-      "genre": "Metal"
+      "genre": "Metal",
+      "largeimage": "http://radcap.ru/stylegraf/thrashheavy-c.jpg",
+      "xlimage": "http://radcap.ru/stylegraf/thrashheavy-c.jpg"
     },
     {
       "id": "tribalhouse",
@@ -5263,7 +6012,9 @@
       ],
       "listeners": 0,
       "image": "http://radcap.ru/stylegraf/tribalhouse-c.jpg",
-      "genre": "Electronic Music"
+      "genre": "Electronic Music",
+      "largeimage": "http://radcap.ru/stylegraf/tribalhouse-c.jpg",
+      "xlimage": "http://radcap.ru/stylegraf/tribalhouse-c.jpg"
     },
     {
       "id": "balearichouse",
@@ -5277,7 +6028,9 @@
       ],
       "listeners": 0,
       "image": "http://radcap.ru/stylegraf/balearichouse-c.jpg",
-      "genre": "Electronic Music"
+      "genre": "Electronic Music",
+      "largeimage": "http://radcap.ru/stylegraf/balearichouse-c.jpg",
+      "xlimage": "http://radcap.ru/stylegraf/balearichouse-c.jpg"
     },
     {
       "id": "c-popchinesepop",
@@ -5291,7 +6044,9 @@
       ],
       "listeners": 0,
       "image": "http://radcap.ru/stylegraf/cpop-c.jpg",
-      "genre": "Pop Music"
+      "genre": "Pop Music",
+      "largeimage": "http://radcap.ru/stylegraf/cpop-c.jpg",
+      "xlimage": "http://radcap.ru/stylegraf/cpop-c.jpg"
     },
     {
       "id": "crossoverjazz",
@@ -5305,7 +6060,9 @@
       ],
       "listeners": 0,
       "image": "http://radcap.ru/stylegraf/crossoverjazz-c.jpg",
-      "genre": "Jazz"
+      "genre": "Jazz",
+      "largeimage": "http://radcap.ru/stylegraf/crossoverjazz-c.jpg",
+      "xlimage": "http://radcap.ru/stylegraf/crossoverjazz-c.jpg"
     },
     {
       "id": "funkyhouse",
@@ -5319,7 +6076,9 @@
       ],
       "listeners": 0,
       "image": "http://radcap.ru/stylegraf/funkyhouse-c.jpg",
-      "genre": "Electronic Music"
+      "genre": "Electronic Music",
+      "largeimage": "http://radcap.ru/stylegraf/funkyhouse-c.jpg",
+      "xlimage": "http://radcap.ru/stylegraf/funkyhouse-c.jpg"
     },
     {
       "id": "medievalfolk",
@@ -5333,7 +6092,9 @@
       ],
       "listeners": 0,
       "image": "http://radcap.ru/stylegraf/medievalfolk-c.jpg",
-      "genre": "Ethnic / Folk / Spirit Music"
+      "genre": "Ethnic / Folk / Spirit Music",
+      "largeimage": "http://radcap.ru/stylegraf/medievalfolk-c.jpg",
+      "xlimage": "http://radcap.ru/stylegraf/medievalfolk-c.jpg"
     },
     {
       "id": "symphonicdeathmetal",
@@ -5347,7 +6108,9 @@
       ],
       "listeners": 0,
       "image": "http://radcap.ru/stylegraf/symphodeathmet-c.jpg",
-      "genre": "Metal"
+      "genre": "Metal",
+      "largeimage": "http://radcap.ru/stylegraf/symphodeathmet-c.jpg",
+      "xlimage": "http://radcap.ru/stylegraf/symphodeathmet-c.jpg"
     },
     {
       "id": "symphonicgothicmetal",
@@ -5361,7 +6124,9 @@
       ],
       "listeners": 0,
       "image": "http://radcap.ru/stylegraf/symphogothmet-c.jpg",
-      "genre": "Metal"
+      "genre": "Metal",
+      "largeimage": "http://radcap.ru/stylegraf/symphogothmet-c.jpg",
+      "xlimage": "http://radcap.ru/stylegraf/symphogothmet-c.jpg"
     },
     {
       "id": "thrashblackmetal",
@@ -5375,7 +6140,9 @@
       ],
       "listeners": 0,
       "image": "http://radcap.ru/stylegraf/thrashblack-c.jpg",
-      "genre": "Metal"
+      "genre": "Metal",
+      "largeimage": "http://radcap.ru/stylegraf/thrashblack-c.jpg",
+      "xlimage": "http://radcap.ru/stylegraf/thrashblack-c.jpg"
     },
     {
       "id": "undergroundtechnotechhouse",
@@ -5389,7 +6156,9 @@
       ],
       "listeners": 0,
       "image": "http://radcap.ru/stylegraf/undergroundtech-c.jpg",
-      "genre": "Electronic Music"
+      "genre": "Electronic Music",
+      "largeimage": "http://radcap.ru/stylegraf/undergroundtech-c.jpg",
+      "xlimage": "http://radcap.ru/stylegraf/undergroundtech-c.jpg"
     },
     {
       "id": "bigroomhouse",
@@ -5403,7 +6172,9 @@
       ],
       "listeners": 0,
       "image": "http://radcap.ru/stylegraf/bigroomhouse-c.jpg",
-      "genre": "Electronic Music"
+      "genre": "Electronic Music",
+      "largeimage": "http://radcap.ru/stylegraf/bigroomhouse-c.jpg",
+      "xlimage": "http://radcap.ru/stylegraf/bigroomhouse-c.jpg"
     },
     {
       "id": "crossoverthrash",
@@ -5417,7 +6188,9 @@
       ],
       "listeners": 0,
       "image": "http://radcap.ru/stylegraf/crossoverthrash-c.jpg",
-      "genre": "Metal"
+      "genre": "Metal",
+      "largeimage": "http://radcap.ru/stylegraf/crossoverthrash-c.jpg",
+      "xlimage": "http://radcap.ru/stylegraf/crossoverthrash-c.jpg"
     },
     {
       "id": "europeanfolk",
@@ -5431,7 +6204,9 @@
       ],
       "listeners": 0,
       "image": "http://radcap.ru/stylegraf/eurofolk-c.jpg",
-      "genre": "Ethnic / Folk / Spirit Music"
+      "genre": "Ethnic / Folk / Spirit Music",
+      "largeimage": "http://radcap.ru/stylegraf/eurofolk-c.jpg",
+      "xlimage": "http://radcap.ru/stylegraf/eurofolk-c.jpg"
     },
     {
       "id": "fado",
@@ -5445,7 +6220,9 @@
       ],
       "listeners": 0,
       "image": "http://radcap.ru/stylegraf/fado-c.jpg",
-      "genre": "Ethnic / Folk / Spirit Music"
+      "genre": "Ethnic / Folk / Spirit Music",
+      "largeimage": "http://radcap.ru/stylegraf/fado-c.jpg",
+      "xlimage": "http://radcap.ru/stylegraf/fado-c.jpg"
     },
     {
       "id": "forestpsytrance",
@@ -5459,7 +6236,9 @@
       ],
       "listeners": 0,
       "image": "http://radcap.ru/stylegraf/forestpsytrance-c.jpg",
-      "genre": "Electronic Music"
+      "genre": "Electronic Music",
+      "largeimage": "http://radcap.ru/stylegraf/forestpsytrance-c.jpg",
+      "xlimage": "http://radcap.ru/stylegraf/forestpsytrance-c.jpg"
     },
     {
       "id": "frenchhip-hoprap",
@@ -5473,7 +6252,9 @@
       ],
       "listeners": 0,
       "image": "http://radcap.ru/stylegraf/frenchrap-c.jpg",
-      "genre": "Hip-hop / Rap Music"
+      "genre": "Hip-hop / Rap Music",
+      "largeimage": "http://radcap.ru/stylegraf/frenchrap-c.jpg",
+      "xlimage": "http://radcap.ru/stylegraf/frenchrap-c.jpg"
     },
     {
       "id": "germandeutschehip-hoprap",
@@ -5487,7 +6268,9 @@
       ],
       "listeners": 0,
       "image": "http://radcap.ru/stylegraf/germanrap-c.jpg",
-      "genre": "Hip-hop / Rap Music"
+      "genre": "Hip-hop / Rap Music",
+      "largeimage": "http://radcap.ru/stylegraf/germanrap-c.jpg",
+      "xlimage": "http://radcap.ru/stylegraf/germanrap-c.jpg"
     },
     {
       "id": "jungleraggajungleraggacore",
@@ -5501,7 +6284,9 @@
       ],
       "listeners": 0,
       "image": "http://radcap.ru/stylegraf/jungle-c.jpg",
-      "genre": "Electronic Music"
+      "genre": "Electronic Music",
+      "largeimage": "http://radcap.ru/stylegraf/jungle-c.jpg",
+      "xlimage": "http://radcap.ru/stylegraf/jungle-c.jpg"
     },
     {
       "id": "mathcorechaotichardcore",
@@ -5515,7 +6300,9 @@
       ],
       "listeners": 0,
       "image": "http://radcap.ru/stylegraf/mathcore-c.jpg",
-      "genre": "Metal"
+      "genre": "Metal",
+      "largeimage": "http://radcap.ru/stylegraf/mathcore-c.jpg",
+      "xlimage": "http://radcap.ru/stylegraf/mathcore-c.jpg"
     },
     {
       "id": "modaljazz",
@@ -5529,7 +6316,9 @@
       ],
       "listeners": 0,
       "image": "http://radcap.ru/stylegraf/modal-c.jpg",
-      "genre": "Jazz"
+      "genre": "Jazz",
+      "largeimage": "http://radcap.ru/stylegraf/modal-c.jpg",
+      "xlimage": "http://radcap.ru/stylegraf/modal-c.jpg"
     },
     {
       "id": "ukbritishhip-hoprap",
@@ -5543,7 +6332,9 @@
       ],
       "listeners": 0,
       "image": "http://radcap.ru/stylegraf/ukrap-c.jpg",
-      "genre": "Hip-hop / Rap Music"
+      "genre": "Hip-hop / Rap Music",
+      "largeimage": "http://radcap.ru/stylegraf/ukrap-c.jpg",
+      "xlimage": "http://radcap.ru/stylegraf/ukrap-c.jpg"
     },
     {
       "id": "chillwavevaporwave",
@@ -5557,7 +6348,9 @@
       ],
       "listeners": 0,
       "image": "http://radcap.ru/stylegraf/chillwave-c.jpg",
-      "genre": "Electronic Music"
+      "genre": "Electronic Music",
+      "largeimage": "http://radcap.ru/stylegraf/chillwave-c.jpg",
+      "xlimage": "http://radcap.ru/stylegraf/chillwave-c.jpg"
     },
     {
       "id": "dancediscofunkpunk",
@@ -5571,7 +6364,9 @@
       ],
       "listeners": 0,
       "image": "http://radcap.ru/stylegraf/dancepunk-c.jpg",
-      "genre": "Rock Music"
+      "genre": "Rock Music",
+      "largeimage": "http://radcap.ru/stylegraf/dancepunk-c.jpg",
+      "xlimage": "http://radcap.ru/stylegraf/dancepunk-c.jpg"
     },
     {
       "id": "frenchpop",
@@ -5585,7 +6380,9 @@
       ],
       "listeners": 0,
       "image": "http://radcap.ru/stylegraf/frenchpop-c.jpg",
-      "genre": "Pop Music"
+      "genre": "Pop Music",
+      "largeimage": "http://radcap.ru/stylegraf/frenchpop-c.jpg",
+      "xlimage": "http://radcap.ru/stylegraf/frenchpop-c.jpg"
     },
     {
       "id": "impressionism",
@@ -5599,7 +6396,9 @@
       ],
       "listeners": 0,
       "image": "http://radcap.ru/stylegraf/impressionism-c.jpg",
-      "genre": "Classical"
+      "genre": "Classical",
+      "largeimage": "http://radcap.ru/stylegraf/impressionism-c.jpg",
+      "xlimage": "http://radcap.ru/stylegraf/impressionism-c.jpg"
     },
     {
       "id": "schlager",
@@ -5613,7 +6412,9 @@
       ],
       "listeners": 0,
       "image": "http://radcap.ru/stylegraf/schlager-c.jpg",
-      "genre": "Pop Music"
+      "genre": "Pop Music",
+      "largeimage": "http://radcap.ru/stylegraf/schlager-c.jpg",
+      "xlimage": "http://radcap.ru/stylegraf/schlager-c.jpg"
     },
     {
       "id": "straight-aheadjazz",
@@ -5627,7 +6428,9 @@
       ],
       "listeners": 0,
       "image": "http://radcap.ru/stylegraf/straightahead-c.jpg",
-      "genre": "Jazz"
+      "genre": "Jazz",
+      "largeimage": "http://radcap.ru/stylegraf/straightahead-c.jpg",
+      "xlimage": "http://radcap.ru/stylegraf/straightahead-c.jpg"
     },
     {
       "id": "sonatas",
@@ -5641,7 +6444,9 @@
       ],
       "listeners": 0,
       "image": "http://radcap.ru/stylegraf/sonata-c.jpg",
-      "genre": "Classical"
+      "genre": "Classical",
+      "largeimage": "http://radcap.ru/stylegraf/sonata-c.jpg",
+      "xlimage": "http://radcap.ru/stylegraf/sonata-c.jpg"
     },
     {
       "id": "chantsgregorianchants",
@@ -5655,7 +6460,9 @@
       ],
       "listeners": 0,
       "image": "http://radcap.ru/stylegraf/chant-c.jpg",
-      "genre": "Classical"
+      "genre": "Classical",
+      "largeimage": "http://radcap.ru/stylegraf/chant-c.jpg",
+      "xlimage": "http://radcap.ru/stylegraf/chant-c.jpg"
     },
     {
       "id": "turkishpoppoprock",
@@ -5669,7 +6476,9 @@
       ],
       "listeners": 0,
       "image": "http://radcap.ru/stylegraf/turkishpop-c.jpg",
-      "genre": "Pop Music"
+      "genre": "Pop Music",
+      "largeimage": "http://radcap.ru/stylegraf/turkishpop-c.jpg",
+      "xlimage": "http://radcap.ru/stylegraf/turkishpop-c.jpg"
     },
     {
       "id": "slavonicneofolk",
@@ -5683,7 +6492,9 @@
       ],
       "listeners": 0,
       "image": "http://radcap.ru/stylegraf/slavonic-c.jpg",
-      "genre": "Ethnic / Folk / Spirit Music"
+      "genre": "Ethnic / Folk / Spirit Music",
+      "largeimage": "http://radcap.ru/stylegraf/slavonic-c.jpg",
+      "xlimage": "http://radcap.ru/stylegraf/slavonic-c.jpg"
     },
     {
       "id": "nitzhonot",
@@ -5697,7 +6508,9 @@
       ],
       "listeners": 0,
       "image": "http://radcap.ru/stylegraf/nitzhonot-c.jpg",
-      "genre": "Electronic Music"
+      "genre": "Electronic Music",
+      "largeimage": "http://radcap.ru/stylegraf/nitzhonot-c.jpg",
+      "xlimage": "http://radcap.ru/stylegraf/nitzhonot-c.jpg"
     },
     {
       "id": "classicalavant-garde",
@@ -5711,7 +6524,9 @@
       ],
       "listeners": 0,
       "image": "http://radcap.ru/stylegraf/classavant-c.jpg",
-      "genre": "Classical"
+      "genre": "Classical",
+      "largeimage": "http://radcap.ru/stylegraf/classavant-c.jpg",
+      "xlimage": "http://radcap.ru/stylegraf/classavant-c.jpg"
     },
     {
       "id": "minimalismpostminimalism",
@@ -5725,7 +6540,9 @@
       ],
       "listeners": 0,
       "image": "http://radcap.ru/stylegraf/minimalism-c.jpg",
-      "genre": "Classical"
+      "genre": "Classical",
+      "largeimage": "http://radcap.ru/stylegraf/minimalism-c.jpg",
+      "xlimage": "http://radcap.ru/stylegraf/minimalism-c.jpg"
     },
     {
       "id": "hardhouse",
@@ -5739,7 +6556,9 @@
       ],
       "listeners": 0,
       "image": "http://radcap.ru/stylegraf/hardhouse-c.jpg",
-      "genre": "Electronic Music"
+      "genre": "Electronic Music",
+      "largeimage": "http://radcap.ru/stylegraf/hardhouse-c.jpg",
+      "xlimage": "http://radcap.ru/stylegraf/hardhouse-c.jpg"
     },
     {
       "id": "90'smusiccollection",
@@ -5752,8 +6571,10 @@
         }
       ],
       "listeners": 0,
-      "image": "http://radcap.ru/stylegraf/9-c.jpg",
-      "genre": "Miscellaneous"
+      "image": "http://radcap.ru/stylegraf/90s-c.jpg",
+      "genre": "Miscellaneous",
+      "largeimage": "http://radcap.ru/stylegraf/90s-c.jpg",
+      "xlimage": "http://radcap.ru/stylegraf/90s-c.jpg"
     },
     {
       "id": "jazztrumpet",
@@ -5767,7 +6588,9 @@
       ],
       "listeners": 0,
       "image": "http://radcap.ru/stylegraf/trumpet-c.jpg",
-      "genre": "Jazz"
+      "genre": "Jazz",
+      "largeimage": "http://radcap.ru/stylegraf/trumpet-c.jpg",
+      "xlimage": "http://radcap.ru/stylegraf/trumpet-c.jpg"
     },
     {
       "id": "experimentalavantrock",
@@ -5781,7 +6604,9 @@
       ],
       "listeners": 0,
       "image": "http://radcap.ru/stylegraf/avantrock-c.jpg",
-      "genre": "Rock Music"
+      "genre": "Rock Music",
+      "largeimage": "http://radcap.ru/stylegraf/avantrock-c.jpg",
+      "xlimage": "http://radcap.ru/stylegraf/avantrock-c.jpg"
     },
     {
       "id": "fieldrecordings",
@@ -5795,7 +6620,9 @@
       ],
       "listeners": 0,
       "image": "http://radcap.ru/stylegraf/fieldrecordings-c.jpg",
-      "genre": "Electronic Music"
+      "genre": "Electronic Music",
+      "largeimage": "http://radcap.ru/stylegraf/fieldrecordings-c.jpg",
+      "xlimage": "http://radcap.ru/stylegraf/fieldrecordings-c.jpg"
     },
     {
       "id": "folkcelticgypsypunk",
@@ -5809,7 +6636,9 @@
       ],
       "listeners": 0,
       "image": "http://radcap.ru/stylegraf/folkpunk-c.jpg",
-      "genre": "Rock Music"
+      "genre": "Rock Music",
+      "largeimage": "http://radcap.ru/stylegraf/folkpunk-c.jpg",
+      "xlimage": "http://radcap.ru/stylegraf/folkpunk-c.jpg"
     },
     {
       "id": "lovesongs",
@@ -5823,7 +6652,9 @@
       ],
       "listeners": 0,
       "image": "http://radcap.ru/stylegraf/lovesongs-c.jpg",
-      "genre": "Miscellaneous"
+      "genre": "Miscellaneous",
+      "largeimage": "http://radcap.ru/stylegraf/lovesongs-c.jpg",
+      "xlimage": "http://radcap.ru/stylegraf/lovesongs-c.jpg"
     },
     {
       "id": "speedheavy",
@@ -5837,7 +6668,9 @@
       ],
       "listeners": 0,
       "image": "http://radcap.ru/stylegraf/speedheavy-c.jpg",
-      "genre": "Metal"
+      "genre": "Metal",
+      "largeimage": "http://radcap.ru/stylegraf/speedheavy-c.jpg",
+      "xlimage": "http://radcap.ru/stylegraf/speedheavy-c.jpg"
     },
     {
       "id": "acoustic&unplugged",
@@ -5851,7 +6684,9 @@
       ],
       "listeners": 0,
       "image": "http://radcap.ru/stylegraf/acoustic-c.jpg",
-      "genre": "Miscellaneous"
+      "genre": "Miscellaneous",
+      "largeimage": "http://radcap.ru/stylegraf/acoustic-c.jpg",
+      "xlimage": "http://radcap.ru/stylegraf/acoustic-c.jpg"
     },
     {
       "id": "atmosphericdoom",
@@ -5865,7 +6700,9 @@
       ],
       "listeners": 0,
       "image": "http://radcap.ru/stylegraf/atmosdoom-c.jpg",
-      "genre": "Metal"
+      "genre": "Metal",
+      "largeimage": "http://radcap.ru/stylegraf/atmosdoom-c.jpg",
+      "xlimage": "http://radcap.ru/stylegraf/atmosdoom-c.jpg"
     },
     {
       "id": "experimentaltechno",
@@ -5879,7 +6716,9 @@
       ],
       "listeners": 0,
       "image": "http://radcap.ru/stylegraf/exptechno-c.jpg",
-      "genre": "Electronic Music"
+      "genre": "Electronic Music",
+      "largeimage": "http://radcap.ru/stylegraf/exptechno-c.jpg",
+      "xlimage": "http://radcap.ru/stylegraf/exptechno-c.jpg"
     },
     {
       "id": "folkpop",
@@ -5893,7 +6732,9 @@
       ],
       "listeners": 0,
       "image": "http://radcap.ru/stylegraf/folkpop-c.jpg",
-      "genre": "Pop Music"
+      "genre": "Pop Music",
+      "largeimage": "http://radcap.ru/stylegraf/folkpop-c.jpg",
+      "xlimage": "http://radcap.ru/stylegraf/folkpop-c.jpg"
     },
     {
       "id": "oceaniaaustralia",
@@ -5907,7 +6748,9 @@
       ],
       "listeners": 0,
       "image": "http://radcap.ru/stylegraf/oceania-c.jpg",
-      "genre": "Ethnic / Folk / Spirit Music"
+      "genre": "Ethnic / Folk / Spirit Music",
+      "largeimage": "http://radcap.ru/stylegraf/oceania-c.jpg",
+      "xlimage": "http://radcap.ru/stylegraf/oceania-c.jpg"
     },
     {
       "id": "singer-songwriter",
@@ -5921,7 +6764,9 @@
       ],
       "listeners": 0,
       "image": "http://radcap.ru/stylegraf/singer-c.jpg",
-      "genre": "Miscellaneous"
+      "genre": "Miscellaneous",
+      "largeimage": "http://radcap.ru/stylegraf/singer-c.jpg",
+      "xlimage": "http://radcap.ru/stylegraf/singer-c.jpg"
     },
     {
       "id": "60'smusiccollection",
@@ -5935,7 +6780,9 @@
       ],
       "listeners": 0,
       "image": "http://radcap.ru/stylegraf/60s-c.jpg",
-      "genre": "Miscellaneous"
+      "genre": "Miscellaneous",
+      "largeimage": "http://radcap.ru/stylegraf/60s-c.jpg",
+      "xlimage": "http://radcap.ru/stylegraf/60s-c.jpg"
     },
     {
       "id": "70'smusiccollection",
@@ -5949,7 +6796,9 @@
       ],
       "listeners": 0,
       "image": "http://radcap.ru/stylegraf/70s-c.jpg",
-      "genre": "Miscellaneous"
+      "genre": "Miscellaneous",
+      "largeimage": "http://radcap.ru/stylegraf/70s-c.jpg",
+      "xlimage": "http://radcap.ru/stylegraf/70s-c.jpg"
     },
     {
       "id": "andeansouthamericanmusic",
@@ -5963,7 +6812,9 @@
       ],
       "listeners": 0,
       "image": "http://radcap.ru/stylegraf/andean-c.jpg",
-      "genre": "Ethnic / Folk / Spirit Music"
+      "genre": "Ethnic / Folk / Spirit Music",
+      "largeimage": "http://radcap.ru/stylegraf/andean-c.jpg",
+      "xlimage": "http://radcap.ru/stylegraf/andean-c.jpg"
     },
     {
       "id": "electrotechno",
@@ -5977,7 +6828,9 @@
       ],
       "listeners": 0,
       "image": "http://radcap.ru/stylegraf/electrotech-c.jpg",
-      "genre": "Electronic Music"
+      "genre": "Electronic Music",
+      "largeimage": "http://radcap.ru/stylegraf/electrotech-c.jpg",
+      "xlimage": "http://radcap.ru/stylegraf/electrotech-c.jpg"
     },
     {
       "id": "funkrockmetal",
@@ -5991,7 +6844,9 @@
       ],
       "listeners": 0,
       "image": "http://radcap.ru/stylegraf/funkmetal-c.jpg",
-      "genre": "Rock Music"
+      "genre": "Rock Music",
+      "largeimage": "http://radcap.ru/stylegraf/funkmetal-c.jpg",
+      "xlimage": "http://radcap.ru/stylegraf/funkmetal-c.jpg"
     },
     {
       "id": "healingmusic(yoga,reiki,zen)",
@@ -6005,7 +6860,9 @@
       ],
       "listeners": 0,
       "image": "http://radcap.ru/stylegraf/healing-c.jpg",
-      "genre": "Miscellaneous"
+      "genre": "Miscellaneous",
+      "largeimage": "http://radcap.ru/stylegraf/healing-c.jpg",
+      "xlimage": "http://radcap.ru/stylegraf/healing-c.jpg"
     },
     {
       "id": "idmambient",
@@ -6019,7 +6876,9 @@
       ],
       "listeners": 0,
       "image": "http://radcap.ru/stylegraf/idmambient-c.jpg",
-      "genre": "Electronic Music"
+      "genre": "Electronic Music",
+      "largeimage": "http://radcap.ru/stylegraf/idmambient-c.jpg",
+      "xlimage": "http://radcap.ru/stylegraf/idmambient-c.jpg"
     },
     {
       "id": "illbient",
@@ -6033,7 +6892,9 @@
       ],
       "listeners": 0,
       "image": "http://radcap.ru/stylegraf/illbient-c.jpg",
-      "genre": "Electronic Music"
+      "genre": "Electronic Music",
+      "largeimage": "http://radcap.ru/stylegraf/illbient-c.jpg",
+      "xlimage": "http://radcap.ru/stylegraf/illbient-c.jpg"
     },
     {
       "id": "jazzfusionmetal",
@@ -6047,7 +6908,9 @@
       ],
       "listeners": 0,
       "image": "http://radcap.ru/stylegraf/jazzmetal-c.jpg",
-      "genre": "Metal"
+      "genre": "Metal",
+      "largeimage": "http://radcap.ru/stylegraf/jazzmetal-c.jpg",
+      "xlimage": "http://radcap.ru/stylegraf/jazzmetal-c.jpg"
     },
     {
       "id": "medievalmetalrock",
@@ -6061,7 +6924,9 @@
       ],
       "listeners": 0,
       "image": "http://radcap.ru/stylegraf/medievalmetal-c.jpg",
-      "genre": "Metal"
+      "genre": "Metal",
+      "largeimage": "http://radcap.ru/stylegraf/medievalmetal-c.jpg",
+      "xlimage": "http://radcap.ru/stylegraf/medievalmetal-c.jpg"
     },
     {
       "id": "technotrancetechtrance",
@@ -6075,7 +6940,9 @@
       ],
       "listeners": 0,
       "image": "http://radcap.ru/stylegraf/techtrance-c.jpg",
-      "genre": "Electronic Music"
+      "genre": "Electronic Music",
+      "largeimage": "http://radcap.ru/stylegraf/techtrance-c.jpg",
+      "xlimage": "http://radcap.ru/stylegraf/techtrance-c.jpg"
     },
     {
       "id": "electroswingswinghouse",
@@ -6089,7 +6956,9 @@
       ],
       "listeners": 0,
       "image": "http://radcap.ru/stylegraf/electroswing-c.jpg",
-      "genre": "Electronic Music"
+      "genre": "Electronic Music",
+      "largeimage": "http://radcap.ru/stylegraf/electroswing-c.jpg",
+      "xlimage": "http://radcap.ru/stylegraf/electroswing-c.jpg"
     },
     {
       "id": "nightfullonpsytrance",
@@ -6103,7 +6972,9 @@
       ],
       "listeners": 0,
       "image": "http://radcap.ru/stylegraf/nightfullon-c.jpg",
-      "genre": "Electronic Music"
+      "genre": "Electronic Music",
+      "largeimage": "http://radcap.ru/stylegraf/nightfullon-c.jpg",
+      "xlimage": "http://radcap.ru/stylegraf/nightfullon-c.jpg"
     },
     {
       "id": "oldschoolhip-hop",
@@ -6117,7 +6988,9 @@
       ],
       "listeners": 0,
       "image": "http://radcap.ru/stylegraf/oldschhiphop-c.jpg",
-      "genre": "Hip-hop / Rap Music"
+      "genre": "Hip-hop / Rap Music",
+      "largeimage": "http://radcap.ru/stylegraf/oldschhiphop-c.jpg",
+      "xlimage": "http://radcap.ru/stylegraf/oldschhiphop-c.jpg"
     },
     {
       "id": "reggaetoncubatonsalsaton",
@@ -6131,7 +7004,9 @@
       ],
       "listeners": 0,
       "image": "http://radcap.ru/stylegraf/reggaeton-c.jpg",
-      "genre": "Pop Music"
+      "genre": "Pop Music",
+      "largeimage": "http://radcap.ru/stylegraf/reggaeton-c.jpg",
+      "xlimage": "http://radcap.ru/stylegraf/reggaeton-c.jpg"
     },
     {
       "id": "cloudraptrillwave",
@@ -6145,7 +7020,9 @@
       ],
       "listeners": 0,
       "image": "http://radcap.ru/stylegraf/cloudrap-c.jpg",
-      "genre": "Hip-hop / Rap Music"
+      "genre": "Hip-hop / Rap Music",
+      "largeimage": "http://radcap.ru/stylegraf/cloudrap-c.jpg",
+      "xlimage": "http://radcap.ru/stylegraf/cloudrap-c.jpg"
     },
     {
       "id": "chicanorap",
@@ -6159,7 +7036,9 @@
       ],
       "listeners": 0,
       "image": "http://radcap.ru/stylegraf/chicanorap-c.jpg",
-      "genre": "Hip-hop / Rap Music"
+      "genre": "Hip-hop / Rap Music",
+      "largeimage": "http://radcap.ru/stylegraf/chicanorap-c.jpg",
+      "xlimage": "http://radcap.ru/stylegraf/chicanorap-c.jpg"
     },
     {
       "id": "maneleromanianpopfolk",
@@ -6173,7 +7052,9 @@
       ],
       "listeners": 0,
       "image": "http://radcap.ru/stylegraf/manele-c.jpg",
-      "genre": "Pop Music"
+      "genre": "Pop Music",
+      "largeimage": "http://radcap.ru/stylegraf/manele-c.jpg",
+      "xlimage": "http://radcap.ru/stylegraf/manele-c.jpg"
     },
     {
       "id": "acidrock",
@@ -6187,7 +7068,9 @@
       ],
       "listeners": 0,
       "image": "http://radcap.ru/stylegraf/acidrock-c.jpg",
-      "genre": "Rock Music"
+      "genre": "Rock Music",
+      "largeimage": "http://radcap.ru/stylegraf/acidrock-c.jpg",
+      "xlimage": "http://radcap.ru/stylegraf/acidrock-c.jpg"
     },
     {
       "id": "bulgarianpop-folkethnopopchalga",
@@ -6201,7 +7084,9 @@
       ],
       "listeners": 0,
       "image": "http://radcap.ru/stylegraf/chalga-c.jpg",
-      "genre": "Pop Music"
+      "genre": "Pop Music",
+      "largeimage": "http://radcap.ru/stylegraf/chalga-c.jpg",
+      "xlimage": "http://radcap.ru/stylegraf/chalga-c.jpg"
     },
     {
       "id": "darksynthdarksynthwave",
@@ -6215,7 +7100,9 @@
       ],
       "listeners": 0,
       "image": "http://radcap.ru/stylegraf/darksynth-c.jpg",
-      "genre": "Electronic Music"
+      "genre": "Electronic Music",
+      "largeimage": "http://radcap.ru/stylegraf/darksynth-c.jpg",
+      "xlimage": "http://radcap.ru/stylegraf/darksynth-c.jpg"
     },
     {
       "id": "gabberearlymainstreamhardcore",
@@ -6228,8 +7115,10 @@
         }
       ],
       "listeners": 0,
-      "image": "http://radcap.ru/stylegraf/gabber1-c.jpg",
-      "genre": "Electronic Music"
+      "image": "http://radcap.ru/stylegraf/gabber-c.jpg",
+      "genre": "Electronic Music",
+      "largeimage": "http://radcap.ru/stylegraf/gabber-c.jpg",
+      "xlimage": "http://radcap.ru/stylegraf/gabber-c.jpg"
     },
     {
       "id": "traditionalpopclassicpop",
@@ -6243,7 +7132,9 @@
       ],
       "listeners": 0,
       "image": "http://radcap.ru/stylegraf/traditionalpop-c.jpg",
-      "genre": "Pop Music"
+      "genre": "Pop Music",
+      "largeimage": "http://radcap.ru/stylegraf/traditionalpop-c.jpg",
+      "xlimage": "http://radcap.ru/stylegraf/traditionalpop-c.jpg"
     },
     {
       "id": "vibraphoneinjazz",
@@ -6257,7 +7148,9 @@
       ],
       "listeners": 0,
       "image": "http://radcap.ru/stylegraf/vibraphonejazz-c.jpg",
-      "genre": "Jazz"
+      "genre": "Jazz",
+      "largeimage": "http://radcap.ru/stylegraf/vibraphonejazz-c.jpg",
+      "xlimage": "http://radcap.ru/stylegraf/vibraphonejazz-c.jpg"
     },
     {
       "id": "zydecocajuncreolemusic",
@@ -6271,7 +7164,9 @@
       ],
       "listeners": 0,
       "image": "http://radcap.ru/stylegraf/zydeco-c.jpg",
-      "genre": "Ethnic / Folk / Spirit Music"
+      "genre": "Ethnic / Folk / Spirit Music",
+      "largeimage": "http://radcap.ru/stylegraf/zydeco-c.jpg",
+      "xlimage": "http://radcap.ru/stylegraf/zydeco-c.jpg"
     },
     {
       "id": "afrobeat",
@@ -6285,7 +7180,9 @@
       ],
       "listeners": 0,
       "image": "http://radcap.ru/stylegraf/afrobeat-c.jpg",
-      "genre": "Ethnic / Folk / Spirit Music"
+      "genre": "Ethnic / Folk / Spirit Music",
+      "largeimage": "http://radcap.ru/stylegraf/afrobeat-c.jpg",
+      "xlimage": "http://radcap.ru/stylegraf/afrobeat-c.jpg"
     },
     {
       "id": "avant-gardeblackmetal",
@@ -6299,7 +7196,9 @@
       ],
       "listeners": 0,
       "image": "http://radcap.ru/stylegraf/avantgardeblack-c.jpg",
-      "genre": "Metal"
+      "genre": "Metal",
+      "largeimage": "http://radcap.ru/stylegraf/avantgardeblack-c.jpg",
+      "xlimage": "http://radcap.ru/stylegraf/avantgardeblack-c.jpg"
     },
     {
       "id": "death'n'roll",
@@ -6313,7 +7212,9 @@
       ],
       "listeners": 0,
       "image": "http://radcap.ru/stylegraf/deathnroll-c.jpg",
-      "genre": "Metal"
+      "genre": "Metal",
+      "largeimage": "http://radcap.ru/stylegraf/deathnroll-c.jpg",
+      "xlimage": "http://radcap.ru/stylegraf/deathnroll-c.jpg"
     },
     {
       "id": "gothicblackmetal",
@@ -6327,7 +7228,9 @@
       ],
       "listeners": 0,
       "image": "http://radcap.ru/stylegraf/gothblackmet-c.jpg",
-      "genre": "Metal"
+      "genre": "Metal",
+      "largeimage": "http://radcap.ru/stylegraf/gothblackmet-c.jpg",
+      "xlimage": "http://radcap.ru/stylegraf/gothblackmet-c.jpg"
     },
     {
       "id": "gothicdeathmetal",
@@ -6341,7 +7244,9 @@
       ],
       "listeners": 0,
       "image": "http://radcap.ru/stylegraf/gothdeathmet-c.jpg",
-      "genre": "Metal"
+      "genre": "Metal",
+      "largeimage": "http://radcap.ru/stylegraf/gothdeathmet-c.jpg",
+      "xlimage": "http://radcap.ru/stylegraf/gothdeathmet-c.jpg"
     },
     {
       "id": "2000'smusiccollection",
@@ -6355,7 +7260,9 @@
       ],
       "listeners": 0,
       "image": "http://radcap.ru/stylegraf/00s-c.jpg",
-      "genre": "Miscellaneous"
+      "genre": "Miscellaneous",
+      "largeimage": "http://radcap.ru/stylegraf/00s-c.jpg",
+      "xlimage": "http://radcap.ru/stylegraf/00s-c.jpg"
     },
     {
       "id": "celticmetal",
@@ -6369,7 +7276,9 @@
       ],
       "listeners": 0,
       "image": "http://radcap.ru/stylegraf/celticmetal-c.jpg",
-      "genre": "Metal"
+      "genre": "Metal",
+      "largeimage": "http://radcap.ru/stylegraf/celticmetal-c.jpg",
+      "xlimage": "http://radcap.ru/stylegraf/celticmetal-c.jpg"
     },
     {
       "id": "celticrock",
@@ -6383,7 +7292,9 @@
       ],
       "listeners": 0,
       "image": "http://radcap.ru/stylegraf/celticrock-c.jpg",
-      "genre": "Rock Music"
+      "genre": "Rock Music",
+      "largeimage": "http://radcap.ru/stylegraf/celticrock-c.jpg",
+      "xlimage": "http://radcap.ru/stylegraf/celticrock-c.jpg"
     },
     {
       "id": "cyberpunk",
@@ -6397,7 +7308,9 @@
       ],
       "listeners": 0,
       "image": "http://radcap.ru/stylegraf/cyberpunk-c.jpg",
-      "genre": "Electronic Music"
+      "genre": "Electronic Music",
+      "largeimage": "http://radcap.ru/stylegraf/cyberpunk-c.jpg",
+      "xlimage": "http://radcap.ru/stylegraf/cyberpunk-c.jpg"
     },
     {
       "id": "jamband",
@@ -6411,7 +7324,9 @@
       ],
       "listeners": 0,
       "image": "http://radcap.ru/stylegraf/jamband-c.jpg",
-      "genre": "Rock Music"
+      "genre": "Rock Music",
+      "largeimage": "http://radcap.ru/stylegraf/jamband-c.jpg",
+      "xlimage": "http://radcap.ru/stylegraf/jamband-c.jpg"
     },
     {
       "id": "jumpgenre",
@@ -6424,8 +7339,10 @@
         }
       ],
       "listeners": 0,
-      "image": "http://radcap.ru/stylegraf/jumpgenre-c.jpg",
-      "genre": "Electronic Music"
+      "image": "http://radcap.ru/stylegraf/jumpstyle-c.jpg",
+      "genre": "Electronic Music",
+      "largeimage": "http://radcap.ru/stylegraf/jumpstyle-c.jpg",
+      "xlimage": "http://radcap.ru/stylegraf/jumpstyle-c.jpg"
     },
     {
       "id": "lutearchlutetheorbo",
@@ -6439,7 +7356,9 @@
       ],
       "listeners": 0,
       "image": "http://radcap.ru/stylegraf/lute-c.jpg",
-      "genre": "Classical"
+      "genre": "Classical",
+      "largeimage": "http://radcap.ru/stylegraf/lute-c.jpg",
+      "xlimage": "http://radcap.ru/stylegraf/lute-c.jpg"
     },
     {
       "id": "makina",
@@ -6453,7 +7372,9 @@
       ],
       "listeners": 0,
       "image": "http://radcap.ru/stylegraf/makina-c.jpg",
-      "genre": "Electronic Music"
+      "genre": "Electronic Music",
+      "largeimage": "http://radcap.ru/stylegraf/makina-c.jpg",
+      "xlimage": "http://radcap.ru/stylegraf/makina-c.jpg"
     },
     {
       "id": "newbeat",
@@ -6467,7 +7388,9 @@
       ],
       "listeners": 0,
       "image": "http://radcap.ru/stylegraf/newbeat-c.jpg",
-      "genre": "Electronic Music"
+      "genre": "Electronic Music",
+      "largeimage": "http://radcap.ru/stylegraf/newbeat-c.jpg",
+      "xlimage": "http://radcap.ru/stylegraf/newbeat-c.jpg"
     },
     {
       "id": "progressiveelectronic",
@@ -6481,7 +7404,9 @@
       ],
       "listeners": 0,
       "image": "http://radcap.ru/stylegraf/progelectronic-c.jpg",
-      "genre": "Electronic Music"
+      "genre": "Electronic Music",
+      "largeimage": "http://radcap.ru/stylegraf/progelectronic-c.jpg",
+      "xlimage": "http://radcap.ru/stylegraf/progelectronic-c.jpg"
     },
     {
       "id": "twilightpsytrance",
@@ -6495,7 +7420,9 @@
       ],
       "listeners": 0,
       "image": "http://radcap.ru/stylegraf/twilightpsy-c.jpg",
-      "genre": "Electronic Music"
+      "genre": "Electronic Music",
+      "largeimage": "http://radcap.ru/stylegraf/twilightpsy-c.jpg",
+      "xlimage": "http://radcap.ru/stylegraf/twilightpsy-c.jpg"
     },
     {
       "id": "cantopophk-pop",
@@ -6509,7 +7436,9 @@
       ],
       "listeners": 0,
       "image": "http://radcap.ru/stylegraf/cantopop-c.jpg",
-      "genre": "Pop Music"
+      "genre": "Pop Music",
+      "largeimage": "http://radcap.ru/stylegraf/cantopop-c.jpg",
+      "xlimage": "http://radcap.ru/stylegraf/cantopop-c.jpg"
     },
     {
       "id": "dungeonsynth",
@@ -6523,7 +7452,9 @@
       ],
       "listeners": 0,
       "image": "http://radcap.ru/stylegraf/dungeonsynth-c.jpg",
-      "genre": "Electronic Music"
+      "genre": "Electronic Music",
+      "largeimage": "http://radcap.ru/stylegraf/dungeonsynth-c.jpg",
+      "xlimage": "http://radcap.ru/stylegraf/dungeonsynth-c.jpg"
     },
     {
       "id": "hi-techpsytrance",
@@ -6537,7 +7468,9 @@
       ],
       "listeners": 0,
       "image": "http://radcap.ru/stylegraf/hitechpsy-c.jpg",
-      "genre": "Electronic Music"
+      "genre": "Electronic Music",
+      "largeimage": "http://radcap.ru/stylegraf/hitechpsy-c.jpg",
+      "xlimage": "http://radcap.ru/stylegraf/hitechpsy-c.jpg"
     },
     {
       "id": "industrialtechno",
@@ -6551,7 +7484,9 @@
       ],
       "listeners": 0,
       "image": "http://radcap.ru/stylegraf/industrialtechno-c.jpg",
-      "genre": "Electronic Music"
+      "genre": "Electronic Music",
+      "largeimage": "http://radcap.ru/stylegraf/industrialtechno-c.jpg",
+      "xlimage": "http://radcap.ru/stylegraf/industrialtechno-c.jpg"
     },
     {
       "id": "visualkei",
@@ -6565,7 +7500,9 @@
       ],
       "listeners": 0,
       "image": "http://radcap.ru/stylegraf/visualkei-c.jpg",
-      "genre": "Rock Music"
+      "genre": "Rock Music",
+      "largeimage": "http://radcap.ru/stylegraf/visualkei-c.jpg",
+      "xlimage": "http://radcap.ru/stylegraf/visualkei-c.jpg"
     },
     {
       "id": "westcoastblues",
@@ -6579,7 +7516,9 @@
       ],
       "listeners": 0,
       "image": "http://radcap.ru/stylegraf/westcoastblues-c.jpg",
-      "genre": "Blues/ Soul / Funk / R&B"
+      "genre": "Blues/ Soul / Funk / R&B",
+      "largeimage": "http://radcap.ru/stylegraf/westcoastblues-c.jpg",
+      "xlimage": "http://radcap.ru/stylegraf/westcoastblues-c.jpg"
     },
     {
       "id": "brazilianjazz",
@@ -6593,7 +7532,9 @@
       ],
       "listeners": 0,
       "image": "http://radcap.ru/stylegraf/brazilianjazz-c.jpg",
-      "genre": "Jazz"
+      "genre": "Jazz",
+      "largeimage": "http://radcap.ru/stylegraf/brazilianjazz-c.jpg",
+      "xlimage": "http://radcap.ru/stylegraf/brazilianjazz-c.jpg"
     },
     {
       "id": "cantata",
@@ -6607,7 +7548,9 @@
       ],
       "listeners": 0,
       "image": "http://radcap.ru/stylegraf/cantata-c.jpg",
-      "genre": "Classical"
+      "genre": "Classical",
+      "largeimage": "http://radcap.ru/stylegraf/cantata-c.jpg",
+      "xlimage": "http://radcap.ru/stylegraf/cantata-c.jpg"
     },
     {
       "id": "freefunk",
@@ -6621,7 +7564,9 @@
       ],
       "listeners": 0,
       "image": "http://radcap.ru/stylegraf/freefunk-c.jpg",
-      "genre": "Jazz"
+      "genre": "Jazz",
+      "largeimage": "http://radcap.ru/stylegraf/freefunk-c.jpg",
+      "xlimage": "http://radcap.ru/stylegraf/freefunk-c.jpg"
     },
     {
       "id": "garagehouse",
@@ -6635,7 +7580,9 @@
       ],
       "listeners": 0,
       "image": "http://radcap.ru/stylegraf/garagehouse-c.jpg",
-      "genre": "Electronic Music"
+      "genre": "Electronic Music",
+      "largeimage": "http://radcap.ru/stylegraf/garagehouse-c.jpg",
+      "xlimage": "http://radcap.ru/stylegraf/garagehouse-c.jpg"
     },
     {
       "id": "melodicdoomdoomdeath",
@@ -6649,7 +7596,9 @@
       ],
       "listeners": 0,
       "image": "http://radcap.ru/stylegraf/melodicdoom-c.jpg",
-      "genre": "Metal"
+      "genre": "Metal",
+      "largeimage": "http://radcap.ru/stylegraf/melodicdoom-c.jpg",
+      "xlimage": "http://radcap.ru/stylegraf/melodicdoom-c.jpg"
     },
     {
       "id": "oratorio",
@@ -6663,7 +7612,9 @@
       ],
       "listeners": 0,
       "image": "http://radcap.ru/stylegraf/oratorio-c.jpg",
-      "genre": "Classical"
+      "genre": "Classical",
+      "largeimage": "http://radcap.ru/stylegraf/oratorio-c.jpg",
+      "xlimage": "http://radcap.ru/stylegraf/oratorio-c.jpg"
     },
     {
       "id": "ambienthouse",
@@ -6677,7 +7628,9 @@
       ],
       "listeners": 0,
       "image": "http://radcap.ru/stylegraf/ambienthouse-c.jpg",
-      "genre": "Electronic Music"
+      "genre": "Electronic Music",
+      "largeimage": "http://radcap.ru/stylegraf/ambienthouse-c.jpg",
+      "xlimage": "http://radcap.ru/stylegraf/ambienthouse-c.jpg"
     },
     {
       "id": "folkblackmetal",
@@ -6691,7 +7644,9 @@
       ],
       "listeners": 0,
       "image": "http://radcap.ru/stylegraf/folkblackmet-c.jpg",
-      "genre": "Metal"
+      "genre": "Metal",
+      "largeimage": "http://radcap.ru/stylegraf/folkblackmet-c.jpg",
+      "xlimage": "http://radcap.ru/stylegraf/folkblackmet-c.jpg"
     },
     {
       "id": "progressiveatmosphericbreaks",
@@ -6705,7 +7660,9 @@
       ],
       "listeners": 0,
       "image": "http://radcap.ru/stylegraf/progbreaks-c.jpg",
-      "genre": "Electronic Music"
+      "genre": "Electronic Music",
+      "largeimage": "http://radcap.ru/stylegraf/progbreaks-c.jpg",
+      "xlimage": "http://radcap.ru/stylegraf/progbreaks-c.jpg"
     },
     {
       "id": "folkdeathmetal",
@@ -6719,7 +7676,9 @@
       ],
       "listeners": 0,
       "image": "http://radcap.ru/stylegraf/folkdeathmet-c.jpg",
-      "genre": "Metal"
+      "genre": "Metal",
+      "largeimage": "http://radcap.ru/stylegraf/folkdeathmet-c.jpg",
+      "xlimage": "http://radcap.ru/stylegraf/folkdeathmet-c.jpg"
     },
     {
       "id": "melodichousetechno",
@@ -6733,7 +7692,9 @@
       ],
       "listeners": 0,
       "image": "http://radcap.ru/stylegraf/melodichouse-c.jpg",
-      "genre": "Electronic Music"
+      "genre": "Electronic Music",
+      "largeimage": "http://radcap.ru/stylegraf/melodichouse-c.jpg",
+      "xlimage": "http://radcap.ru/stylegraf/melodichouse-c.jpg"
     },
     {
       "id": "rootsrock",
@@ -6747,7 +7708,9 @@
       ],
       "listeners": 0,
       "image": "http://radcap.ru/stylegraf/rootsrock-c.jpg",
-      "genre": "Rock Music"
+      "genre": "Rock Music",
+      "largeimage": "http://radcap.ru/stylegraf/rootsrock-c.jpg",
+      "xlimage": "http://radcap.ru/stylegraf/rootsrock-c.jpg"
     },
     {
       "id": "deathrock",
@@ -6761,7 +7724,9 @@
       ],
       "listeners": 0,
       "image": "http://radcap.ru/stylegraf/deathrock-c.jpg",
-      "genre": "Rock Music"
+      "genre": "Rock Music",
+      "largeimage": "http://radcap.ru/stylegraf/deathrock-c.jpg",
+      "xlimage": "http://radcap.ru/stylegraf/deathrock-c.jpg"
     },
     {
       "id": "garagepunk",
@@ -6775,7 +7740,9 @@
       ],
       "listeners": 0,
       "image": "http://radcap.ru/stylegraf/garagepunk-c.jpg",
-      "genre": "Rock Music"
+      "genre": "Rock Music",
+      "largeimage": "http://radcap.ru/stylegraf/garagepunk-c.jpg",
+      "xlimage": "http://radcap.ru/stylegraf/garagepunk-c.jpg"
     },
     {
       "id": "organichouse",
@@ -6789,21 +7756,25 @@
       ],
       "listeners": 0,
       "image": "http://radcap.ru/stylegraf/organichouse-c.jpg",
-      "genre": "Electronic Music"
+      "genre": "Electronic Music",
+      "largeimage": "http://radcap.ru/stylegraf/organichouse-c.jpg",
+      "xlimage": "http://radcap.ru/stylegraf/organichouse-c.jpg"
     },
     {
-      "id": "freegenre",
-      "title": "Freegenre",
+      "id": "freestyle",
+      "title": "Freestyle",
       "playlists": [
         {
           "format": "mp3",
           "quality": "high",
-          "url": "http://79.120.12.130:8000/freegenre"
+          "url": "http://79.120.12.130:8000/freestyle"
         }
       ],
       "listeners": 0,
-      "image": "http://radcap.ru/stylegraf/freegenre-c.jpg",
-      "genre": "Electronic Music"
+      "image": "http://radcap.ru/stylegraf/freestyle-c.jpg",
+      "genre": "Electronic Music",
+      "largeimage": "http://radcap.ru/stylegraf/freestyle-c.jpg",
+      "xlimage": "http://radcap.ru/stylegraf/freestyle-c.jpg"
     },
     {
       "id": "pubrock",
@@ -6817,7 +7788,9 @@
       ],
       "listeners": 0,
       "image": "http://radcap.ru/stylegraf/pubrock-c.jpg",
-      "genre": "Rock Music"
+      "genre": "Rock Music",
+      "largeimage": "http://radcap.ru/stylegraf/pubrock-c.jpg",
+      "xlimage": "http://radcap.ru/stylegraf/pubrock-c.jpg"
     },
     {
       "id": "hip-hopsoul",
@@ -6831,7 +7804,9 @@
       ],
       "listeners": 0,
       "image": "http://radcap.ru/stylegraf/hiphopsoul-c.jpg",
-      "genre": "Blues/ Soul / Funk / R&B"
+      "genre": "Blues/ Soul / Funk / R&B",
+      "largeimage": "http://radcap.ru/stylegraf/hiphopsoul-c.jpg",
+      "xlimage": "http://radcap.ru/stylegraf/hiphopsoul-c.jpg"
     },
     {
       "id": "classicalflute",
@@ -6845,7 +7820,9 @@
       ],
       "listeners": 0,
       "image": "http://radcap.ru/stylegraf/fluteclass-c.jpg",
-      "genre": "Classical"
+      "genre": "Classical",
+      "largeimage": "http://radcap.ru/stylegraf/fluteclass-c.jpg",
+      "xlimage": "http://radcap.ru/stylegraf/fluteclass-c.jpg"
     },
     {
       "id": "latinhouse",
@@ -6859,7 +7836,9 @@
       ],
       "listeners": 0,
       "image": "http://radcap.ru/stylegraf/latinhouse-c.jpg",
-      "genre": "Electronic Music"
+      "genre": "Electronic Music",
+      "largeimage": "http://radcap.ru/stylegraf/latinhouse-c.jpg",
+      "xlimage": "http://radcap.ru/stylegraf/latinhouse-c.jpg"
     },
     {
       "id": "italodance",
@@ -6873,7 +7852,9 @@
       ],
       "listeners": 0,
       "image": "http://radcap.ru/stylegraf/italodance-c.jpg",
-      "genre": "Pop Music"
+      "genre": "Pop Music",
+      "largeimage": "http://radcap.ru/stylegraf/italodance-c.jpg",
+      "xlimage": "http://radcap.ru/stylegraf/italodance-c.jpg"
     },
     {
       "id": "rpi(rockprogressivoitaliano)",
@@ -6887,7 +7868,9 @@
       ],
       "listeners": 0,
       "image": "http://radcap.ru/stylegraf/rpi-c.jpg",
-      "genre": "Rock Music"
+      "genre": "Rock Music",
+      "largeimage": "http://radcap.ru/stylegraf/rpi-c.jpg",
+      "xlimage": "http://radcap.ru/stylegraf/rpi-c.jpg"
     },
     {
       "id": "ghettobootyg-house",
@@ -6900,8 +7883,10 @@
         }
       ],
       "listeners": 0,
-      "image": "http://radcap.ru/stylegraf/ghouse-c.jpg",
-      "genre": "Electronic Music"
+      "image": "http://radcap.ru/stylegraf/ghouse-c.png",
+      "genre": "Electronic Music",
+      "largeimage": "http://radcap.ru/stylegraf/ghouse-c.png",
+      "xlimage": "http://radcap.ru/stylegraf/ghouse-c.png"
     },
     {
       "id": "progrelated",
@@ -6915,7 +7900,9 @@
       ],
       "listeners": 0,
       "image": "http://radcap.ru/stylegraf/progrelated-c.jpg",
-      "genre": "Miscellaneous"
+      "genre": "Miscellaneous",
+      "largeimage": "http://radcap.ru/stylegraf/progrelated-c.jpg",
+      "xlimage": "http://radcap.ru/stylegraf/progrelated-c.jpg"
     },
     {
       "id": "powerelectronicsdeathindustrial",
@@ -6929,7 +7916,9 @@
       ],
       "listeners": 0,
       "image": "http://radcap.ru/stylegraf/powerelectronics-c.jpg",
-      "genre": "Electronic Music"
+      "genre": "Electronic Music",
+      "largeimage": "http://radcap.ru/stylegraf/powerelectronics-c.jpg",
+      "xlimage": "http://radcap.ru/stylegraf/powerelectronics-c.jpg"
     },
     {
       "id": "harshnoise",
@@ -6943,7 +7932,9 @@
       ],
       "listeners": 0,
       "image": "http://radcap.ru/stylegraf/harshnoise-c.jpg",
-      "genre": "Electronic Music"
+      "genre": "Electronic Music",
+      "largeimage": "http://radcap.ru/stylegraf/harshnoise-c.jpg",
+      "xlimage": "http://radcap.ru/stylegraf/harshnoise-c.jpg"
     },
     {
       "id": "mpb(musicapopularbrasileira)",
@@ -6957,7 +7948,9 @@
       ],
       "listeners": 0,
       "image": "http://radcap.ru/stylegraf/mpb-c.jpg",
-      "genre": "Pop Music"
+      "genre": "Pop Music",
+      "largeimage": "http://radcap.ru/stylegraf/mpb-c.jpg",
+      "xlimage": "http://radcap.ru/stylegraf/mpb-c.jpg"
     },
     {
       "id": "freeimprovisation",
@@ -6971,7 +7964,9 @@
       ],
       "listeners": 0,
       "image": "http://radcap.ru/stylegraf/freeimprovisation-c.jpg",
-      "genre": "Jazz"
+      "genre": "Jazz",
+      "largeimage": "http://radcap.ru/stylegraf/freeimprovisation-c.jpg",
+      "xlimage": "http://radcap.ru/stylegraf/freeimprovisation-c.jpg"
     },
     {
       "id": "2010'smusiccollection",
@@ -6985,7 +7980,9 @@
       ],
       "listeners": 0,
       "image": "http://radcap.ru/stylegraf/2010s-c.jpg",
-      "genre": "Miscellaneous"
+      "genre": "Miscellaneous",
+      "largeimage": "http://radcap.ru/stylegraf/2010s-c.jpg",
+      "xlimage": "http://radcap.ru/stylegraf/2010s-c.jpg"
     },
     {
       "id": "earlypre-warblues",
@@ -6999,7 +7996,9 @@
       ],
       "listeners": 0,
       "image": "http://radcap.ru/stylegraf/earlyblues-c.jpg",
-      "genre": "Blues/ Soul / Funk / R&B"
+      "genre": "Blues/ Soul / Funk / R&B",
+      "largeimage": "http://radcap.ru/stylegraf/earlyblues-c.jpg",
+      "xlimage": "http://radcap.ru/stylegraf/earlyblues-c.jpg"
     },
     {
       "id": "proto-progearlyprogressiverock",
@@ -7013,7 +8012,9 @@
       ],
       "listeners": 0,
       "image": "http://radcap.ru/stylegraf/protoprog-c.jpg",
-      "genre": "Rock Music"
+      "genre": "Rock Music",
+      "largeimage": "http://radcap.ru/stylegraf/protoprog-c.jpg",
+      "xlimage": "http://radcap.ru/stylegraf/protoprog-c.jpg"
     }
   ]
 }

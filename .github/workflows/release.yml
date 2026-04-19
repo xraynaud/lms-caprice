@@ -77,8 +77,8 @@ jobs:
           cp /tmp/capriceradio-${{ env.VERSION }}*.zip ${{ env.FOLDER }}/
           git config --local user.email "actions@github.com"
           git config --local user.name "GitHub Actions"
+          git add . 
           if [ "${{ env.RELEASE_CHANNEL }}" == "dev" ]; then
-            git add ${{ env.FOLDER }}/capriceradio-${{ env.VERSION }}.zip
             COMMIT_MESSAGE_TYPE="development build"
           else
             COMMIT_MESSAGE_TYPE="release"

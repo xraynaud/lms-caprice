@@ -3,14 +3,14 @@
         <title lang="EN">Radio Caprice plugin repository</title>
     </details>
     <plugins>
-        <plugin name="Caprice" version="0.1.10-dev" minTarget="7.9" maxTarget="*">
+        <plugin name="Caprice" version="0.2.0-dev" minTarget="7.9" maxTarget="*">
             <title lang="EN">Radio Caprice</title>
             <desc lang="EN">Play radio channels from Radio Caprice</desc>
             <category>radio</category>
             <icon>https://raw.githubusercontent.com/xraynaud/lms-caprice/main/HTML/EN/plugins/Caprice/radcaplogo.png</icon>
-            <url>https://raw.githubusercontent.com/xraynaud/lms-caprice/gh-pages/dev-builds/capriceradio-0.1.10-dev.zip</url>
+            <url>https://raw.githubusercontent.com/xraynaud/lms-caprice/gh-pages/dev-builds/capriceradio-0.2.0-dev.zip</url>
             <link>https://github.com/xraynaud/lms-caprice</link>
-            <sha>8b4e5af934453303bae2db8e8bdb95ca2032d825</sha>
+            <sha>6bb251d230e9705852ecda9ce2e1a2d15c365d10</sha>
             <creator>Xavier Raynaud, from SomaFM plugin by Daniel Vijge</creator></plugin>
     </plugins>
 </extensions>

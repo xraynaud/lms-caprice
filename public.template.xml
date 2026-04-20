@@ -9,7 +9,7 @@
             <category>radio</category>
             <icon>https://raw.githubusercontent.com/xraynaud/lms-caprice/main/HTML/EN/plugins/Caprice/radcaplogo.png</icon>
 {%- if env['RELEASE_CHANNEL'] == 'release' %}
-            <url>https://raw.githubusercontent.com/xraynaud/lms-caprice/gh-pages/{{ env['VERSION'] }}/capriceradio-{{ env['VERSION'] }}.zip</url>
+            <url>https://raw.githubusercontent.com/xraynaud/lms-caprice/gh-pages/capriceradio-{{ env['VERSION'] }}.zip</url>
 {%- else %}
             <url>https://raw.githubusercontent.com/xraynaud/lms-caprice/gh-pages/{{ env['FOLDER'] }}/capriceradio-{{ env['VERSION'] }}.zip</url>
 {%- endif %}

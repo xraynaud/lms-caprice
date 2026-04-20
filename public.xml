@@ -8,7 +8,7 @@
             <desc lang="EN">Play radio channels from Radio Caprice</desc>
             <category>radio</category>
             <icon>https://raw.githubusercontent.com/xraynaud/lms-caprice/main/HTML/EN/plugins/Caprice/radcaplogo.png</icon>
-            <url>https://raw.githubusercontent.com/xraynaud/lms-caprice/gh-pages/0.2/capriceradio-0.2.zip</url>
+            <url>https://raw.githubusercontent.com/xraynaud/lms-caprice/gh-pages/capriceradio-0.2.zip</url>
             <link>https://github.com/xraynaud/lms-caprice</link>
             <sha>94a01132416d0a7125cd3340bf2218aa03bc08db</sha>
             <creator>Xavier Raynaud, from SomaFM plugin by Daniel Vijge</creator></plugin>

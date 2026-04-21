@@ -24,7 +24,7 @@ my $log;
 # Get the data related to this plugin and preset certain variables with 
 # default values in case they are not set
 my $prefs = preferences('plugin.caprice');
-$prefs->init({ menuLocation => 'radio', groupByGenre => 1});
+$prefs->init({ menuLocation => 'radio', orderBy => 'title', groupByGenre => 1});
 
 # This is the entry point in the script
 BEGIN {
@@ -176,30 +176,17 @@ sub _parseChannel {
 
     return {
         name => _getFirstLineText($channel, 0),
-        description => $channel->{'description'},
-        listeners => $channel->{'listeners'},
-        current_track => $channel->{'lastPlaying'},
         genre => (join ', ', map ucfirst, split '\|', $channel->{'genre'}), # split genre and capitalise the first letter, so 'ambient|electronic' becomes 'Ambient, Electronic'
         line1 => _getFirstLineText($channel, 1),
-        line2 => _getSecondLineText($channel),
         type => 'audio',
         url => _getStream($channel),
-        image => $channel->{'largeimage'}
+        image => $channel->{'image'}
     };
 }
 
 sub _getStream {
     my ($channel) = shift;
-
-    my ($quality, $format) = split(':', $prefs->get('streamingQuality'));
     my $playlists = $channel->{'playlists'};
-    for my $stream (@$playlists) {
-        if ($stream->{'quality'} eq $quality && $stream->{'format'} eq $format) {
-            $log->debug("Using stream url $stream->{'url'}");
-            return $stream->{'url'};
-        }
-    }
-    $log->warn("Could not find preferred streaming quality. Returning first result as fallback: $playlists->[0]->{'quality'}:$playlists->[0]->{'format'}");
     return $playlists->[0]->{'url'};
 }
 
@@ -208,11 +195,8 @@ sub _sortChannels {
 
     my @sorted_channels;
     my $orderBy = $prefs->get('orderBy');
-    if ($orderBy eq 'popular') {
-        # sort by number of listeners descending
-        @sorted_channels = sort { $b->{listeners} <=> $a->{listeners} } @$channels;
-    }
-    elsif ($orderBy eq 'title') {
+
+    if ($orderBy eq 'title') {
         # sort alphabetically but case-insensitive
         @sorted_channels = sort { fc($a->{title}) cmp fc($b->{title}) } @$channels;
     }
@@ -220,39 +204,16 @@ sub _sortChannels {
         # do not sort, use order as provided in channel feed
         @sorted_channels = @$channels;
     }
+    $log->warn("Order by is set to $orderBy");
+
     return \@sorted_channels;
 }
 
 sub _getFirstLineText {
     my ($channel, $isFirstLine) = @_;
 
-    # Display the channel description in the title. If a skin/app supports line1/line2
-    # the description is added to the title if the description is not already shown on
-    # line2.
-    if ($prefs->get('descriptionInTitle') && (
-        ($prefs->get('secondLineText') eq 'description' && !$isFirstLine) ||
-        ($prefs->get('secondLineText') ne 'description' && $isFirstLine)
-        )) {
-        return "$channel->{'title'}: $channel->{'description'}";
-    }
-    else {
-        return $channel->{'title'};
-    }
-}
+    return $channel->{'title'};
 
-sub _getSecondLineText {
-    my ($channel) = shift;
-
-    my $secondLineText = $prefs->get('secondLineText');
-    if ($secondLineText eq 'lastPlayed') {
-        return $channel->{'lastPlaying'};
-    }
-    elsif ($secondLineText eq 'listeners') {
-        return sprintf(string('PLUGIN_CAPRICE_SECOND_LINE_TEXT_LISTENERS_SPRINTF', $channel->{'listeners'}));
-    }
-    else {
-        return $channel->{'description'};
-    }
 }
 
 # Always end with a 1 to make Perl happy

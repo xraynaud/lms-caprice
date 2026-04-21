@@ -15,7 +15,7 @@ use Slim::Utils::Log;
 
 my $log   = logger('plugin.caprice');
 my $prefs = preferences('plugin.caprice');
-$prefs->init({ menuLocation => 'radio', orderBy => 'popular', groupByGenre => 0, streamingQuality => 'highest:aac', descriptionInTitle => 0, secondLineText => 'description' });
+$prefs->init({ menuLocation => 'radio', orderBy => 'title', groupByGenre => 1});
 
 # Returns the name of the plugin. The real 
 # string is specified in the strings.txt file.
@@ -28,7 +28,7 @@ sub page {
 }
 
 sub prefs {
-    return (preferences('plugin.caprice'), qw(menuLocation orderBy groupByGenre streamingQuality descriptionInTitle secondLineText));
+    return (preferences('plugin.caprice'), qw(menuLocation orderBy groupByGenre));
 }
 
 # Always end with a 1 to make Perl happy

@@ -13,4 +13,13 @@
         <input type="checkbox" class="stdedit" name="pref_groupByGenre"[% IF prefs.groupByGenre %] checked[% END %]>
     [% END %]
 
+    [% WRAPPER setting title="PLUGIN_CAPRICE_ORDER_BY" desc="PLUGIN_CAPRICE_ORDER_BY_DESC" %]
+    <div class="prefDesc">
+        <select name="pref_orderBy" class="stdedit">
+                <option value="title"[% IF prefs.orderBy == "title" %] selected[% END %]>[% 'PLUGIN_CAPRICE_ORDER_BY_TITLE' | getstring %]</option>
+                <option value="none"[% IF prefs.orderBy == "none" %] selected[% END %]>[% 'PLUGIN_CAPRICE_ORDER_BY_NONE' | getstring %]</option>
+        </select>
+    </div>
+    [% END %]
+
 [% PROCESS settings/footer.html %]

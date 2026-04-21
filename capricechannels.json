@@ -62,7 +62,7 @@
       "image": "http://radcap.ru/stylegraf/altcountry-c.jpg"    },
     {
       "id": "phonkdriftphonk",
-      "title": "Phonk/Drift Phonk",
+      "title": "Phonk / Drift Phonk",
       "playlists": [
         {
           "url": "http://79.120.77.11:8000/phonk"
@@ -102,7 +102,7 @@
       "image": "http://radcap.ru/stylegraf/ambientdub-c.jpg"    },
     {
       "id": "aormelodichardrock",
-      "title": "AOR/Melodic Hard Rock",
+      "title": "AOR / Melodic Hard Rock",
       "playlists": [
         {
           "url": "http://79.111.14.76:8000/aor"
@@ -132,7 +132,7 @@
       "image": "http://radcap.ru/stylegraf/artrock-c.jpg"    },
     {
       "id": "atmosphericambientblackmetal",
-      "title": "Atmospheric/Ambient Black Metal",
+      "title": "Atmospheric / Ambient Black Metal",
       "playlists": [
         {
           "url": "http://79.120.39.202:8000/aabmds"
@@ -152,7 +152,7 @@
       "image": "http://radcap.ru/stylegraf/avantjazz-c.jpg"    },
     {
       "id": "avant-gardeexperimentalmetal",
-      "title": "Avant-Garde/Experimental Metal",
+      "title": "Avant-Garde / Experimental Metal",
       "playlists": [
         {
           "url": "http://79.111.14.76:8000/avantgardemetal"
@@ -252,7 +252,7 @@
       "image": "http://radcap.ru/stylegraf/breakbeat-c.jpg"    },
     {
       "id": "britpoppostbritpop",
-      "title": "Britpop/Post Britpop",
+      "title": "Britpop / Post Britpop",
       "playlists": [
         {
           "url": "http://79.120.39.202:8000/britpop"
@@ -372,7 +372,7 @@
       "image": "http://radcap.ru/stylegraf/clubdance-c.jpg"    },
     {
       "id": "computervideogamesmusic",
-      "title": "Computer/Video Games Music",
+      "title": "Computer / Video Games Music",
       "playlists": [
         {
           "url": "http://79.120.39.202:8000/musicgame"
@@ -392,7 +392,7 @@
       "image": "http://radcap.ru/stylegraf/contemporaryjazz-c.jpg"    },
     {
       "id": "coolwestcoastjazz",
-      "title": "Cool/West Coast Jazz",
+      "title": "Cool / West Coast Jazz",
       "playlists": [
         {
           "url": "http://79.120.39.202:8000/cooljazz"
@@ -462,7 +462,7 @@
       "image": "http://radcap.ru/stylegraf/dancepop-c.jpg"    },
     {
       "id": "dancehallraggamuffin",
-      "title": "Dancehall/Raggamuffin",
+      "title": "Dancehall / Raggamuffin",
       "playlists": [
         {
           "url": "http://79.111.14.76:8000/dancehall"
@@ -1032,7 +1032,7 @@
       "image": "http://radcap.ru/stylegraf/garagerock-c.jpg"    },
     {
       "id": "glamrock",
-      "title": "Glam Rock",
+      "title": "Glam Rock / Metal",
       "playlists": [
         {
           "url": "http://79.120.39.202:8000/glam"
@@ -1332,7 +1332,7 @@
       "image": "http://radcap.ru/stylegraf/indierock-c.jpg"    },
     {
       "id": "indietweepop",
-      "title": "Indie/Twee Pop",
+      "title": "Indie / Twee Pop",
       "playlists": [
         {
           "url": "http://79.111.119.111:8000/indiepop"
@@ -1482,7 +1482,7 @@
       "image": "http://radcap.ru/stylegraf/jazzfunk-c.jpg"    },
     {
       "id": "j-pop",
-      "title": "J-Pop",
+      "title": "J-Pop (Japanese Pop)",
       "playlists": [
         {
           "url": "http://79.111.119.111:8000/jpop"
@@ -1492,7 +1492,7 @@
       "image": "http://radcap.ru/stylegraf/jpop-c.jpg"    },
     {
       "id": "j-rock",
-      "title": "J-Rock",
+      "title": "J-Rock (Japanese Rock)",
       "playlists": [
         {
           "url": "http://79.111.119.111:8000/jrock"
@@ -1502,7 +1502,7 @@
       "image": "http://radcap.ru/stylegraf/jrock-c.jpg"    },
     {
       "id": "k-pop",
-      "title": "K-Pop",
+      "title": "K-Pop (Korean Pop)",
       "playlists": [
         {
           "url": "http://79.111.119.111:8000/kpop"
@@ -1582,7 +1582,7 @@
       "image": "http://radcap.ru/stylegraf/mainstreamjazz-c.jpg"    },
     {
       "id": "classicalchoralvocalmusic",
-      "title": "Classical Choral/Vocal Music",
+      "title": "Classical Choral / Vocal Music",
       "playlists": [
         {
           "url": "http://79.120.39.202:8000/chorus"
@@ -1592,7 +1592,7 @@
       "image": "http://radcap.ru/stylegraf/choral-c.jpg"    },
     {
       "id": "mathmetaldjent",
-      "title": "Math Metal/Djent",
+      "title": "Math Metal / Djent",
       "playlists": [
         {
           "url": "http://79.120.39.202:8000/mathmetal"
@@ -1792,7 +1792,7 @@
       "image": "http://radcap.ru/stylegraf/newwave-c.jpg"    },
     {
       "id": "nujazz",
-      "title": "Nu Jazz",
+      "title": "Nu Jazz / Future Jazz",
       "playlists": [
         {
           "url": "http://79.111.14.76:8000/nujazz"
@@ -1802,7 +1802,7 @@
       "image": "http://radcap.ru/stylegraf/nujazz-c.jpg"    },
     {
       "id": "alternativenumetal",
-      "title": "Alternative/Nu Metal",
+      "title": "Alternative / Nu Metal",
       "playlists": [
         {
           "url": "http://79.111.14.76:8000/numetal"
@@ -1812,7 +1812,7 @@
       "image": "http://radcap.ru/stylegraf/numetal-c.jpg"    },
     {
       "id": "nu-disco",
-      "title": "Nu-Disco",
+      "title": "Nu Disco",
       "playlists": [
         {
           "url": "http://79.111.119.111:8000/nudisco"
@@ -1822,7 +1822,7 @@
       "image": "http://radcap.ru/stylegraf/nudisco-c.jpg"    },
     {
       "id": "oi!streetpunk",
-      "title": "Oi!/Street Punk",
+      "title": "Oi! /Street Punk",
       "playlists": [
         {
           "url": "http://79.111.119.111:8000/oistreetpunk"
@@ -1912,7 +1912,7 @@
       "image": "http://radcap.ru/stylegraf/pianoblues-c.jpg"    },
     {
       "id": "pianojazzstrade",
-      "title": "Piano Jazz/Strade",
+      "title": "Piano Jazz / Strade",
       "playlists": [
         {
           "url": "http://79.111.119.111:8000/pianojazz"
@@ -1922,7 +1922,7 @@
       "image": "http://radcap.ru/stylegraf/pianojazz-c.jpg"    },
     {
       "id": "pop",
-      "title": "Pop",
+      "title": "Pop Music",
       "playlists": [
         {
           "url": "http://79.120.77.11:8000/pop"
@@ -1952,7 +1952,7 @@
       "image": "http://radcap.ru/stylegraf/80s-c.jpg"    },
     {
       "id": "popmusicussr",
-      "title": "Pop Music USSR",
+      "title": "Pop Music of the USSR",
       "playlists": [
         {
           "url": "http://79.120.77.11:8000/ussr"
@@ -2362,7 +2362,7 @@
       "image": "http://radcap.ru/stylegraf/popru-c.jpg"    },
     {
       "id": "russianpop80's&90's",
-      "title": "Russian Pop 80's & 90's",
+      "title": "Russian Pop Music 1980-1990's",
       "playlists": [
         {
           "url": "http://79.120.77.11:8000/80ru"
@@ -2462,7 +2462,7 @@
       "image": "http://radcap.ru/stylegraf/ska-c.jpg"    },
     {
       "id": "ska-punkcore",
-      "title": "Ska-Punk/Core",
+      "title": "Ska-Punk / Core",
       "playlists": [
         {
           "url": "http://79.111.119.111:8000/skapunk"
@@ -2542,7 +2542,7 @@
       "image": "http://radcap.ru/stylegraf/soundsnat-c.jpg"    },
     {
       "id": "southernraphip-hop",
-      "title": "Southern Rap/Hip-Hop",
+      "title": "Southern Rap / Hip-Hop",
       "playlists": [
         {
           "url": "http://79.111.119.111:8000/southernrap"
@@ -2602,7 +2602,7 @@
       "image": "http://radcap.ru/stylegraf/speedmetal-c.jpg"    },
     {
       "id": "stonerstonerdoommetal",
-      "title": "Stoner/Stoner Doom Metal",
+      "title": "Stoner / Stoner Doom Metal",
       "playlists": [
         {
           "url": "http://79.120.77.11:8000/stonermetal"
@@ -2922,7 +2922,7 @@
       "image": "http://radcap.ru/stylegraf/contclass-c.jpg"    },
     {
       "id": "jazzrapjazzyhip-hop",
-      "title": "Jazz Rap/Jazzy Hip-Hop",
+      "title": "Jazz Rap / Jazzy Hip-Hop",
       "playlists": [
         {
           "url": "http://79.120.39.202:8000/jazzrap"
@@ -2932,7 +2932,7 @@
       "image": "http://radcap.ru/stylegraf/jazzrap-c.jpg"    },
     {
       "id": "ethnoworldjazz",
-      "title": "Ethno/World Jazz",
+      "title": "Ethno / World Jazz",
       "playlists": [
         {
           "url": "http://79.120.39.202:8000/ethnojazz"
@@ -2942,7 +2942,7 @@
       "image": "http://radcap.ru/stylegraf/ethnojazz-c.jpg"    },
     {
       "id": "eurobeathi-nrg",
-      "title": "Eurobeat/Hi-NRG",
+      "title": "Eurobeat / Hi-NRG",
       "playlists": [
         {
           "url": "http://79.120.39.202:8000/eurobeat"
@@ -2962,7 +2962,7 @@
       "image": "http://radcap.ru/stylegraf/brokenbeat-c.jpg"    },
     {
       "id": "suomisaundifreeformpsytrance",
-      "title": "Suomisaundi/Freeform Psytrance",
+      "title": "Suomisaundi / Freeform Psytrance",
       "playlists": [
         {
           "url": "http://79.120.77.11:8000/suomisaundi"
@@ -3002,7 +3002,7 @@
       "image": "http://radcap.ru/stylegraf/chamberpop-c.jpg"    },
     {
       "id": "avant-prog",
-      "title": "Avant-Prog",
+      "title": "Avant-Prog / Rock in opposition (RIO) / Canterbuery Scene / Zeuhl",
       "playlists": [
         {
           "url": "http://79.111.119.111:8000/avantprog"
@@ -3042,7 +3042,7 @@
       "image": "http://radcap.ru/stylegraf/electronicore-c.jpg"    },
     {
       "id": "blackblackenddoommetal",
-      "title": "Black/Blackend Doom Metal",
+      "title": "Black / Blackend Doom Metal",
       "playlists": [
         {
           "url": "http://79.120.77.11:8000/blackdoom"
@@ -3052,7 +3052,7 @@
       "image": "http://radcap.ru/stylegraf/blackdoom-c.jpg"    },
     {
       "id": "ambientintelligenttechno",
-      "title": "Ambient/Intelligent Techno",
+      "title": "Ambient / Intelligent Techno",
       "playlists": [
         {
           "url": "http://79.120.39.202:8000/ambienttechno"
@@ -3072,7 +3072,7 @@
       "image": "http://radcap.ru/stylegraf/gothicdoom-c.jpg"    },
     {
       "id": "rocksteadyloversrock",
-      "title": "Rocksteady/Lovers Rock",
+      "title": "Rocksteady / Lovers Rock",
       "playlists": [
         {
           "url": "http://79.120.39.202:8000/rocksteady"
@@ -3082,7 +3082,7 @@
       "image": "http://radcap.ru/stylegraf/rocksteady-c.jpg"    },
     {
       "id": "hardcoreraphorrorcore",
-      "title": "Hardcore Rap/Horrorcore",
+      "title": "Hardcore Rap / Horrorcore",
       "playlists": [
         {
           "url": "http://79.120.39.202:8000/hardcorerap"
@@ -3122,7 +3122,7 @@
       "image": "http://radcap.ru/stylegraf/eclecticprog-c.jpg"    },
     {
       "id": "heavyhardprog",
-      "title": "Heavy/Hard Prog",
+      "title": "Heavy / Hard Prog",
       "playlists": [
         {
           "url": "http://79.111.14.76:8000/heavyprog"
@@ -3132,7 +3132,7 @@
       "image": "http://radcap.ru/stylegraf/heavyprog-c.jpg"    },
     {
       "id": "pianorockpop",
-      "title": "Piano Rock/Pop",
+      "title": "Piano Rock / Pop",
       "playlists": [
         {
           "url": "http://79.111.14.76:8000/pianorock"
@@ -3162,7 +3162,7 @@
       "image": "http://radcap.ru/stylegraf/progmetalcore-c.jpg"    },
     {
       "id": "beatdownmoshcore",
-      "title": "Beatdown / Moshcore / Downtempo Harcore",
+      "title": "Beatdown / Moshcore / Downtempo Hardcore / Metalcore",
       "playlists": [
         {
           "url": "http://79.111.14.76:8000/beatdown"
@@ -3172,7 +3172,7 @@
       "image": "http://radcap.ru/stylegraf/beatdown-c.jpg"    },
     {
       "id": "martialindustrialmilitarypop",
-      "title": "Martial Industrial/Military Pop",
+      "title": "Martial Industrial / Military Pop",
       "playlists": [
         {
           "url": "http://79.111.14.76:8000/martialindustrial"
@@ -3232,7 +3232,7 @@
       "image": "http://radcap.ru/stylegraf/nwobhm-c.jpg"    },
     {
       "id": "animeostscore",
-      "title": "Anime OST/Score",
+      "title": "Anime OST / Score",
       "playlists": [
         {
           "url": "http://79.111.119.111:8000/anime"
@@ -3392,7 +3392,7 @@
       "image": "http://radcap.ru/stylegraf/siberia-c.jpg"    },
     {
       "id": "slowcoresadcore",
-      "title": "Slowcore/Sadcore",
+      "title": "Slowcore / Sadcore",
       "playlists": [
         {
           "url": "http://213.141.131.10:8000/slowcore"
@@ -3402,7 +3402,7 @@
       "image": "http://radcap.ru/stylegraf/slowcore-c.jpg"    },
     {
       "id": "bebopbop",
-      "title": "Bebop/Bop",
+      "title": "Bebop / Bop",
       "playlists": [
         {
           "url": "http://79.120.12.130:8000/bebop"
@@ -3632,7 +3632,7 @@
       "image": "http://radcap.ru/stylegraf/classguitar-c.jpg"    },
     {
       "id": "enigmaticmysticpop",
-      "title": "Enigmatic/Mystic Pop",
+      "title": "Enigmatic / Mystic Pop",
       "playlists": [
         {
           "url": "http://213.141.131.10:8000/enigmatic"
@@ -3692,7 +3692,7 @@
       "image": "http://radcap.ru/stylegraf/sacred-c.jpg"    },
     {
       "id": "detroittechnotechhouse",
-      "title": "Detroit Techno/Tech House",
+      "title": "Detroit Techno / Tech House",
       "playlists": [
         {
           "url": "http://213.141.131.10:8000/detroittechno"
@@ -3772,7 +3772,7 @@
       "image": "http://radcap.ru/stylegraf/balearichouse-c.jpg"    },
     {
       "id": "c-popchinesepop",
-      "title": "C-Pop/Chinese Pop",
+      "title": "C-Pop (Chinese Pop)",
       "playlists": [
         {
           "url": "http://213.141.131.10:8000/cpop"
@@ -3842,7 +3842,7 @@
       "image": "http://radcap.ru/stylegraf/thrashblack-c.jpg"    },
     {
       "id": "undergroundtechnotechhouse",
-      "title": "Underground Techno/Tech House",
+      "title": "Underground Techno / Tech House",
       "playlists": [
         {
           "url": "http://213.141.131.10:8000/undergroundtechno"
@@ -3902,7 +3902,7 @@
       "image": "http://radcap.ru/stylegraf/forestpsytrance-c.jpg"    },
     {
       "id": "frenchhip-hoprap",
-      "title": "French Hip-Hop/Rap",
+      "title": "French Hip-Hop / Rap",
       "playlists": [
         {
           "url": "http://213.141.131.10:8000/frenchrap"
@@ -3962,7 +3962,7 @@
       "image": "http://radcap.ru/stylegraf/ukrap-c.jpg"    },
     {
       "id": "chillwavevaporwave",
-      "title": "Chillwave/Vaporwave",
+      "title": "Chillwave / Vaporwave",
       "playlists": [
         {
           "url": "http://79.111.119.111:8000/chillwave"
@@ -4032,7 +4032,7 @@
       "image": "http://radcap.ru/stylegraf/sonata-c.jpg"    },
     {
       "id": "chantsgregorianchants",
-      "title": "Chants/Gregorian Chants",
+      "title": "Chants / Gregorian Chants",
       "playlists": [
         {
           "url": "http://213.141.131.10:8000/chants"
@@ -4042,7 +4042,7 @@
       "image": "http://radcap.ru/stylegraf/chant-c.jpg"    },
     {
       "id": "turkishpoppoprock",
-      "title": "Turkish Pop/Pop Rock",
+      "title": "Turkish Pop / Pop Rock",
       "playlists": [
         {
           "url": "http://213.141.131.10:8000/turkishpop"
@@ -4082,7 +4082,7 @@
       "image": "http://radcap.ru/stylegraf/classavant-c.jpg"    },
     {
       "id": "minimalismpostminimalism",
-      "title": "Minimalism/Postminimalism",
+      "title": "Minimalism / Postminimalism",
       "playlists": [
         {
           "url": "http://213.141.131.10:8000/minimalism"
@@ -4122,7 +4122,7 @@
       "image": "http://radcap.ru/stylegraf/trumpet-c.jpg"    },
     {
       "id": "experimentalavantrock",
-      "title": "Experimental/Avant Rock",
+      "title": "Experimental / Avant Rock",
       "playlists": [
         {
           "url": "http://213.141.131.10:8000/avantrock"
@@ -4212,7 +4212,7 @@
       "image": "http://radcap.ru/stylegraf/folkpop-c.jpg"    },
     {
       "id": "oceaniaaustralia",
-      "title": "Oceanian /Australian Music",
+      "title": "Oceanian / Australian Music",
       "playlists": [
         {
           "url": "http://213.141.131.10:8000/oceania"
@@ -4272,7 +4272,7 @@
       "image": "http://radcap.ru/stylegraf/electrotech-c.jpg"    },
     {
       "id": "funkrockmetal",
-      "title": "Funk Rock/Metal",
+      "title": "Funk Rock / Metal",
       "playlists": [
         {
           "url": "http://213.141.131.10:8000/funkrock"
@@ -4312,7 +4312,7 @@
       "image": "http://radcap.ru/stylegraf/illbient-c.jpg"    },
     {
       "id": "jazzfusionmetal",
-      "title": "Jazz/Fusion Metal",
+      "title": "Jazz / Fusion Metal",
       "playlists": [
         {
           "url": "http://213.141.131.10:8000/jazzmetal"
@@ -4322,7 +4322,7 @@
       "image": "http://radcap.ru/stylegraf/jazzmetal-c.jpg"    },
     {
       "id": "medievalmetalrock",
-      "title": "Medieval Metal/Rock",
+      "title": "Medieval Metal / Rock",
       "playlists": [
         {
           "url": "http://213.141.131.10:8000/medievalmetal"
@@ -4332,7 +4332,7 @@
       "image": "http://radcap.ru/stylegraf/medievalmetal-c.jpg"    },
     {
       "id": "technotrancetechtrance",
-      "title": "Techno Trance/Techtrance",
+      "title": "Techno Trance / Techtrance",
       "playlists": [
         {
           "url": "http://213.141.131.10:8000/techtrance"
@@ -4342,7 +4342,7 @@
       "image": "http://radcap.ru/stylegraf/techtrance-c.jpg"    },
     {
       "id": "electroswingswinghouse",
-      "title": "Electro Swing/Swing House",
+      "title": "Electro Swing / Swing House",
       "playlists": [
         {
           "url": "http://213.141.131.10:8000/electroswing"
@@ -4352,7 +4352,7 @@
       "image": "http://radcap.ru/stylegraf/electroswing-c.jpg"    },
     {
       "id": "nightfullonpsytrance",
-      "title": "Night Full On/Psytrance",
+      "title": "Night Full On / Psytrance",
       "playlists": [
         {
           "url": "http://213.141.131.10:8000/nightpsytrance"
@@ -4372,7 +4372,7 @@
       "image": "http://radcap.ru/stylegraf/oldschhiphop-c.jpg"    },
     {
       "id": "reggaetoncubatonsalsaton",
-      "title": "Reggaeton/Cubaton/Salsaton",
+      "title": "Reggaeton / Cubaton / Salsaton / Latino...",
       "playlists": [
         {
           "url": "http://213.141.131.10:8000/reggaeton"
@@ -4382,7 +4382,7 @@
       "image": "http://radcap.ru/stylegraf/reggaeton-c.jpg"    },
     {
       "id": "cloudraptrillwave",
-      "title": "Cloud Rap/Trillwave",
+      "title": "Cloud Rap / Trillwave",
       "playlists": [
         {
           "url": "http://213.141.131.10:8000/cloudrap"
@@ -4402,7 +4402,7 @@
       "image": "http://radcap.ru/stylegraf/chicanorap-c.jpg"    },
     {
       "id": "maneleromanianpopfolk",
-      "title": "Manele/Romanian Pop Folk",
+      "title": "Manele / Romanian Pop Folk",
       "playlists": [
         {
           "url": "http://213.141.131.10:8000/manele"
@@ -4422,7 +4422,7 @@
       "image": "http://radcap.ru/stylegraf/acidrock-c.jpg"    },
     {
       "id": "bulgarianpop-folkethnopopchalga",
-      "title": "Bulgarian Pop-Folk/Ethnopop/Chalga",
+      "title": "Bulgarian Pop-Folk / Ethnopop / Chalga",
       "playlists": [
         {
           "url": "http://213.141.131.10:8000/chalga"
@@ -4432,7 +4432,7 @@
       "image": "http://radcap.ru/stylegraf/chalga-c.jpg"    },
     {
       "id": "darksynthdarksynthwave",
-      "title": "Darksynth/Dark Synthwave",
+      "title": "Darksynth / Dark Synthwave",
       "playlists": [
         {
           "url": "http://213.141.131.10:8002/darksynth"
@@ -4452,7 +4452,7 @@
       "image": "http://radcap.ru/stylegraf/gabber-c.jpg"    },
     {
       "id": "traditionalpopclassicpop",
-      "title": "Traditional Pop/Classic Pop",
+      "title": "Traditional Pop / Classic Pop",
       "playlists": [
         {
           "url": "http://213.141.131.10:8000/tradpop"
@@ -4632,7 +4632,7 @@
       "image": "http://radcap.ru/stylegraf/progelectronic-c.jpg"    },
     {
       "id": "twilightpsytrance",
-      "title": "Twilight/Psytrance",
+      "title": "Twilight / Psytrance",
       "playlists": [
         {
           "url": "http://79.120.12.130:8000/twilightpsy"
@@ -4642,7 +4642,7 @@
       "image": "http://radcap.ru/stylegraf/twilightpsy-c.jpg"    },
     {
       "id": "cantopophk-pop",
-      "title": "Cantopop/HK-Pop",
+      "title": "Cantopop / HK-Pop",
       "playlists": [
         {
           "url": "http://79.120.12.130:8000/cantopop"
@@ -4662,7 +4662,7 @@
       "image": "http://radcap.ru/stylegraf/dungeonsynth-c.jpg"    },
     {
       "id": "hi-techpsytrance",
-      "title": "Hi-Tech/Psytrance",
+      "title": "Hi-Tech / Psytrance",
       "playlists": [
         {
           "url": "http://79.120.12.130:8000/hitechpsy"
@@ -4742,7 +4742,7 @@
       "image": "http://radcap.ru/stylegraf/garagehouse-c.jpg"    },
     {
       "id": "melodicdoomdoomdeath",
-      "title": "Melodic Doom/Doom Death",
+      "title": "Melodic Doom / Doom Death",
       "playlists": [
         {
           "url": "http://79.120.12.130:8000/melodicdoom"
@@ -4782,7 +4782,7 @@
       "image": "http://radcap.ru/stylegraf/folkblackmet-c.jpg"    },
     {
       "id": "progressiveatmosphericbreaks",
-      "title": "Progressive/Atmospheric Breaks",
+      "title": "Progressive / Atmospheric Breaks",
       "playlists": [
         {
           "url": "http://79.120.12.130:8000/progbreaks"
@@ -4802,7 +4802,7 @@
       "image": "http://radcap.ru/stylegraf/folkdeathmet-c.jpg"    },
     {
       "id": "melodichousetechno",
-      "title": "Melodic House/Techno",
+      "title": "Melodic House / Techno",
       "playlists": [
         {
           "url": "http://79.120.12.130:8000/melodichouse"
@@ -4922,7 +4922,7 @@
       "image": "http://radcap.ru/stylegraf/rpi-c.jpg"    },
     {
       "id": "ghettobootyg-house",
-      "title": "Ghetto/Booty/G-House",
+      "title": "Ghetto / Booty / G-House",
       "playlists": [
         {
           "url": "http://79.111.14.76:8000/ghouse"
@@ -4942,7 +4942,7 @@
       "image": "http://radcap.ru/stylegraf/progrelated-c.jpg"    },
     {
       "id": "powerelectronicsdeathindustrial",
-      "title": "Power Electronics/Death Industrial",
+      "title": "Power Electronics / Death Industrial",
       "playlists": [
         {
           "url": "http://79.111.14.76:8000/powerelectronics"

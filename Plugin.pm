@@ -107,7 +107,7 @@ sub _feedHandler {
 
         # Traite les données comme avant
         if ($prefs->get('groupByGenre')) {
-            _parseChannelsWithGroupByGenre($client, $json->{'channels'}, $menu);
+            _parseChannelsWithGroupByGenre($client, _sortChannels($json->{'channels'}), $menu);
         }
         else {
             _parseChannels($client, _sortChannels($json->{'channels'}), $menu);
@@ -196,6 +196,8 @@ sub _sortChannels {
     my @sorted_channels;
     my $orderBy = $prefs->get('orderBy');
 
+    $log->warn("Order by is set to $orderBy");
+
     if ($orderBy eq 'title') {
         # sort alphabetically but case-insensitive
         @sorted_channels = sort { fc($a->{title}) cmp fc($b->{title}) } @$channels;
@@ -204,7 +206,6 @@ sub _sortChannels {
         # do not sort, use order as provided in channel feed
         @sorted_channels = @$channels;
     }
-    $log->warn("Order by is set to $orderBy");
 
     return \@sorted_channels;
 }
